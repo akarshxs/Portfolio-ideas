@@ -1,1321 +1,788 @@
-# 🎨 Portfolio Ideas Collection
+<div align="center">
 
-> A curated collection of **160+ developer portfolios** to inspire your next personal website. Browse real-world examples showcasing different tech stacks, design styles, and creative approaches to personal branding.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Portfolio%20Ideas&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=A%20curated%20collection%20of%20stunning%20developer%20portfolios&descAlignY=60&descSize=18" width="100%"/>
 
----
-
-## 📖 Introduction
-
-This README is auto-extracted from [portfolio-ideas.vercel.app](https://portfolio-ideas.vercel.app/portfolio.html) — an open-source community project maintained by [Victor Eke (Evavic44)](https://github.com/Evavic44/portfolio-ideas). Each entry includes the author name, live demo, repository link, tech stack, and a preview screenshot where available.
-
-Portfolios are grouped by primary technology to help you find inspiration relevant to your stack.
-
----
-
-## 📑 Table of Contents
-
-- [⚛️ React / Next.js](#️-react--nextjs)
-- [💚 Vue / Nuxt.js](#-vue--nuxtjs)
-- [🌐 HTML / CSS / JavaScript](#-html--css--javascript)
-- [🎬 GSAP / Animation-Heavy](#-gsap--animation-heavy)
-- [🌀 Three.js / WebGL](#-threejs--webgl)
-- [🚀 Gatsby](#-gatsby)
-- [🦩 Svelte / SvelteKit](#-svelte--sveltekit)
-- [🦕 Astro](#-astro)
-- [📦 Other Frameworks & Stacks](#-other-frameworks--stacks)
-
----
-
-## ⚛️ React / Next.js
-
----
-
-## 🚀 Victor Eke
-
-- **Author:** Victor Eke
-- **Live Demo:** [victoreke.com](https://victoreke.com)
-- **Repository:** [GitHub](https://github.com/evavic44/victoreke.com)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-- **Description:** Next.js portfolio with Sanity CMS, TypeScript, Tailwind CSS, and Umami analytics, deployed on Vercel.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/62628408/618b6f06-1f3b-41e3-861f-6463ae5f0f81)
-
----
-
-## 🚀 Kent C. Dodds
-
-- **Author:** Kent C. Dodds
-- **Live Demo:** [kentcdodds.com](https://kentcdodds.com)
-- **Repository:** [GitHub](https://github.com/kentcdodds/kentcdodds.com)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Remix](https://img.shields.io/badge/Remix-000?logo=remix) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
-- **Description:** Full-stack blog and portfolio built with Remix, Prisma, Redis, and Postgres.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/169700953-63aaedb6-4784-4f42-a356-84d6506f8bf3.png)
-
----
-
-## 🚀 Brittany Chiang
-
-- **Author:** Brittany Chiang
-- **Live Demo:** [v4.brittanychiang.com](https://v4.brittanychiang.com/)
-- **Repository:** [GitHub](https://github.com/bchiang7/v4)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white)
-- **Description:** One of the most starred developer portfolios on GitHub. Clean, minimal design with React and Gatsby.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/163446015-fc50d2c1-3cee-42fb-b80a-b692ad7eef1e.png)
-
----
-
-## 🚀 Braydon Coyer
-
-- **Author:** Braydon Coyer
-- **Live Demo:** [braydoncoyer.dev](https://braydoncoyer.dev/)
-- **Repository:** [GitHub](https://github.com/braydoncoyer/braydoncoyer.dev)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-- **Description:** Modern developer blog with Notion API integration and Supabase backend.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/163818384-cebba9c4-e0ac-4172-bced-7011837bb292.png)
-
----
-
-## 🚀 Tania Rascia
-
-- **Author:** Tania Rascia
-- **Live Demo:** [taniarascia.com](https://taniarascia.com)
-- **Repository:** [GitHub](https://github.com/taniarascia/taniarascia.com)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-- **Description:** Clean developer blog and portfolio with Gatsby, CSS, and Netlify deployment.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/163881127-a67615f6-2157-4478-a4b5-46b067a4bb9f.png)
-
----
-
-## 🚀 Thang Huu Vu
-
-- **Author:** Thang Huu Vu
-- **Live Demo:** [thvu.dev](https://www.thvu.dev/)
-- **Repository:** [GitHub](https://github.com/ThangHuuVu/thvu-blog)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
-- **Description:** Personal blog and portfolio with Next.js, GraphQL, and Tailwind CSS.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/164990543-ab28fa6b-1c39-4306-bd90-565470dd896b.png)
-
----
-
-## 🚀 Aaron Shapiro
-
-- **Author:** Aaron Shapiro
-- **Live Demo:** [aaron.mn](https://www.aaron.mn)
-- **Repository:** [GitHub](https://github.com/aarshap/aaron.mn)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white)
-- **Description:** Minimal portfolio built with React, Gatsby, and Styled Components, deployed on Netlify.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/169705836-7adab895-edc8-41c0-85c0-6ad53e79ad17.png)
-
----
-
-## 🚀 Peter Tait
-
-- **Author:** Peter Tait
-- **Live Demo:** [petertait.com](https://petertait.com)
-- **Repository:** [GitHub](https://github.com/petertait/petertait.com)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
-- **Description:** React-based portfolio with Radium styling and Netlify deployment.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/169706070-12936622-7740-4e67-a764-aa3594bab506.png)
-
----
-
-## 🚀 Rick Waalders
-
-- **Author:** Rick Waalders
-- **Live Demo:** [rickwaalders.com](https://www.rickwaalders.com)
-- **Repository:** N/A
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
-- **Description:** Creative portfolio with Next.js, GSAP animations, and Webpack bundling.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/169706503-e0065c41-b88d-43bb-9175-dfd48cc6e324.png)
-
----
-
-## 🚀 Raj Savaliya
-
-- **Author:** Raj Savaliya
-- **Live Demo:** [rajsavaliya.com](https://www.rajsavaliya.com/)
-- **Repository:** [GitHub](https://github.com/SRX9/portfoliosrx9)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Modern Next.js portfolio with TypeScript and Tailwind CSS.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/46242040/171985853-dbecac5c-fc94-4050-9f2f-5dba1e95c7bb.png)
-
----
-
-## 🚀 Benaiah Alumona
-
-- **Author:** Benaiah Alumona
-- **Live Demo:** [benrobo.vercel.app](https://benrobo.vercel.app)
-- **Repository:** [GitHub](https://github.com/benrobo/portfolio-v3)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Vibrant portfolio with Reactjs, TailwindCSS, Next.js, and EmailJS.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/65370456/172291784-f6e5453c-f46b-43c1-b509-50dea24aef41.png)
-
----
-
-## 🚀 Anish De
-
-- **Author:** Anish De
-- **Live Demo:** [anishde.dev](https://anishde.dev)
-- **Repository:** [GitHub](https://github.com/AnishDe12020/portfolio)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Portfolio with Next.js, TypeScript, Tailwind CSS, and Content Layer.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/51731966/172062656-0b29d77e-a7b3-4e60-aa1b-5667a2bb009c.png)
-
----
-
-## 🚀 Serdar Gökhan
-
-- **Author:** Serdar Gökhan
-- **Live Demo:** [serdargokhan.dev](https://serdargokhan.dev)
-- **Repository:** [GitHub](https://github.com/serdargokhan/portfolio-website-v1)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Clean Next.js portfolio with TypeScript and TailwindCSS.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/55996319/172113874-d9ef07c2-beef-4f11-b471-c68507f45db6.png)
-
----
-
-## 🚀 Phong Nguyen
-
-- **Author:** Phong Nguyen
-- **Live Demo:** [napthedev.com](https://napthedev.com)
-- **Repository:** [GitHub](https://github.com/napthedev/portfolio-next)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer)
-- **Description:** Portfolio with Nextjs, Tailwind, Framer Motion, and Locomotive Scroll.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/88878684/172379242-6d063948-767d-40fd-a072-30cf875a91bc.png)
-
----
-
-## 🚀 Ariful Alam
-
-- **Author:** Ariful Alam
-- **Live Demo:** [arifszn.github.io/gitprofile](https://arifszn.github.io/gitprofile)
-- **Repository:** [GitHub](https://github.com/arifszn/gitprofile)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** GitHub-powered portfolio generator using React, Vite, and Tailwind CSS.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/45073703/172781247-64b27deb-777e-48ec-b409-d1547bd7f96f.png)
-
----
-
-## 🚀 Dale Larroder
-
-- **Author:** Dale Larroder
-- **Live Demo:** [dalelarroder.com](https://dalelarroder.com)
-- **Repository:** [GitHub](https://github.com/dlarroder/dalelarroder)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Next.js portfolio with Preact, TypeScript, Tailwind, and MDX.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/52998821/172965944-b25832f5-53a1-4833-a651-26d5ca0cdb20.png)
-
----
-
-## 🚀 Lee Robinson
-
-- **Author:** Lee Robinson
-- **Live Demo:** [leerob.io](https://leerob.io/)
-- **Repository:** [GitHub](https://github.com/leerob/leerob.io)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
-- **Description:** Widely-referenced developer portfolio with Next.js, PlanetScale, Prisma, Sanity, and Vercel.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/177008471-0421b1f6-14c1-4c02-9e96-68e9cda604cf.png)
-
----
-
-## 🚀 Lazar Nikolov
-
-- **Author:** Lazar Nikolov
-- **Live Demo:** [nikolovlazar.com](https://nikolovlazar.com)
-- **Repository:** [GitHub](https://github.com/nikolovlazar/nikolovlazar.com)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?logo=chakraui&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
-- **Description:** Portfolio with Next.js, Chakra UI, MDX, Prisma, and PlanetScale.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/5396211/176441285-ec27b56f-c3b8-4f16-8900-11159bd133a8.png)
-
----
-
-## 🚀 Reuben Rapose
-
-- **Author:** Reuben Rapose
-- **Live Demo:** [reubence.com](https://reubence.com)
-- **Repository:** [GitHub](https://github.com/reubence/reubence)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Feature-rich portfolio with Next.js, MDX, Mailchimp newsletter, and Giscus comments.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/54074556/176431686-61ebae05-7555-49d9-9736-94038afe9968.png)
-
----
-
-## 🚀 M. Shahanwaz
-
-- **Author:** M. Shahanwaz
-- **Live Demo:** [mshahanwaz.me](https://mshahanwaz.me)
-- **Repository:** [GitHub](https://github.com/mshahanwaz/portfolio-v4)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Portfolio with HTML, CSS, JavaScript, React, Next.js, and Nodemailer.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/57594421/176514845-cca4bf4b-42a4-4ec9-b7f2-21e41f4fe543.png)
-
----
-
-## 🚀 Hamish Williams
-
-- **Author:** Hamish Williams
-- **Live Demo:** [hamishw.com](https://hamishw.com/)
-- **Repository:** [GitHub](https://github.com/HamishMW/portfolio)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs)
-- **Description:** Visually stunning portfolio combining React, Three.js, and Next.js for immersive 3D effects.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/71810927/185857302-157bc072-8dc0-46ac-a89a-b2d0a40f06cb.png)
-
----
-
-## 🚀 Çağlar Turalı
-
-- **Author:** Çağlar Turalı
-- **Live Demo:** [turali.js.org](https://turali.js.org/)
-- **Repository:** [GitHub](https://github.com/caglarturali/caglarturali.github.io)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-- **Description:** Minimal React + TypeScript portfolio hosted on GitHub Pages.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/71810927/185857785-a1da121c-15fe-48dc-b242-e79811c676f7.png)
-
----
-
-## 🚀 Matthias Kretschmann
-
-- **Author:** Matthias Kretschmann
-- **Live Demo:** [matthiaskretschmann.com](https://matthiaskretschmann.com/)
-- **Repository:** [GitHub](https://github.com/kremalicious/portfolio)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white)
-- **Description:** Polished React + Gatsby developer portfolio.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/71810927/185856268-aa8375e6-e5ef-42cd-8261-1156cfe30f51.png)
-
----
-
-## 🚀 Brayden
-
-- **Author:** Brayden
-- **Live Demo:** [braydentw.io](https://braydentw.io/)
-- **Repository:** [GitHub](https://github.com/BraydenTW/braydentw.io)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Clean React/Next.js portfolio with TailwindCSS.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/71810927/185853762-ec9618d3-182c-4f42-9e80-0c3935fefb61.png)
-
----
-
-## 🚀 Ben (NuroDev)
-
-- **Author:** Ben
-- **Live Demo:** [nuro.dev](https://nuro.dev/)
-- **Repository:** [GitHub](https://github.com/NuroDev/nuro.dev)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Minimalist Next.js + TailwindCSS developer portfolio.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/71810927/185855136-99dfebf8-5a4b-45b8-82e9-5416390eea23.png)
-
----
-
-## 🚀 Payton Pierce
-
-- **Author:** Payton Pierce
-- **Live Demo:** [paytonpierce.dev](https://paytonpierce.dev)
-- **Repository:** [GitHub](https://github.com/paytonjewell/paytonpierce.dev)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
-- **Description:** Developer portfolio built with ReactJS and Material UI.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/18350557/176930938-fc5fab09-c45c-4c4c-a85a-0a3cdd9a4e81.png)
-
----
-
-## 🚀 Walter Teng
-
-- **Author:** Walter Teng
-- **Live Demo:** [walterteng.com](https://walterteng.com/)
-- **Repository:** [GitHub](https://github.com/davzoku/personal-website-v1)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white)
-- **Description:** Personal portfolio with React, TypeScript, Gatsby, and Netlify.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/16046667/181013137-42c1cbee-351b-4582-943d-85a742fe0332.png)
-
----
-
-## 🚀 Maggie Appleton
-
-- **Author:** Maggie Appleton
-- **Live Demo:** [maggieappleton.com](https://maggieappleton.com/)
-- **Repository:** [GitHub](https://github.com/MaggieAppleton/maggieappleton.com-V2)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx)
-- **Description:** Rich digital garden / portfolio with React, Next.js, MDX, Algolia Search, and Framer Motion.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/18528418/190361290-ec86e3f1-d6a2-49c2-a893-225cc92d1247.png)
-
----
-
-## 🚀 Theodorus Clarence
-
-- **Author:** Theodorus Clarence
-- **Live Demo:** [theodorusclarence.com](https://theodorusclarence.com/)
-- **Repository:** [GitHub](https://github.com/theodorusclarence/theodorusclarence.com)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Feature-rich blog/portfolio with Next.js, TypeScript, Tailwind CSS, MDX Bundler, and Prisma.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/219413309-8a34a630-9834-4f35-b973-c3c947ccede2.png)
-
----
-
-## 🚀 Delba Oliveira
-
-- **Author:** Delba Oliviera
-- **Live Demo:** [delba.dev](https://delba.dev/)
-- **Repository:** [GitHub](https://github.com/delbaoliveira/website)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
-- **Description:** Modern portfolio with Next.js, MDX, Tailwind, Prisma, and TypeScript.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/219158553-bc286921-2142-41e6-9167-88ef5b1348c1.png)
-
----
-
-## 🚀 Victor Williams
-
-- **Author:** Victor Williams
-- **Live Demo:** [victorwilliams.me](https://www.victorwilliams.me/)
-- **Repository:** [GitHub](https://github.com/victorcodess/folio-v1)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer)
-- **Description:** Highly polished portfolio with React, Next.js, TypeScript, TailwindCSS, Framer Motion, and GSAP.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/230361704-ceb6b270-9148-4518-9578-53681cf49fe2.png)
-
----
-
-## 🚀 Ashish
-
-- **Author:** Ashish
-- **Live Demo:** [asrvd.me](https://asrvd.me/)
-- **Repository:** [GitHub](https://github.com/asrvd/asrvd.me)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
-- **Description:** Full-stack portfolio with Next.js, tRPC, Tailwind CSS, TypeScript, NextAuth.js, and Prisma.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/236580922-4da135d0-086d-4411-bfbf-60e573dbcb53.png)
-
----
-
-## 🚀 Josh Comeau
-
-- **Author:** Josh Comeau
-- **Live Demo:** [joshwcomeau.com](https://www.joshwcomeau.com/)
-- **Repository:** N/A
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white) ![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer)
-- **Description:** Celebrated developer educator's portfolio with interactive animations, MDX, MongoDB, and Vercel.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/53873209/dacfef81-f090-4f54-885f-c8baec247351)
-
----
-
-## 🚀 Anurag Hazra
-
-- **Author:** Anurag Hazra
-- **Live Demo:** [anuraghazra.dev](https://anuraghazra.dev/)
-- **Repository:** [GitHub](https://github.com/anuraghazra/anuraghazra.github.io)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white)
-- **Description:** Well-crafted portfolio with React, Gatsby, Styled-components, Cypress, Jest, and TravisCI.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/74038190/221430160-5f280f15-ba4d-43a8-ace6-b3162855aea1.png)
-
----
-
-## 🚀 Jahir Fiquitiva
-
-- **Author:** Jahir Fiquitiva
-- **Live Demo:** [jahir.dev](https://jahir.dev/)
-- **Repository:** [GitHub](https://github.com/jahirfiquitiva/jahir.dev)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Full-featured Next.js portfolio with Tailwind CSS, MDX, contentlayer, PlanetScale, and Vercel.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/228767619-d48218cd-09d8-4886-a6b0-72e23f77a71e.PNG)
-
----
-
-## 🚀 Maxime Heckel
-
-- **Author:** Maxime Heckel
-- **Live Demo:** [maximeheckel.com](https://maximeheckel.com/)
-- **Repository:** [GitHub](https://github.com/MaximeHeckel/blog.maximeheckel.com)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx)
-- **Description:** Beautiful design-focused blog/portfolio with Next.js, TypeScript, Stitches/CSS, and MDX.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/209755866-1407b7f2-bb47-44ec-8fe6-9ce92c84dcda.png)
-
----
-
-## 🚀 Rishi Mohan
-
-- **Author:** Rishi Mohan
-- **Live Demo:** [rishimohan.me](https://rishimohan.me)
-- **Repository:** [GitHub](https://github.com/rishimohan/rishimohan.me)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer)
-- **Description:** Clean Next.js portfolio with TailwindCSS and Framer Motion animations.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/46662771/210183301-599c1add-f507-4626-8912-b55ecf565614.png)
-
----
-
-## 🚀 Raphaël Chelly
-
-- **Author:** Raphaël Chelly
-- **Live Demo:** [raphaelchelly.com](https://www.raphaelchelly.com)
-- **Repository:** [GitHub](https://github.com/raphaelchelly/raph_www)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Elegant Next.js and TailwindCSS portfolio deployed on Vercel.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/46662771/210182852-c316dc4e-c02a-436b-a526-53f2bdfe99a8.png)
-
----
-
-## 🚀 Daniel Cranney
-
-- **Author:** Daniel Cranney
-- **Live Demo:** [danielcranney.com](https://www.danielcranney.com/)
-- **Repository:** [GitHub](https://github.com/danielcranney/portfolio)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Portfolio with Next.js, TailwindCSS, and Vercel.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/211936079-1cbf1c5e-4025-4c38-a69f-d2094f5af907.png)
-
----
-
-## 🚀 Kaung Myat Kyaw
-
-- **Author:** Kaung Myat Kyaw
-- **Live Demo:** [barry121.com](https://barry121.vercel.app/)
-- **Repository:** [GitHub](https://github.com/Rhaegar121/Portfolio)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Creative portfolio combining ReactJS, Three.js, and TailwindCSS.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/111948881/e6ba8f70-9b7c-41f6-889f-3af1255186ac)
-
----
-
-## 💚 Vue / Nuxt.js
-
----
-
-## 🚀 Olaolu Olawuyi
-
-- **Author:** Olaolu Olawuyi
-- **Live Demo:** [olaolu.dev](https://olaolu.dev)
-- **Repository:** [GitHub](https://github.com/whizkydee/olaolu.dev)
-- **Tech Stack:** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
-- **Description:** Creative portfolio built with VueJS, JavaScript, HTML, Styled-components, and Sass.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/171729441-dee07db1-0c6e-4222-b5ab-9e9b0b4bd735.png)
-
----
-
-## 🚀 Jeferson Brito
-
-- **Author:** Jeferson Brito
-- **Live Demo:** [jefersonsilva.me](https://www.jefersonsilva.me/)
-- **Repository:** [GitHub](https://github.com/jeferson-sb/portfolio)
-- **Tech Stack:** ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-- **Description:** Portfolio built with Vue 3.0 and Vite.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/30840709/172082704-87e2a4e4-4573-42e3-b953-b1bcb36f43ad.png)
-
----
-
-## 🚀 Micah Lindley
-
-- **Author:** Micah Lindley
-- **Live Demo:** [micahlindley.com](https://micahlindley.com)
-- **Repository:** [GitHub](https://github.com/micahlt/micahlt.github.io)
-- **Tech Stack:** ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-- **Description:** Portfolio built with Vue 3 and Vite.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/86574651/172486974-7718d5b2-0386-477c-a912-21879def00c3.png)
-
----
-
-## 🚀 Hisami Kurita
-
-- **Author:** Hisami Kurita
-- **Live Demo:** [hsmkrt1996.com](https://hsmkrt1996.com/)
-- **Repository:** [GitHub](https://github.com/hisamikurita/hisamikurita-portfoliosite)
-- **Tech Stack:** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
-- **Description:** Stunning portfolio with Vue.js, Nuxt.js, SCSS, ThreeJS, GSAP, and imagesLoaded.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/175480204-5de0a83a-2f44-4c87-b230-98387847dce5.jpg)
-
----
-
-## 🚀 Anthony Fu
-
-- **Author:** Anthony Fu
-- **Live Demo:** [antfu.me](https://antfu.me/)
-- **Repository:** [GitHub](https://github.com/antfu/antfu.me)
-- **Tech Stack:** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-- **Description:** Vue.js portfolio with Markdown and TypeScript by the prolific open-source developer.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/189466543-8297ec23-92e1-445d-8b26-dc2f38e73dc9.png)
-
----
-
-## 🚀 Ara Oladipo
-
-- **Author:** Ara Oladipo
-- **Live Demo:** [araoladipo.tech](https://araoladipo.tech/)
-- **Repository:** [GitHub](https://github.com/Ara-O/Portfolio-Website)
-- **Tech Stack:** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Creative portfolio combining HTML, CSS, JavaScript, Vue.js, and Spline3D.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/67078991/189193913-3e351d62-8515-47cd-9069-c449b0c81a77.png)
-
----
-
-## 🚀 Moe Dayraki
-
-- **Author:** Moe Dayraki
-- **Live Demo:** [moe.dayrakiarts.com](https://moe.dayrakiarts.com)
-- **Repository:** [GitHub](https://github.com/moedayraki/moedayraki.github.io)
-- **Tech Stack:** ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-- **Description:** Full-featured Vue 3 portfolio with Vite, Cypress, Tailwindcss, TypeScript, Pinia, and Primevue.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/54773679/191480771-849128cd-4b2c-4283-bb46-b7baa7a35f0a.jpg)
-
----
-
-## 🚀 Greg Ives
-
-- **Author:** Greg Ives
-- **Live Demo:** [gregives.co.uk](https://www.gregives.co.uk)
-- **Repository:** [GitHub](https://github.com/gregives/gregives.co.uk)
-- **Tech Stack:** ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
-- **Description:** Portfolio with Vue, NuxtJS, SASS, and Netlify deployment.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/227514948-40cb969e-f88c-4a83-8338-aeebaf44db58.png)
-
----
-
-## 🚀 Ruben Kuipers
-
-- **Author:** Ruben Kuipers
-- **Live Demo:** [rubenkuipers.design](https://rubenkuipers.design/)
-- **Repository:** N/A
-- **Tech Stack:** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Portfolio with Vue.js, Nuxt.js, Tailwind CSS, Scroll Reveal, Google Tag Manager, and Analytics.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/18528418/190115658-9fee276a-b79c-4a82-aaba-19e63c3e625d.png)
-
----
-
-## 🚀 Anuoluwapo Abolarin
-
-- **Author:** Anuoluwapo Abolarin
-- **Live Demo:** [anuoluwapo.xyz](https://anuoluwapo.xyz/)
-- **Repository:** [GitHub](https://github.com/Anu-oluwapo/portfolio-v2)
-- **Tech Stack:** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-- **Description:** Portfolio with VueJS, SCSS, GSAP animations, and Vite.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/231068477-13d011fc-aac4-466a-8d18-bbcb41a81025.png)
-
----
-
-## 🚀 Eliaz LR (v3)
-
-- **Author:** Eliaz LR
-- **Live Demo:** [eliaz-lr.dev](https://eliaz-lr.dev/)
-- **Repository:** [GitHub](https://github.com/Eliaz-LR/portfolio-v3)
-- **Tech Stack:** ![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Portfolio built with Astro, TailwindCSS, Vue, and DaisyUI.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/53873209/e41e2220-1b2e-48c1-ae91-2ab341d5c643)
-
----
-
-## 🌐 HTML / CSS / JavaScript
-
----
-
-## 🚀 Jemima Abu
-
-- **Author:** Jemima Abu
-- **Live Demo:** [jemimaabu.com](https://jemimaabu.com)
-- **Repository:** [GitHub](https://github.com/jemimaabu/portfolio)
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Clean and elegant portfolio built with pure HTML, CSS, and JavaScript.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/164337756-03930aad-4702-4926-ba58-c388c06de187.png)
-
----
-
-## 🚀 Aditya Vikram
-
-- **Author:** Aditya Vikram
-- **Live Demo:** [people.umass.edu/avsingh](https://people.umass.edu/avsingh)
-- **Repository:** [GitHub](https://github.com/AVS1508/My-Alternate-Portfolio-Website)
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** University-hosted developer portfolio using vanilla HTML, CSS, and JavaScript.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/164990973-ddb830bf-c3d3-4ed6-982a-9f137ff01b07.png)
-
----
-
-## 🚀 Dejan Markovic
-
-- **Author:** Dejan Markovic
-- **Live Demo:** [dejan.works](https://www.dejan.works)
-- **Repository:** N/A
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
-- **Description:** Design-heavy portfolio using HTML, CSS, JavaScript, and jQuery.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/165805667-b0946e79-8ac2-44a1-aaca-f31090ea97e6.png)
-
----
-
-## 🚀 Community Pro
-
-- **Author:** Community Pro
-- **Live Demo:** [cpro-portfolio-html.netlify.app](https://cpro-portfolio-html.netlify.app)
-- **Repository:** [GitHub](https://github.com/CommunityPro/portfolio-html)
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Open-source community portfolio template built in vanilla HTML, CSS, and JavaScript.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/170606950-2eeec46f-f0c0-424d-9937-c0377fab1870.png)
-
----
-
-## 🚀 Leonel Ngoya
-
-- **Author:** Leonel Ngoya
-- **Live Demo:** [lndev.me](https://lndev.me)
-- **Repository:** [GitHub](https://github.com/ln-dev7)
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Clean frontend portfolio using HTML, CSS, and JavaScript.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/53873209/8c34c73d-af10-4ae8-bc71-236af3851e55)
-
----
+<br/>
 
-## 🚀 Williams Samuel
+[![Portfolios](https://img.shields.io/badge/Portfolios-200%2B-blueviolet?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Evavic44/portfolio-ideas)
+[![Stars](https://img.shields.io/github/stars/Evavic44/portfolio-ideas?style=for-the-badge&logo=star&color=gold)](https://github.com/Evavic44/portfolio-ideas/stargazers)
+[![Forks](https://img.shields.io/github/forks/Evavic44/portfolio-ideas?style=for-the-badge&logo=git&color=orange)](https://github.com/Evavic44/portfolio-ideas/network)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-- **Author:** Williams Samuel
-- **Live Demo:** [williamssam.netlify.app](https://williamssam.netlify.app/)
-- **Repository:** [GitHub](https://github.com/williamssam/My-Portfolio)
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Simple portfolio site using HTML, CSS, and Javascript.
-- **Preview:** ![Preview](https://github.com/williamssam/My-Portfolio/raw/main/screenshot.jpg)
+<br/>
 
----
-
-## 🚀 Daniel Ezekiel
-
-- **Author:** Daniel Ezekiel
-- **Live Demo:** [danielezekiel.me](https://danielezekiel.me/)
-- **Repository:** [GitHub](https://github.com/Daniel-Ezekiel/Portfolio-Website)
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Minimalist portfolio built with HTML, CSS, and JavaScript.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/46662771/196419585-4faaf914-3681-402f-8f31-a196b450d667.png)
-
----
-
-## 🚀 Franklin Ohaegbulam
-
-- **Author:** Franklin Ohaegbulam
-- **Live Demo:** [frankiefab.com](https://frankiefab.com)
-- **Repository:** [GitHub](https://github.com/frankiefab100/frankiefab.tech)
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Developer and technical writer portfolio using vanilla web technologies.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/46662771/195562343-cd7e2407-949e-4dba-813d-af6855b17e41.png)
-
----
-
-## 🚀 Pyae Sone
-
-- **Author:** Pyae Sone
-- **Live Demo:** [pyaesonepsn.github.io](https://pyaesonepsn.github.io/portfolio-project/)
-- **Repository:** [GitHub](https://github.com/pyaesonepsn/portfolio-project)
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Simple, elegant HTML/CSS/JavaScript portfolio.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/99592123/186507689-9342132b-ff92-4883-b944-511ba3fef734.png)
-
----
-
-## 🚀 Cassidy Williams
-
-- **Author:** Cassidy Williams
-- **Live Demo:** [cassidoo.co](https://cassidoo.co/)
-- **Repository:** N/A
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Fun and personality-driven portfolio using HTML, CSS, and JavaScript.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/228766009-832d7b30-c675-42a8-9a0c-445d8a8be8fb.png)
-
----
-
-## 🚀 Lynn Fisher
-
-- **Author:** Lynn Fisher
-- **Live Demo:** [lynnandtonic.com](https://lynnandtonic.com/)
-- **Repository:** [GitHub](https://github.com/lynnandtonic/lynnandtonic.com)
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SVG](https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=black)
-- **Description:** Highly creative portfolio with HTML5, CSS, JavaScript, and SVG — famous for its yearly redesigns.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/88075256/220362800-fe33d26e-8b09-4d29-9be8-b27aef020b01.png)
-
----
-
-## 🚀 Daniel Wisky
-
-- **Author:** Daniel Wisky
-- **Live Demo:** [danielwisky.com.br](https://danielwisky.com.br/)
-- **Repository:** [GitHub](https://github.com/danielwisky/danielwisky.github.io)
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Clean HTML, CSS, and JavaScript portfolio.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/2626931/227245573-e5751c40-9d59-4b44-b697-e2b28bff4e6a.png)
-
----
-
-## 🎬 GSAP / Animation-Heavy
-
----
-
-## 🚀 Rekhchand Sahu
-
-- **Author:** Rekhchand Sahu
-- **Live Demo:** [rekhchandsahu.com](https://rekhchandsahu.com)
-- **Repository:** N/A
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
-- **Description:** Animation-rich portfolio using React, Gatsby, Preact, and GSAP.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/164760564-3c749e0f-122c-40cb-9b28-112410227874.png)
-
----
-
-## 🚀 George Francis
-
-- **Author:** George Francis
-- **Live Demo:** [georgefrancis.dev](https://georgefrancis.dev)
-- **Repository:** N/A
-- **Tech Stack:** ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Visually delightful portfolio with GSAP animations, hosted on Netlify.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/169704464-ed5ccfbd-f10b-47fa-820f-389466a4f4cf.png)
-
----
-
-## 🚀 Adeola Adeoti
-
-- **Author:** Adeola Adeoti
-- **Live Demo:** [adeolaadeoti.site](https://www.adeolaadeoti.site)
-- **Repository:** [GitHub](https://github.com/adeolaadeoti/adeolaadeoti-v2)
-- **Tech Stack:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
-- **Description:** Animation-focused portfolio with TypeScript, GSAP, Node.js, Next.js, and SCSS.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/165801986-100e5b52-e8b6-4346-ad83-34c4b5411d94.png)
-
----
-
-## 🚀 Deidre Driscoll
-
-- **Author:** Deidre Driscoll
-- **Live Demo:** [deidredriscoll.com](https://deidredriscoll.com)
-- **Repository:** N/A
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
-- **Description:** Polished portfolio with HTML, JavaScript, CSS, and GSAP animations.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/169664358-7b8c417c-6e9b-4f90-8b60-00d0a79a960d.png)
-
----
-
-## 🚀 Israel Mitolu
-
-- **Author:** Israel Mitolu
-- **Live Demo:** [mitolu.dev](https://mitolu.dev)
-- **Repository:** [GitHub](https://github.com/israelmitolu/premier-portfolio)
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
-- **Description:** Award-style portfolio using HTML, SASS, JavaScript, and GSAP.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/171987187-5a8cd378-13c0-4111-aab8-b76f01039992.png)
-
----
-
-## 🚀 Oluwadare Oluwaseyi
-
-- **Author:** Oluwadare Oluwaseyi
-- **Live Demo:** [seyi.dev](https://www.seyi.dev)
-- **Repository:** [GitHub](https://github.com/oluwadareseyi/folio-v2)
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
-- **Description:** Creative, animation-driven portfolio with HTML, SCSS, JavaScript, and GSAP.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/167304333-0f446a58-b279-4d19-8f01-320be629227c.png)
-
----
-
-## 🚀 Dennis Snellenberg
-
-- **Author:** Dennis Snellenberg
-- **Live Demo:** [dennissnellenberg.com](https://dennissnellenberg.com/)
-- **Repository:** N/A
-- **Tech Stack:** ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-- **Description:** Highly polished agency-style portfolio with GSAP, JQuery, PHP, and VueJS.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/175517075-23ee52df-8724-4772-a46d-d3ff28c5e30a.png)
-
----
-
-## 🚀 Jatin Kamboj
-
-- **Author:** Jatin Kamboj
-- **Live Demo:** [jatinkamboj.me](https://jatinkamboj.me/)
-- **Repository:** N/A
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
-- **Description:** Animated portfolio using HTML, CSS, JavaScript, and GreenSock (GSAP).
-- **Preview:** ![Preview](https://i.imgur.com/TxglVle.png)
-
----
-
-## 🌀 Three.js / WebGL
-
----
-
-## 🚀 Bruno Simon
-
-- **Author:** Bruno Simon
-- **Live Demo:** [bruno-simon.com](https://bruno-simon.com)
-- **Repository:** [GitHub](https://github.com/brunosimon/folio-2019)
-- **Tech Stack:** ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Legendary interactive 3D portfolio where you drive a car through a world. Built with Three.js and GSAP.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/167303510-f39c3350-4273-4f6f-b28e-12f095f2af7a.png)
-
----
-
-## 🚀 Guillaume Gouessan
-
-- **Author:** Guillaume Gouessan
-- **Live Demo:** [guillaumegouessan.com](https://guillaumegouessan.com/)
-- **Repository:** [GitHub](https://github.com/superguigui/guillaumegouessan.com)
-- **Tech Stack:** ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Creative developer portfolio with GSAP, Three.js, and JavaScript.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/71810927/173070183-c0d30acf-2199-47a3-b0dd-919998e45e69.png)
-
----
-
-## 🚀 Patrick Heng
-
-- **Author:** Patrick Heng
-- **Live Demo:** [patrickheng.com](https://patrickheng.com/)
-- **Repository:** N/A
-- **Tech Stack:** ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs)
-- **Description:** Visually rich portfolio with Nuxt.js, GSAP, and Three.js.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/71810927/173091834-946abebd-d814-4b52-be4e-49b6dc9cd521.png)
-
----
-
-## 🚀 Isaac Fayemi
-
-- **Author:** Isaac Fayemi
-- **Live Demo:** [fayemi.design](https://www.fayemi.design/)
-- **Repository:** N/A
-- **Tech Stack:** ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
-- **Description:** Immersive portfolio with Vanilla JS, Pug, Prismic CMS, SCSS, Three.js, and GSAP.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/175786263-413a941c-99c8-4ac5-a54f-5af3cecdcf33.png)
-
----
-
-## 🚀 Jesse Zhou
-
-- **Author:** Jesse Zhou
-- **Live Demo:** [jesse-zhou.com](https://jesse-zhou.com/)
-- **Repository:** [GitHub](https://github.com/enderh3art/Ramen-Shop)
-- **Tech Stack:** ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Immersive 3D ramen shop experience built with Three.js, GLSL, Howler.js, GSAP, and Node.js.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/88075256/221340025-0e357cf8-61e3-461a-a969-11940d9c2ff1.png)
-
----
-
-## 🚀 James Warner
-
-- **Author:** James Warner
-- **Live Demo:** [jmswrnr.com](https://jmswrnr.com/)
-- **Repository:** N/A
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=white)
-- **Description:** Polished portfolio with Next.js, Sanity, CSS, Preact, Node.js, and Three.js.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/209755001-3a603dcd-25bc-44b5-93a7-a5bc6cd44727.png)
-
----
-
-## 🚀 Byunggeun Cho
-
-- **Author:** Byunggeun Cho
-- **Live Demo:** [bbangjo.kr](https://bbangjo.kr)
-- **Repository:** [GitHub](https://github.com/bbangjooo/buffalo)
-- **Tech Stack:** ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Creative portfolio combining HTML, CSS, JavaScript, TypeScript, Three.js, and Blender.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/51329156/208891221-6e4dbd09-06cb-4568-abc8-98128f6b1bca.png)
-
----
-
-## 🚀 Danny Garcia
-
-- **Author:** Danny Garcia
-- **Live Demo:** [danny-garcia.com](https://danny-garcia.com/)
-- **Repository:** [GitHub](https://github.com/dannygarcia/dannygarcia.github.com)
-- **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-- **Description:** Visually striking portfolio with HTML5, CSS, JavaScript, TypeScript, GLSL, and Netlify.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/88075256/220831020-9c141f75-7b66-4274-9360-40d047d4501c.png)
-
----
-
-## 🚀 Robin Payot
-
-- **Author:** Robin Payot
-- **Live Demo:** [robinpayot.com](http://www.robinpayot.com/)
-- **Repository:** N/A
-- **Tech Stack:** ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Immersive portfolio using HTML5, CSS, JavaScript, GSAP, Howler.js, Hammer.js, Three.js, and WebGL.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/88075256/221104838-b82a01f2-b0f9-4d9a-bd0b-9fc7a87d2875.png)
-
----
-
-## 🚀 Charles Bruyerre (itssharl.ee)
-
-- **Author:** Charles Bruyerre
-- **Live Demo:** [itssharl.ee](https://itssharl.ee/)
-- **Repository:** N/A
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs)
-- **Description:** Award-worthy creative portfolio with Next.js, Three.js, and PWA.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/53873209/d62f4726-71cf-4e7f-8b57-31f30309e89d)
-
----
-
-## 🚀 David Heckhoff
-
-- **Author:** David Heckhoff
-- **Live Demo:** [david-hckh.com](https://david-hckh.com/)
-- **Repository:** N/A
-- **Tech Stack:** ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Visually impressive portfolio with Three.js, GSAP, PWA, and Howler.js.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/236579586-63860bd8-5273-4005-818d-1b7e72b5d578.png)
-
----
-
-## 🚀 Andrea Toffanello
-
-- **Author:** Andrea Toffanello
-- **Live Demo:** [andreatoffanello.com](https://andreatoffanello.com)
-- **Repository:** N/A
-- **Tech Stack:** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
-- **Description:** Portfolio combining VueJS, Three.js, GSAP, and Blender 3D assets.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/200663072-b61f6f84-c482-45d1-9e60-85ab096aca8f.png)
-
----
-
-## 🚀 Robby Leonardi
-
-- **Author:** Robby Leonardi
-- **Live Demo:** [rleonardi.com](http://www.rleonardi.com)
-- **Repository:** N/A
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
-- **Description:** Iconic interactive resume/portfolio with an animated scrolling experience.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/86816711/172065557-6e6ea80f-aa5b-4b43-8b90-438b6fd13b1c.png)
-
----
-
-## 🚀 Patrick David
-
-- **Author:** Patrick David
-- **Live Demo:** [bepatrickdavid.com](https://bepatrickdavid.com/)
-- **Repository:** N/A
-- **Tech Stack:** ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
-- **Description:** Creative HTML, CSS, JavaScript, jQuery, Plesk, Three.js, GSAP, and PWA portfolio.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/53873209/e3d9c014-7064-46fa-ab0b-73dce47a5490)
-
----
-
-## 🚀 Cyd Stumpel
-
-- **Author:** Cyd Stumpel
-- **Live Demo:** [cydstumpel.nl](https://cydstumpel.nl/)
-- **Repository:** N/A
-- **Tech Stack:** ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
-- **Description:** Cinematic portfolio with WordPress, PHP, Three.js, MySQL, GSAP, and Lenis.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/53873209/2aac0726-8864-40ab-badc-d465e79e1060)
+> 💡 **A growing collection of beautiful developer portfolio websites** — categorized by tech stack, featuring live URLs, screenshots, and open-source repos. Find your inspiration and build something amazing.
 
----
-
-## 🚀 Aristide Benoist
-
-- **Author:** Aristide Benoist
-- **Live Demo:** [aristidebenoist.com](https://aristidebenoist.com/)
-- **Repository:** N/A
-- **Tech Stack:** ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Award-winning agency-style portfolio with PHP, JavaScript, WebGL, and AWS.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/53873209/f7a0669a-0ca9-45ba-b767-1eef42fa2eef)
-
----
-
-## 🚀 Robin Mastromarino
-
-- **Author:** Robin Mastromarino
-- **Live Demo:** [robinmastromarino.com](http://robinmastromarino.com/)
-- **Repository:** N/A
-- **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
-- **Description:** Creative portfolio with HTML, CSS, JavaScript, WebGL, and GSAP.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/53873209/02b5bb02-d918-4770-bc69-eb904a5ea436)
-
----
-
-## 🚀 Robb Owen
-
-- **Author:** Robb Owen
-- **Live Demo:** [robbowen.digital](https://robbowen.digital/)
-- **Repository:** N/A
-- **Tech Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Creative digital portfolio with HTML, CSS, JavaScript, and Netlify.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/53873209/b108472d-0197-45fb-be95-7e19a9a77a90)
-
----
-
-## 🚀 Gatsby
-
----
-
-## 🚀 Max Böck
-
-- **Author:** Max Böck
-- **Live Demo:** [mxb.dev](https://mxb.dev)
-- **Repository:** [GitHub](https://github.com/maxboeck/mxb)
-- **Tech Stack:** ![Eleventy](https://img.shields.io/badge/Eleventy-000?logo=eleventy&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
-- **Description:** Thoughtful developer blog and portfolio using Eleventy, SCSS, and Nunjucks.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/166805924-1a843d07-59b4-408f-bb38-cfc04dd8ab87.png)
-
----
-
-## 🚀 Collins Enebeli
-
-- **Author:** Collins Enebeli
-- **Live Demo:** [kadet.dev](https://kadet.dev/)
-- **Repository:** [GitHub](https://github.com/kadetXx/kadet.dev)
-- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white)
-- **Description:** Minimalist developer portfolio using React and Gatsby.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/46662771/197170427-e2de03d3-f9f3-4893-a47a-ba554d70079a.png)
-
----
-
-## 🚀 Yinka Adedire
-
-- **Author:** Yinka Adedire
-- **Live Demo:** [yinka.codes](https://www.yinka.codes/)
-- **Repository:** [GitHub](https://github.com/yinkakun/yinkakun-portfolio)
-- **Tech Stack:** ![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white)
-- **Description:** Creative portfolio with Gatsby, ReactJS, and Styled-Components.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/223170581-4c10fd7d-a851-4f6d-8c78-fdd731c2b15c.png)
-
----
-
-## 🚀 Samuel Imolorhe
-
-- **Author:** Samuel Imolorhe
-- **Live Demo:** [xkoji.dev](https://www.xkoji.dev/)
-- **Repository:** [GitHub](https://github.com/imolorhe/xkoji-code)
-- **Tech Stack:** ![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
-- **Description:** Developer portfolio combining Gatsby, GSAP, JavaScript, and Netlify.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/224482950-e2dfbfdd-8d98-4a10-aed6-973fd568d9b4.png)
-
----
-
-## 🚀 Ben Holmes
-
-- **Author:** Ben Holmes
-- **Live Demo:** [bholmes.dev](https://bholmes.dev/)
-- **Repository:** [GitHub](https://github.com/bholmesdev/bholmesdev)
-- **Tech Stack:** ![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
-- **Description:** Whiteboard-themed portfolio using Gatsby, JavaScript, SCSS, and Pug.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/222881198-5e24ac56-2cf0-40e1-aa5a-01a859132dc5.png)
-
----
-
-## 🦩 Svelte / SvelteKit
-
----
-
-## 🚀 Ismael López
-
-- **Author:** Ismael López
-- **Live Demo:** [ismaellopez.dev](https://ismaellopez.dev)
-- **Repository:** N/A
-- **Tech Stack:** ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Portfolio built with Svelte, JavaScript, CSS, HTML, and Netlify CMS.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/13697123/172250584-228bf0c6-3dbd-4bf8-8f4e-1d0bdd29dbb1.png)
-
----
-
-## 🚀 Seán Halpin
-
-- **Author:** Seán Halpin
-- **Live Demo:** [seanhalpin.xyz](https://www.seanhalpin.xyz/)
-- **Repository:** N/A
-- **Tech Stack:** ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-- **Description:** Clean, performant portfolio using Svelte, SvelteKit, Vite, PWA, and Node.js.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/53873209/87669b84-c2c0-4418-9dac-8f471b1e327f)
-
----
-
-## 🚀 Wahid Ali
-
-- **Author:** Wahid Ali
-- **Live Demo:** [wahidali.dev](https://www.wahidali.dev/)
-- **Repository:** [GitHub](https://github.com/Aliwahid17/portfolio)
-- **Tech Stack:** ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-- **Description:** Portfolio with Svelte, Tailwind CSS, and TypeScript, deployed on Vercel.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/53873209/e91365c8-2150-4198-8222-6a2cd69bbae4)
-
----
-
-## 🦕 Astro
-
----
-
-## 🚀 Chris Williams (Astro Cactus)
-
-- **Author:** Chris Williams
-- **Live Demo:** [astro-theme-cactus.netlify.app](https://astro-theme-cactus.netlify.app/)
-- **Repository:** [GitHub](https://github.com/chrismwilliams/astro-theme-cactus)
-- **Tech Stack:** ![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx)
-- **Description:** Open-source Astro blog/portfolio theme with TypeScript, Tailwind CSS, and MDX.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/222880704-e6062bc7-b19f-4be3-9ee2-2f809885e94d.png)
-
----
-
-## 🚀 Jhey Tompkins
-
-- **Author:** Jhey Tompkins
-- **Live Demo:** [jhey.dev](https://jhey.dev/)
-- **Repository:** [GitHub](https://github.com/jh3y/jhey.dev)
-- **Tech Stack:** ![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white) ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Whimsical, creative portfolio with Sanity, Astro, Tailwind CSS, and Netlify.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/236577676-9fcbcb5e-2302-4614-b16e-2fdd6743c4b7.png)
+<br/>
 
 ---
 
-## 🚀 Danny Johnson
+</div>
 
-- **Author:** Danny Johnson
-- **Live Demo:** [mrdannyjohnson.co.uk](https://www.mrdannyjohnson.co.uk/)
-- **Repository:** N/A
-- **Tech Stack:** ![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Portfolio built with Astro, Vue, Sanity, and Tailwind CSS.
-- **Preview:** ![Preview](https://github.com/Evavic44/portfolio-ideas/assets/53873209/ae9e69b5-4ced-44d4-9cdc-0e5a53d139b1)
-
----
-
-## 📦 Other Frameworks & Stacks
-
----
-
-## 🚀 Schulz Daniel
-
-- **Author:** Schulz Daniel
-- **Live Demo:** [iamschulz.com](https://iamschulz.com)
-- **Repository:** [GitHub](https://github.com/iamschulz/iamschulz-hugo)
-- **Tech Stack:** ![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Portfolio built with Hugo, Shell, and JavaScript.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/166809062-f266e962-87e7-462d-b7ae-e0fae2b6227d.png)
-
----
-
-## 🚀 Rafael Conde
-
-- **Author:** Rafael Conde
-- **Live Demo:** [rafa.design](https://rafa.design)
-- **Repository:** [GitHub](https://github.com/rafaelconde/rafaelconde)
-- **Tech Stack:** ![Nunjucks](https://img.shields.io/badge/Nunjucks-1C4913?logo=nunjucks&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Description:** Design-focused portfolio using Nunjucks, JavaScript, and CSS.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/166811371-2ab2bc24-0d8a-4841-b859-13f65fb0dc17.png)
-
----
-
-## 🚀 Tri Dang
-
-- **Author:** Tri Dang
-- **Live Demo:** [tri-dang.github.io](https://tri-dang.github.io/about)
-- **Repository:** [GitHub](https://github.com/tri-dang/tri-dang.github.io)
-- **Tech Stack:** ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white) ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?logo=jekyll&logoColor=white)
-- **Description:** Developer portfolio using Ruby, Jekyll, and Markdown.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/6835551/172994818-e570612c-c286-4d23-8f41-1d09025d7a52.png)
-
----
-
-## 🚀 Shourya Shikhar Ghosh
-
-- **Author:** Shourya Shikhar Ghosh
-- **Live Demo:** [shourya.vercel.app](https://shourya.vercel.app)
-- **Repository:** [GitHub](https://github.com/danger-ahead/flutter_dev_folio)
-- **Tech Stack:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-- **Description:** Unique developer portfolio built entirely with Flutter for the web.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/55531939/172037173-728af808-9299-4ecf-b68d-3dd2f39f5c7c.png)
-
----
-
-## 🚀 Alfaizkhan Pathan
-
-- **Author:** Alfaizkhan Pathan
-- **Live Demo:** [alfaizkhan.github.io](https://alfaizkhan.github.io)
-- **Repository:** [GitHub](https://github.com/Alfaizkhan/alfaizkhan.github.io)
-- **Tech Stack:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-- **Description:** Flutter web portfolio with Dart, hosted on GitHub Pages.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/62628408/208278845-8b1059e8-7585-43c3-970e-443c9dd58625.png)
-
----
-
-## 🚀 Ifedili Onyegbu
-
-- **Author:** Ifedili Onyegbu
-- **Live Demo:** [ifedili.com](https://www.ifedili.com)
-- **Repository:** [GitHub](https://github.com/saucecodee/ifedili.com)
-- **Tech Stack:** ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
-- **Description:** Portfolio built with Angular, TypeScript, and SASS.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/46662771/211422589-ec814f14-9db7-4162-8f5f-5eaa8f037e8d.png)
-
----
-
-## 🚀 Jhey Tompkins
-
-- **Author:** Jonathan Toon
-- **Live Demo:** [jonathontoon.com](https://jonathontoon.com/)
-- **Repository:** [GitHub](https://github.com/jonathontoon/jonathontoon.com)
-- **Tech Stack:** ![Gulp](https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=white)
-- **Description:** Performance-focused portfolio with Gulp, EsBuild, PostCSS, and Nunjucks.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/222076260-9536d6e7-91bd-440d-835f-5fa641ce450c.PNG)
-
----
-
-## 🚀 Yasio
-
-- **Author:** Yasio
-- **Live Demo:** [yasio.dev](https://yasio.dev/)
-- **Repository:** [GitHub](https://github.com/YasiOnFire)
-- **Tech Stack:** ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-- **Description:** Rich portfolio using Nuxt.js, Node.js, Vue.js, VideoJS, Firebase, and Webpack.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/48645362/222945475-ce6c07d1-d580-47a5-8372-c66e6ff35e66.png)
-
----
-
-## 🚀 Stef Ivanov
-
-- **Author:** Stef Ivanov
-- **Live Demo:** [stefivanov.com](https://stefivanov.com)
-- **Repository:** N/A
-- **Tech Stack:** ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-- **Description:** Professional portfolio with WordPress, Yoast SEO, MailChimp, PWA, and Google Analytics.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/18528418/190108679-aba5e134-4967-4a36-a516-632b21a8e477.png)
-
----
-
-## 🚀 Adham Dannaway
-
-- **Author:** Adham Dannaway
-- **Live Demo:** [adhamdannaway.com](https://www.adhamdannaway.com/)
-- **Repository:** N/A
-- **Tech Stack:** ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
-- **Description:** Designer/developer split-screen portfolio built with WordPress, PHP, jQuery, and MySQL.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/53873209/212376608-1647044c-3caa-48b7-b131-3407afc144ed.png)
-
----
-
-## 🚀 Adewale Adeyemi
-
-- **Author:** Adewale Adeyemi
-- **Live Demo:** [adex.onrender.com](https://adex.onrender.com/)
-- **Repository:** [GitHub](https://github.com/dev-adewale/portfolio)
-- **Tech Stack:** ![Gridsome](https://img.shields.io/badge/Gridsome-00A672?logo=gridsome&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Portfolio built with Gridsome, GraphQL, and Tailwind.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/113855742/208195796-b7c27dcf-67f0-4e1c-9c6d-e1d219bddbae.png)
-
----
-
-## 🚀 Danilo Batson
-
-- **Author:** Danilo Batson
-- **Live Demo:** [batson-portfolio.vercel.app](https://batson-portfolio.vercel.app/)
-- **Repository:** [GitHub](https://github.com/danilobatson/batson-portfolio)
-- **Tech Stack:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-- **Description:** Full-stack multi-tech portfolio using TypeScript, Python, React, Vue, Express, Node.js, MongoDB, and Next.js.
-- **Preview:** ![Preview](https://user-images.githubusercontent.com/69876068/205551967-abc55adc-aae6-48c7-94cc-d9ed431c511a.png)
-
----
-
-## 🚀 Michael Kolesidis
-
-- **Author:** Michael Kolesidis
-- **Live Demo:** [michaelkolesidis.com](https://michaelkolesidis.com/)
-- **Repository:** [GitHub](https://github.com/michaelkolesidis/michaelkolesidis.com)
-- **Tech Stack:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
-- **Description:** Creative portfolio using TypeScript, p5.js, Sass, and Vite.
-- **Preview:** ![Preview](https://raw.githubusercontent.com/michaelkolesidis/michaelkolesidis.com/main/screenshots/desktop_1.png)
-
----
-
-## 🚀 Abu Said
-
-- **Author:** Abu Said
-- **Live Demo:** [abusaid.netlify.app](https://abusaid.netlify.app/)
-- **Repository:** [GitHub](https://github.com/said7388/developer-portfolio)
-- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-- **Description:** Developer portfolio template with Next.js, Tailwind CSS, and Email.JS.
-- **Preview:** ![Preview](https://github.com/said7388/portfolio-ideas/assets/77630868/d6276920-ec58-4e7f-ac09-32cd43a3b8ee)
-
----
+## 📖 Table of Contents
 
-> ⭐ **Star the original project on [GitHub](https://github.com/Evavic44/portfolio-ideas)** to support the contributors and keep the list growing!
->
-> 💡 **Want to add your portfolio?** Submit a PR to the [portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) repository.
+- [✨ Why This Exists](#-why-this-exists)
+- [🚀 Quick Stats](#-quick-stats)
+- [🔥 Featured Portfolios](#-featured-portfolios)
+- [📦 Portfolios by Tech Stack](#-portfolios-by-tech-stack)
+  - [⚛️ React / Next.js](#️-react--nextjs)
+  - [🟢 Vue / Nuxt.js](#-vue--nuxtjs)
+  - [🔷 TypeScript Heavy](#-typescript-heavy)
+  - [🌟 Three.js / WebGL / 3D](#-threejs--webgl--3d)
+  - [💨 Tailwind CSS](#-tailwind-css)
+  - [🧩 Vanilla HTML / CSS / JS](#-vanilla-html--css--js)
+  - [🔧 Other Frameworks](#-other-frameworks)
+- [📋 Full Portfolio List](#-full-portfolio-list)
+- [🤝 Contributing](#-contributing)
+
+---
+
+## ✨ Why This Exists
+
+A portfolio is your **digital first impression** — it tells the world who you are before you say a word. This repo collects the most creative, polished, and inspiring developer portfolios on the internet so you can:
+
+- 🎨 **Find your aesthetic** — minimalist, 3D, brutalist, magazine-style, or anything in between
+- 🛠️ **Learn from real implementations** — many repos are open source
+- 🚀 **Get unstuck** — when you need a layout idea, a color palette, or an interaction pattern
+- 🌍 **Discover the community** — see how developers worldwide present themselves
+
+---
+
+## 🚀 Quick Stats
+
+<div align="center">
+
+| Stat | Count |
+|------|-------|
+| 🌐 Total Portfolios | **200+** |
+| 📂 Open Source Repos | **140+** |
+| ⚛️ React / Next.js Portfolios | **90+** |
+| 🟢 Vue / Nuxt.js Portfolios | **15+** |
+| 🌟 Three.js / WebGL Portfolios | **20+** |
+| 🧩 Vanilla HTML/CSS/JS | **40+** |
+
+</div>
+
+---
+
+## 🔥 Featured Portfolios
+
+> Hand-picked portfolios that stand out for their creativity, interactivity, or design.
+
+| # | Author | Live | Stack | Why It's Special |
+|---|--------|------|-------|-----------------|
+| 🥇 | **Bruno Simon** | [bruno-simon.com](https://bruno-simon.com) | GSAP, ThreeJS, JS | Full 3D driving game as a portfolio |
+| 🥈 | **Robby Leonardi** | [rleonardi.com](http://www.rleonardi.com) | NextJS, React, GSAP | Interactive scrolling side-scroller game |
+| 🥉 | **Josh Comeau** | [joshwcomeau.com](https://www.joshwcomeau.com/) | NextJS, MDX, Framer | Incredible interactivity & blog quality |
+| ⭐ | **Brittany Chiang** | [v4.brittanychiang.com](https://v4.brittanychiang.com/) | React, Gatsby, Styled | The iconic "developer portfolio" everyone references |
+| ⭐ | **Jesse Zhou** | [jesse-zhou.com](https://jesse-zhou.com/) | ThreeJS, GSAP, GLSL | Ramen shop 3D experience — stunning |
+| ⭐ | **Lynn Fisher** | [lynnandtonic.com](https://lynnandtonic.com/) | HTML, CSS, SVG | Redesigns every year — legendary |
+| ⭐ | **David Heckoff** | [david-hckh.com](https://david-hckh.com/) | ThreeJS, GSAP, Howler.js | Immersive audio-visual experience |
+| ⭐ | **Anthony Fu** | [antfu.me](https://antfu.me/) | VueJS, Markdown | Clean, elegant open-source dev portfolio |
+| ⭐ | **Vivek Patel** | [vivek9patel.github.io](https://vivek9patel.github.io/) | NextJS, Tailwind | macOS-style desktop portfolio |
+
+---
+
+## 📦 Portfolios by Tech Stack
+
+### ⚛️ React / Next.js
+
+<details>
+<summary><b>Click to expand — 90+ portfolios</b></summary>
+
+| Author | Live URL | Repo | Additional Tech |
+|--------|----------|------|----------------|
+| Victor Eke | [victoreke.com](https://victoreke.com) | [GitHub](https://github.com/evavic44/victoreke.com) | Sanity, Tailwind CSS, TypeScript, Vercel |
+| Kent C. Dodds | [kentcdodds.com](https://kentcdodds.com) | [GitHub](https://github.com/kentcdodds/kentcdodds.com) | Remix, Prisma, Redis, Postgres |
+| Brittany Chiang | [v4.brittanychiang.com](https://v4.brittanychiang.com/) | [GitHub](https://github.com/bchiang7/v4) | Gatsby, Styled-components |
+| Braydon Coyer | [braydoncoyer.dev](https://braydoncoyer.dev/) | [GitHub](https://github.com/braydoncoyer/braydoncoyer.dev) | TypeScript, Tailwindcss, Notion API, Supabase |
+| Tania Rascia | [taniarascia.com](https://taniarascia.com) | [GitHub](https://github.com/taniarascia/taniarascia.com) | Gatsby, CSS, Netlify, NodeJS |
+| Thang Huu Vu | [thvu.dev](https://www.thvu.dev/) | [GitHub](https://github.com/ThangHuuVu/thvu-blog) | NextJS, NodeJS, TypeScript, GraphQL, Tailwindcss |
+| Adeola Adeoti | [adeolaadeoti.site](https://www.adeolaadeoti.site) | [GitHub](https://github.com/adeolaadeoti/adeolaadeoti-v2) | TypeScript, GSAP, NodeJS, SCSS |
+| Aaron Shapiro | [aaron.mn](https://www.aaron.mn) | [GitHub](https://github.com/aarshap/aaron.mn) | Gatsby, Styled Components, Netlify |
+| Rick Waalders | [rickwaalders.com](https://www.rickwaalders.com) | — | NodeJS, GSAP, Webpack |
+| Raj Savaliya | [rajsavaliya.com](https://www.rajsavaliya.com/) | [GitHub](https://github.com/SRX9/portfoliosrx9) | TypeScript, Tailwind CSS |
+| Benaiah Alumona | [benrobo.vercel.app](https://benrobo.vercel.app) | [GitHub](https://github.com/benrobo/portfolio-v3) | TailwindCss, Next.js, Emailjs |
+| Anish De | [anishde.dev](https://anishde.dev) | [GitHub](https://github.com/AnishDe12020/portfolio) | TypeScript, Tailwind CSS, Content Layer |
+| Dale Larroder | [dalelarroder.com](https://dalelarroder.com) | [GitHub](https://github.com/dlarroder/dalelarroder) | Preact, TypeScript, Tailwind, MDX |
+| Lee Robinson | [leerob.io](https://leerob.io/) | [GitHub](https://github.com/leerob/leerob.io) | PlanetScale, Prisma, Vercel, Sanity, Tailwind CSS |
+| Lazar Nikolov | [nikolovlazar.com](https://nikolovlazar.com) | [GitHub](https://github.com/nikolovlazar/nikolovlazar.com) | Chakra UI, MDX, Prisma, PlanetScale |
+| Reuben Rapose | [reubence.com](https://reubence.com) | [GitHub](https://github.com/reubence/reubence) | TailwindCSS, Next.JS, MDX, Mailchimp |
+| M. Shahanwaz | [mshahanwaz.me](https://mshahanwaz.me) | [GitHub](https://github.com/mshahanwaz/portfolio-v4) | Next.js, Nodemailer |
+| Parth Desai | [musing.vercel.app](https://musing.vercel.app/) | [GitHub](https://github.com/pycoder2000/blog) | TailwindCSS, Next.JS, MDX |
+| Maggie Appleton | [maggieappleton.com](https://maggieappleton.com/) | [GitHub](https://github.com/MaggieAppleton/maggieappleton.com-V2) | MDX, Algolia, Framer Motion, styled-components |
+| Phong Nguyen | [napthedev.com](https://napthedev.com) | [GitHub](https://github.com/napthedev/portfolio-next) | Tailwind, Framer-motion, Locomotive-scroll |
+| Theodorus Clarence | [theodorusclarence.com](https://theodorusclarence.com/) | [GitHub](https://github.com/theodorusclarence/theodorusclarence.com) | TypeScript, Tailwind CSS, MDX Bundler, Prisma |
+| Rishi Mohan | [rishimohan.me](https://rishimohan.me) | [GitHub](https://github.com/rishimohan/rishimohan.me) | TailwindCSS, Framer Motion |
+| Hamish Williams | [hamishw.com](https://hamishw.com/) | [GitHub](https://github.com/HamishMW/portfolio) | ThreeJS, NextJS |
+| Anurag Hazra | [anuraghazra.dev](https://anuraghazra.dev/) | [GitHub](https://github.com/anuraghazra/anuraghazra.github.io) | Gatsby, Styled-components, Cypress, Jest |
+| Delba Oliviera | [delba.dev](https://delba.dev/) | [GitHub](https://github.com/delbaoliveira/website) | MDX, Tailwind, Prisma, Typescript |
+| Vivek Patel | [vivek9patel.github.io](https://vivek9patel.github.io/) | [GitHub](https://github.com/vivek9patel/vivek9patel.github.io) | Tailwind CSS, GitHub Pages |
+| Ashish | [asrvd.me](https://asrvd.me/) | [GitHub](https://github.com/asrvd/asrvd.me) | tRPC, Tailwind CSS, TypeScript, NextAuth.js, Prisma |
+| Josh Comeau | [joshwcomeau.com](https://www.joshwcomeau.com/) | — | Styled Components, MDX, MongoDB, Framer Motion |
+| Harsh Singh | [harshsingh.xyz](https://harshsingh.xyz/) | [GitHub](https://github.com/harshhhdev/harshhhdev.github.io) | TailwindCSS, TypeScript, Prisma |
+| Brayden | [braydentw.io](https://braydentw.io/) | [GitHub](https://github.com/BraydenTW/braydentw.io) | TailwindCSS |
+| Ben (nuro.dev) | [nuro.dev](https://nuro.dev/) | [GitHub](https://github.com/NuroDev/nuro.dev) | TailwindCSS |
+| Matthias Kretschmann | [matthiaskretschmann.com](https://matthiaskretschmann.com/) | [GitHub](https://github.com/kremalicious/portfolio) | Gatsby / NextJS, TypeScript, CSS Modules |
+| Trịnh Minh Nhật | [thinhcorner.com](https://thinhcorner.com) | [GitHub](https://github.com/Th1nhNg0/th1nhng0.vercel.app) | TailwindCSS, TypeScript |
+| Anand Baraik | [anandbaraik.github.io](https://anandbaraik.github.io) | [GitHub](https://github.com/anandbaraik/anandbaraik.github.io) | CSS |
+| Victor Williams | [victorwilliams.me](https://www.victorwilliams.me/) | [GitHub](https://github.com/victorcodess/folio-v1) | TypeScript, TailwindCSS, Framer Motion, GSAP |
+| Maxime Heckel | [maximeheckel.com](https://maximeheckel.com/) | [GitHub](https://github.com/MaximeHeckel/blog.maximeheckel.com) | TypeScript, Stitches/CSS, MDX |
+| Gavin Nelson | [nelson.co](https://nelson.co/) | [GitHub](https://github.com/gavinmn/nelson.co) | Tailwind CSS, Vercel, MDX |
+| Nikhil Rajput | [nixrajput.nixlab.co.in](https://nixrajput.nixlab.co.in/) | [GitHub](https://github.com/nixrajput/portfolio-nextjs) | SCSS, Node.js |
+| Raphaël Chelly | [raphaelchelly.com](https://www.raphaelchelly.com) | [GitHub](https://github.com/raphaelchelly/raph_www) | TailwindCSS, Vercel |
+| Daniel Cranney | [danielcranney.com](https://www.danielcranney.com/) | [GitHub](https://github.com/danielcranney/portfolio) | TailwindCSS, Vercel |
+| Anuoluwapo Abolarin | [anuoluwapo.xyz](https://anuoluwapo.xyz/) | [GitHub](https://github.com/Anu-oluwapo/portfolio-v2) | — |
+| Aravind Balla | [aravindballa.com](https://aravindballa.com) | [GitHub](https://github.com/aravindballa/website) | TypeScript, Tailwind CSS, Vercel |
+| Usman Sabuwala | [usman-s.me](https://www.usman-s.me) | [GitHub](https://github.com/max-programming/usman-s.me) | Chakra UI, Framer Motion |
+| Payton Pierce | [paytonpierce.dev](https://paytonpierce.dev) | [GitHub](https://github.com/paytonjewell/paytonpierce.dev) | Material UI |
+| Tanishka Yadav | [tanishka-yadav.netlify.app](https://tanishka-yadav.netlify.app/) | [GitHub](https://github.com/Tanishka-dev/Portfolio-Reactjs) | SASS, Framer Motion |
+| Brian Lovin | [brianlovin.com](https://brianlovin.com/) | [GitHub](https://github.com/brianlovin/briOS) | TypeScript, Tailwind CSS, Prisma, Planetscale |
+| Shubh Porwal | [shubhporwal.me](https://www.shubhporwal.me/) | [GitHub](https://github.com/shubh73/devfolio) | ReactJS, Tailwind CSS, GSAP |
+| Rashad Santana | [rafaelsantana.dev](https://www.rafaelsantana.dev/) | [GitHub](https://github.com/rafalmeida73/portfolio) | Material UI, TypeScript |
+| Moinak Majumdar | [moinak05.vercel.app](https://moinak05.vercel.app/) | [GitHub](https://github.com/Moinak-Majumdar/portfolio) | TypeScript, Framer Motion, TailwindCss |
+| Adeola Badero | [adeolabadero.vercel.app](https://adeolabadero.vercel.app) | [GitHub](https://github.com/adex-hub/ade-folio) | Tailwind CSS, TypeScript, Framer Motion |
+| Salim Rutaganda | [rsalim.vercel.app](https://www.rsalim.vercel.app/) | [GitHub](https://github.com/rutaganda-salim/devfolio) | Tailwindcss, TypeScript |
+| Deepak Modi | [deepakmodi.tech](https://deepakmodi.tech/) | [GitHub](https://github.com/decodewithdeepak/Portfolio) | Tailwind CSS, TypeScript, Vercel |
+
+</details>
+
+---
+
+### 🟢 Vue / Nuxt.js
+
+<details>
+<summary><b>Click to expand — 15+ portfolios</b></summary>
+
+| Author | Live URL | Repo | Additional Tech |
+|--------|----------|------|----------------|
+| Olaolu Olawuyi | [olaolu.dev](https://olaolu.dev) | [GitHub](https://github.com/whizkydee/olaolu.dev) | JavaScript, HTML, styled-components, Sass |
+| Jeferson Brito | [jefersonsilva.me](https://www.jefersonsilva.me/) | [GitHub](https://github.com/jeferson-sb/portfolio) | Vue 3.0, Vite |
+| Anthony Fu | [antfu.me](https://antfu.me/) | [GitHub](https://github.com/antfu/antfu.me) | Markdown, TypeScript, CSS |
+| Micah Lindley | [micahlindley.com](https://micahlindley.com) | [GitHub](https://github.com/micahlt/micahlt.github.io) | Vue 3, Vite |
+| Ara Oladipo | [araoladipo.tech](https://araoladipo.tech/) | [GitHub](https://github.com/Ara-O/Portfolio-Website) | CSS, Spline3D |
+| Hisami Kurita | [hsmkrt1996.com](https://hsmkrt1996.com/) | [GitHub](https://github.com/hisamikurita/hisamikurita-portfoliosite) | Nuxt.js, SCSS, ThreeJS, GSAP |
+| Moe Dayraki | [moe.dayrakiarts.com](https://moe.dayrakiarts.com) | [GitHub](https://github.com/moedayraki/moedayraki.github.io) | Vite, Cypress, Tailwindcss, TypeScript, Pinia |
+| Truong Phan | [techika.com](https://techika.com) | [GitHub](https://github.com/infantiablue) | Vite, VuePress, Tailwindcss |
+| Dennis Snellenberg | [dennissnellenberg.com](https://dennissnellenberg.com/) | — | GSAP, JQuery, PHP |
+| Ruben Kuipers | [rubenkuipers.design](https://rubenkuipers.design/) | — | Nuxt.js, Tailwind CSS, scrollreveal |
+| Olamide Sholanke | [olamide.dev](https://www.olamide.dev/) | — | NuxtJS |
+| Olamide Adeyi | [olamideadeyi.com](https://www.olamideadeyi.com) | — | NuxtJS, GSAP |
+| Greg Ives | [gregives.co.uk](https://www.gregives.co.uk) | [GitHub](https://github.com/gregives/gregives.co.uk) | NuxtJS, SASS, Netlify |
+| Patrick Heng | [patrickheng.com](https://patrickheng.com/) | — | Nuxt.js, GSAP, ThreeJS |
+| Jay Bhavsar | [jay.is-savvy.dev](https://jay.is-savvy.dev) | [GitHub](https://github.com/jbhv12/portfolio) | Gridsome, Tailwind CSS |
+| Shahrukh Anwar | [shahrukhanwar.vercel.app](https://shahrukhanwar.vercel.app) | [GitHub](https://github.com/devshahrukhanwar/shahrukh-anwar) | TypeScript, Bulma CSS, Vite |
+| Victor Adeniji | [codevickk.com](https://codevickk.com/) | — | Nuxt.js, GSAP, Netlify, Lenis |
+
+</details>
+
+---
+
+### 🔷 TypeScript Heavy
+
+<details>
+<summary><b>Click to expand — 25+ portfolios</b></summary>
+
+| Author | Live URL | Repo | Framework |
+|--------|----------|------|-----------|
+| Adeola Adeoti | [adeolaadeoti.site](https://www.adeolaadeoti.site) | [GitHub](https://github.com/adeolaadeoti/adeolaadeoti-v2) | NextJS + GSAP |
+| Chandraprakash Darji | [chandraprakash.vercel.app](https://chandraprakash.vercel.app/) | [GitHub](https://github.com/Chandraprakash-Darji/personal) | Nextjs, Tailwindcss |
+| Harsh Singh | [harshsingh.xyz](https://harshsingh.xyz/) | [GitHub](https://github.com/harshhhdev/harshhhdev.github.io) | NextJS, TailwindCSS, Prisma |
+| Serdargokhan | [serdargokhan.dev](https://serdargokhan.dev) | [GitHub](https://github.com/serdargokhan/portfolio-website-v1) | NextJS, TailwindCSS |
+| Arafat Islam | [portfolio-khaki-iota-89.vercel.app](https://portfolio-khaki-iota-89.vercel.app/) | [GitHub](https://github.com/arafat4693/portfolio) | NextJS, GraphQL, Tailwind |
+| Michael Kolesidis | [michaelkolesidis.com](https://michaelkolesidis.com/) | [GitHub](https://github.com/michaelkolesidis/michaelkolesidis.com) | p5.js, Sass, Vite |
+| Maxime Heckel | [maximeheckel.com](https://maximeheckel.com/) | [GitHub](https://github.com/MaximeHeckel/blog.maximeheckel.com) | NextJS, Stitches, MDX |
+| Manish Kumar | [manishk.dev](https://manishk.dev) | [GitHub](https://github.com/manishprivet/portfolio) | React, Next, ParticleJS, Firebase |
+| Jahir Fiquitiva | [jahir.dev](https://jahir.dev/) | [GitHub](https://github.com/jahirfiquitiva/jahir.dev) | Next.js, Tailwind, MDX, PlanetScale |
+| Çağlar Turalı | [turali.js.org](https://turali.js.org/) | [GitHub](https://github.com/caglarturali/caglarturali.github.io) | React |
+| Marieflor Bawanan | [marieflor.dev](https://marieflor.dev) | [GitHub](https://github.com/mariebawanan/marieflor.dev) | NextJS, TailwindCSS, GSAP |
+| Kehinde Omopariola | [pariola.dev](https://www.pariola.dev) | [GitHub](https://github.com/Pariola-droid/pariola-v2.2.0) | NextJS, SASS, Motion One |
+| Bonabrian | [bonabrian.com](https://bonabrian.com) | [GitHub](https://github.com/bonabrian/bonabrian.com) | Nextjs, TailwindCSS, Prisma, Contentlayer |
+| Shaan Alam | [shaanalam.vercel.app](https://shaanalam.vercel.app) | [GitHub](https://github.com/shaan-alam/shaanalam) | NextJS, Tailwind, Hygraph |
+| Mateus Felipe | [mateusf.com](https://mateusf.com) | [GitHub](https://github.com/mateusfg7/mateusf.com) | Next.js, Tailwindcss, Contentlayer & MDX |
+| Mike Liu | [mikeliuu.com](https://mikeliuu.com) | [GitHub](https://github.com/mikeliuu/mikeliuu.com) | NextJS, Tailwind CSS, Vercel |
+| Baraa Alshaer | [alshaer.vercel.app](https://alshaer.vercel.app/) | [GitHub](https://github.com/balshaer/alshaer) | React, Shadcn ui, Tailwind CSS |
+| Asharib Ali | [cv.asharib.xyz](https://cv.asharib.xyz/) | [GitHub](https://github.com/AsharibAli/cv) | Next.js, Shadcn/ui, Tailwind CSS |
+| Krishnakumar Valliappan | [krishnakumar.dev](https://www.krishnakumar.dev/) | [GitHub](https://github.com/krishnavalliappan/portfolio-website) | Next.js, Framer, TailwindCSS, shadcn/ui |
+| Utkarsh Singhal | [utkarsh-singhal.is-a.dev](https://utkarsh-singhal.is-a.dev/) | [GitHub](https://github.com/Utkarsh-Singhal-26/portfolio) | Next.js, TailwindCSS, ShadCN UI |
+| Abdelrahman Ahmed | [abdalrahman.tech](https://abdalrahman.tech) | [GitHub](https://github.com/AB-DALRAHM-AN) | Next.js, Shadcn/ui, Notion, Resend |
+| Tanay Shah | [tanayshah.dev](https://tanayshah.dev) | [GitHub](https://github.com/tanayshah11) | NextJS, Tailwind v4, Vercel |
+
+</details>
+
+---
+
+### 🌟 Three.js / WebGL / 3D
+
+<details>
+<summary><b>Click to expand — 20+ portfolios</b></summary>
+
+| Author | Live URL | Repo | Additional Tech |
+|--------|----------|------|----------------|
+| Bruno Simon | [bruno-simon.com](https://bruno-simon.com) | [GitHub](https://github.com/brunosimon/folio-2019) | GSAP, JavaScript |
+| Jesse Zhou | [jesse-zhou.com](https://jesse-zhou.com/) | [GitHub](https://github.com/enderh3art/Ramen-Shop) | GLSL, Howler.js, GSAP, Node.js |
+| Robby Leonardi | [rleonardi.com](http://www.rleonardi.com) | — | NextJS, React, GSAP, Webpack |
+| Guillaume Gouessan | [guillaumegouessan.com](https://guillaumegouessan.com/) | [GitHub](https://github.com/superguigui/guillaumegouessan.com) | GSAP, JavaScript |
+| Patrick Heng | [patrickheng.com](https://patrickheng.com/) | — | Nuxt.js, GSAP |
+| Hisami Kurita | [hsmkrt1996.com](https://hsmkrt1996.com/) | [GitHub](https://github.com/hisamikurita/hisamikurita-portfoliosite) | Vue.js, GSAP, ASSCROLL |
+| Hamish Williams | [hamishw.com](https://hamishw.com/) | [GitHub](https://github.com/HamishMW/portfolio) | React, NextJS |
+| Andrea Toffanello | [andreatoffanello.com](https://andreatoffanello.com) | — | VueJS, GSAP, Blender |
+| Danny Garcia | [danny-garcia.com](https://danny-garcia.com/) | [GitHub](https://github.com/dannygarcia/dannygarcia.github.com) | TypeScript, GLSL, Netlify |
+| David Heckoff | [david-hckh.com](https://david-hckh.com/) | — | HTML, GSAP, Howler.js |
+| Byunggeun Cho | [bbangjo.kr](https://bbangjo.kr) | [GitHub](https://github.com/bbangjooo/buffalo) | TypeScript, Blender |
+| James Warner | [jmswrnr.com](https://jmswrnr.com/) | — | NextJS, Sanity, NodeJS |
+| Charles Bruyerre | [itssharl.ee](https://itssharl.ee/) | — | NextJS, PWA, Vercel |
+| Jaber Said | [jaber.dev](https://jaber.dev) | [GitHub](https://github.com/Jaber-Saed/3d-protfoluo) | React JS, Tailwind CSS |
+| Kaung Myat Kyaw | [barry121.com](https://barry121.vercel.app/) | [GitHub](https://github.com/Rhaegar121/Portfolio) | ReactJS, TailwindCSS |
+| Julien Thême | [julien-theme.dev](https://julien-theme.dev/) | [GitHub](https://github.com/ZIRTR0X/PersonalWebsite) | Angular, TailwindCSS |
+| Goodness Urama | [goodie.work](https://www.goodie.work/) | [GitHub](https://github.com/GoodyBoy301/goodie.work) | Pug, SCSS, GSAP |
+| Priyanshu Tiwari | [priyanshu-tiwari.vercel.app](https://priyanshu-tiwari.vercel.app/) | [GitHub](https://github.com/priyanshtiwari001/portfolio) | NextJS, TailwindCSS, TypeScript |
+| Aditya Bansal | [adityabansal.tech](https://www.adityabansal.tech/) | — | R3F, React Js, Framer Motion, GSAP |
+| Divyansh Kathuria | [divyanshkathuria.netlify.app](https://divyanshkathuria.netlify.app/) | [GitHub](https://github.com/DIVYANSHKATHURIA) | HTML, CSS, React |
+| Marcos Moura | [marcos-moura97.github.io](https://marcos-moura97.github.io/) | [GitHub](https://github.com/marcos-moura97/marcos-moura97.github.io) | HTML, CSS, JavaScript |
+| Nguyen Tran Gia Si | [nguyentrangiasi.id.vn](https://nguyentrangiasi.id.vn/) | [GitHub](https://github.com/giasinguyen/GiaSi-Portfolio) | ReactJS, GSAP, Vite, Framer Motion |
+| Robin Payot | [robinpayot.com](http://www.robinpayot.com/) | — | GSAP, Howler.js, WebGL, PWA |
+
+</details>
+
+---
+
+### 💨 Tailwind CSS
+
+<details>
+<summary><b>Click to expand — 30+ portfolios</b></summary>
+
+| Author | Live URL | Repo | Framework |
+|--------|----------|------|-----------|
+| Victor Eke | [victoreke.com](https://victoreke.com) | [GitHub](https://github.com/evavic44/victoreke.com) | Nextjs, Sanity |
+| Raj Savaliya | [rajsavaliya.com](https://www.rajsavaliya.com/) | [GitHub](https://github.com/SRX9/portfoliosrx9) | NextJS, React |
+| Segun Ajibola | [segunajibola.com](https://www.segunajibola.com) | [GitHub](https://github.com/segunajibola/portfolio) | React, SwiperJS |
+| Brayden | [braydentw.io](https://braydentw.io/) | [GitHub](https://github.com/BraydenTW/braydentw.io) | React, NextJS |
+| Ben | [nuro.dev](https://nuro.dev/) | [GitHub](https://github.com/NuroDev/nuro.dev) | React, NextJS |
+| Harsh Singh | [harshsingh.xyz](https://harshsingh.xyz/) | [GitHub](https://github.com/harshhhdev/harshhhdev.github.io) | NextJS, TypeScript |
+| Serdargokhan | [serdargokhan.dev](https://serdargokhan.dev) | [GitHub](https://github.com/serdargokhan/portfolio-website-v1) | NextJS, TypeScript |
+| Raphaël Chelly | [raphaelchelly.com](https://www.raphaelchelly.com) | [GitHub](https://github.com/raphaelchelly/raph_www) | Next.js, Vercel |
+| Daniel Cranney | [danielcranney.com](https://www.danielcranney.com/) | [GitHub](https://github.com/danielcranney/portfolio) | NextJS, Vercel |
+| Damian Demasi | [damiandemasi.com](https://www.damiandemasi.com/) | [GitHub](https://github.com/Colo-Codes/portfolio-v2) | ReactJS, DaisyUI |
+| Jhey Tompkins | [jhey.dev](https://jhey.dev/) | [GitHub](https://github.com/jh3y/jhey.dev) | Sanity, Astro, Netlify |
+| Chris Williams | [astro-theme-cactus.netlify.app](https://astro-theme-cactus.netlify.app/) | [GitHub](https://github.com/chrismwilliams/astro-theme-cactus) | Astro, TypeScript, MDX |
+| Abu Said | [abusaid.netlify.app](https://abusaid.netlify.app/) | [GitHub](https://github.com/said7388/developer-portfolio) | Next.js, Email.JS |
+| Eliaz LR | [eliaz-lr.dev](https://eliaz-lr.dev/) | [GitHub](https://github.com/Eliaz-LR/portfolio-v3) | Astro, Vue, DaisyUI |
+| Brian Lovin | [brianlovin.com](https://brianlovin.com/) | [GitHub](https://github.com/brianlovin/briOS) | NextJS, TypeScript, Prisma |
+| Zai Santillan | [plskz-me.vercel.app](https://plskz-me.vercel.app/) | [GitHub](https://github.com/plskz/plskz.me) | NextJS, TypeScript, DaisyUI |
+| Abass Dev | [abassdev.com](https://abassdev.com/) | [GitHub](https://github.com/abass-dev/abassdev.com) | NextJs, TypeScript |
+| Oscar Barajas | [gndx.io](https://gndx.io) | [GitHub](https://github.com/gndx/gndx.io) | HTML |
+| Wasim Baig | [wasimbaig.com](https://wasimbaig.com) | [GitHub](https://github.com/simbaig/portfolio-nextjs) | Next JS, Framer-Motion |
+| Hari Prasad | [hariprasd.me](https://hariprasd.me) | [GitHub](https://github.com/hariprasd) | React |
+
+</details>
+
+---
+
+### 🧩 Vanilla HTML / CSS / JS
+
+<details>
+<summary><b>Click to expand — 40+ portfolios</b></summary>
+
+| Author | Live URL | Repo |
+|--------|----------|------|
+| Jemima Abu | [jemimaabu.com](https://jemimaabu.com) | [GitHub](https://github.com/jemimaabu/portfolio) |
+| Aditya Vikram | [people.umass.edu/avsingh](https://people.umass.edu/avsingh) | [GitHub](https://github.com/AVS1508/My-Alternate-Portfolio-Website) |
+| Adrien Gervaix | [adriengervaix.com](https://adriengervaix.com) | — |
+| Deidre Driscoll | [deidredriscoll.com](https://deidredriscoll.com) | — |
+| Community Pro | [cpro-portfolio-html.netlify.app](https://cpro-portfolio-html.netlify.app) | [GitHub](https://github.com/CommunityPro/portfolio-html) |
+| Pyae Sone | [pyaesonepsn.github.io](https://pyaesonepsn.github.io/portfolio-project/) | [GitHub](https://github.com/pyaesonepsn/portfolio-project) |
+| Williams Samuel | [williamssam.netlify.app](https://williamssam.netlify.app/) | [GitHub](https://github.com/williamssam/My-Portfolio) |
+| Franklin Ohaegbulam | [frankiefab.com](https://frankiefab.com) | [GitHub](https://github.com/frankiefab100/frankiefab.tech) |
+| Daniel Ezekiel | [danielezekiel.me](https://danielezekiel.me/) | [GitHub](https://github.com/Daniel-Ezekiel/Portfolio-Website) |
+| Leonel Ngoya | [lndev.me](https://lndev.me) | [GitHub](https://github.com/ln-dev7) |
+| Daniel Wisky | [danielwisky.com.br](https://danielwisky.com.br/) | [GitHub](https://github.com/danielwisky/danielwisky.github.io) |
+| Cassidy Williams | [cassidoo.co](https://cassidoo.co/) | — |
+| Lynn Fisher | [lynnandtonic.com](https://lynnandtonic.com/) | [GitHub](https://github.com/lynnandtonic/lynnandtonic.com) |
+| Robb Owen | [robbowen.digital](https://robbowen.digital/) | — |
+| Sandeep Kumar | [eternalfrustation.github.io](https://eternalfrustation.github.io/) | [GitHub](https://github.com/eternalfrustation/eternalfrustation.github.io) |
+| Bryan Smith | [multikitty.onrender.com](https://multikitty.onrender.com) | [GitHub](https://github.com/multikitty/multikitty.github.io) |
+| Anubhav Sigdel | [anubhavsigdel.vercel.app](https://anubhavsigdel.vercel.app/) | [GitHub](https://github.com/asigdel29/portfolio) |
+| Syed Moshin | [opensource-portfolio.netlify.app](https://opensource-portfolio.netlify.app/) | [GitHub](https://github.com/devsyedmohsin/portfolio-template) |
+| Sadee | [codewithsadee.github.io/vcard-personal-portfolio](https://codewithsadee.github.io/vcard-personal-portfolio/) | [GitHub](https://github.com/codewithsadee/vcard-personal-portfolio) |
+| Skifli | [skifli.github.io](https://skifli.github.io/) | [GitHub](https://github.com/skifli/skifli.github.io) |
+| Guglielmo Cerri | [guglielmocerri.github.io](https://guglielmocerri.github.io) | [GitHub](https://github.com/GuglielmoCerri/GuglielmoCerri.github.io) |
+| Sameera Sandakelum | [sameerasw.com](https://sameerasw.com/) | [GitHub](https://github.com/sameerasw/sameerasw.com) |
+| Sumonta Saha Mridul | [sumonta056.github.io](https://sumonta056.github.io/) | [GitHub](https://github.com/Sumonta056/sumonta056.github.io) |
+| Shivam Gupta | [the-shivam-gupta.github.io](https://the-shivam-gupta.github.io/) | [GitHub](https://github.com/the-shivam-gupta/the-shivam-gupta.github.io) |
+| Sunidhi Singh | [sunidhi-singh.netlify.app](https://sunidhi-singh.netlify.app/) | [GitHub](https://github.com/sunidhi014) |
+| Aakash Rajbanshi | [aakashrajbanshi.com.np](https://aakashrajbanshi.com.np/) | — |
+| Ata Berkay Karakuş | [berkaykrks.com](https://berkaykrks.netlify.app/) | [GitHub](https://github.com/berkaykrks/personal-website) |
+| Roman Mendaliev | [roman.asd.lol](https://roman.asd.lol) | [GitHub](https://github.com/reacheight/home) |
+| Kartik Jain | [jkartik.in](https://jkartik.in) | [GitHub](https://github.com/KartikJain14/jkartik.in) |
+| Aarav Gupta | [aarus2709.me](https://aarus2709.me) | [GitHub](https://github.com/Aarav2709/AarusPortfolio) |
+| Anshul Soni | [anshulsoni.in](https://www.anshulsoni.in/) | [GitHub](https://github.com/anshulsoni2010/portfolio-website) |
+| Akshay Kumar | [akshaytalanki.netlify.app](https://akshaytalanki.netlify.app/) | [GitHub](https://github.com/akshaytalanki19/portfolio) |
+| Madhurima Rawat | [madhurimarawat.github.io](https://madhurimarawat.github.io/Portfolio-Website/) | [GitHub](https://github.com/madhurimarawat/Portfolio-Website) |
+| Archit Agrawal | [archit-agrawal-portfolio.vercel.app](https://archit-agrawal-portfolio.vercel.app/) | [GitHub](https://github.com/ArchitAgrawal25/Portfolio) |
+| Shivam Javiya | [shivamjaviya.netlify.app](https://shivamjaviya.netlify.app/) | [GitHub](https://github.com/ShivamJaviya/Shivam_Portfolio) |
+
+</details>
+
+---
+
+### 🔧 Other Frameworks
+
+<details>
+<summary><b>Astro, Svelte, Gatsby, Eleventy, Flutter, and more</b></summary>
+
+| Author | Live URL | Repo | Tech |
+|--------|----------|------|------|
+| Chris Williams | [astro-theme-cactus.netlify.app](https://astro-theme-cactus.netlify.app/) | [GitHub](https://github.com/chrismwilliams/astro-theme-cactus) | Astro, Tailwind, MDX |
+| Jhey Tompkins | [jhey.dev](https://jhey.dev/) | [GitHub](https://github.com/jh3y/jhey.dev) | Astro, Sanity, Tailwind |
+| Eliaz LR | [eliaz-lr.dev](https://eliaz-lr.dev/) | [GitHub](https://github.com/Eliaz-LR/portfolio-v3) | Astro, Vue, DaisyUI |
+| Eva Decker | [evadecker.com](https://evadecker.com) | [GitHub](https://github.com/evadecker/evadecker.com) | Astro, React, TypeScript, Framer Motion |
+| SofiDev | [itssofi.dev](https://itssofi.dev/) | [GitHub](https://github.com/SofiDevO/sofidev-portfolio-astro) | Astro, CSS, React |
+| Ghulam Ahmed | [gahmed.com](https://gahmed.com) | [GitHub](https://github.com/theghulam) | Astro, Solid.js, TypeScript |
+| Jesse Akoh | [jesseakoh.com](https://jesseakoh.com) | — | Astro, TailwindCSS, Netlify |
+| Nat Anselm | [nanselm.com](https://nanselm.com) | — | Astro, DaisyUI, TailwindCSS |
+| Danny Johnson | [mrdannyjohnson.co.uk](https://www.mrdannyjohnson.co.uk/) | — | Astro, Vue, Sanity, Tailwind |
+| Odhy Pradhana | [odhyp.com](https://odhyp.com/) | [GitHub](https://github.com/odhyp/odhyp.com) | Hugo, TailwindCSS |
+| Schulz Daniel | [iamschulz.com](https://iamschulz.com) | [GitHub](https://github.com/iamschulz/iamschulz-hugo) | Hugo, JavaScript |
+| Ismael López | [ismaellopez.dev](https://ismaellopez.dev) | — | Svelte, CSS, Netlify CMS |
+| Seán Halpin | [seanhalpin.xyz](https://www.seanhalpin.xyz/) | — | Svelte, SvelteKit, Vite, PWA |
+| Wahid Ali | [wahidali.dev](https://www.wahidali.dev/) | [GitHub](https://github.com/Aliwahid17/portfolio) | Svelte, Tailwind CSS, TypeScript |
+| Max Böck | [mxb.dev](https://mxb.dev) | [GitHub](https://github.com/maxboeck/mxb) | Eleventy, SCSS, Nunjucks |
+| Jonathan Toon | [jonathontoon.com](https://jonathontoon.com/) | [GitHub](https://github.com/jonathontoon/jonathontoon.com) | Gulp, EsBuild, postCSS |
+| Aaron Shapiro | [aaron.mn](https://www.aaron.mn) | [GitHub](https://github.com/aarshap/aaron.mn) | React, Gatsby, Netlify |
+| Anurag Hazra | [anuraghazra.dev](https://anuraghazra.dev/) | [GitHub](https://github.com/anuraghazra/anuraghazra.github.io) | React, Gatsby, Cypress |
+| Alfaizkhan Pathan | [alfaizkhan.github.io](https://alfaizkhan.github.io) | [GitHub](https://github.com/Alfaizkhan/alfaizkhan.github.io) | Flutter, Dart |
+| Shourya Shikhar Ghosh | [shourya.vercel.app](https://shourya.vercel.app) | [GitHub](https://github.com/danger-ahead/flutter_dev_folio) | Flutter |
+| Daniel Coyula | [portfolio.dctech.dev](https://portfolio.dctech.dev/) | — | Flutter |
+| Tri Dang | [tri-dang.github.io](https://tri-dang.github.io/about) | [GitHub](https://github.com/tri-dang/tri-dang.github.io) | Ruby, Jekyll, Markdown |
+| Jacob Valdez | [jacobfv.github.io](https://jacobfv.github.io) | [GitHub](https://github.com/JacobFV/jacobfv.github.io) | HTML, Jekyll |
+| Max Böck | [mxb.dev](https://mxb.dev/) | [GitHub](https://github.com/maxboeck/mxb) | Eleventy, SCSS, Nunjucks |
+
+</details>
+
+---
+
+## 📋 Full Portfolio List
+
+> Complete alphabetical listing of all portfolios in this collection.
+
+<details>
+<summary><b>View all 200+ portfolios</b></summary>
+
+| Author | Live URL | Repo | Tech Stack |
+|--------|----------|------|------------|
+| Aarav Gupta | [aarus2709.me](https://aarus2709.me) | [GitHub](https://github.com/Aarav2709/AarusPortfolio) | HTML, CSS, JavaScript, GSAP |
+| Aakash Rajbanshi | [aakashrajbanshi.com.np](https://aakashrajbanshi.com.np/) | — | HTML, CSS, JavaScript |
+| Abass Dev | [abassdev.com](https://abassdev.com/) | [GitHub](https://github.com/abass-dev/abassdev.com) | NextJs, Tailwind CSS, TypeScript |
+| Abdullah Abdulfatah | [draq.tech](https://www.draq.tech/) | — | NextJS, Typescript, ChakraUI |
+| Abdullah Moiz | [mrmoiz.vercel.app](https://mrmoiz.vercel.app/) | — | Next Js, Tailwind css |
+| Abdelkarim Ain | [abdelkarimain.me](https://www.abdelkarimain.me/) | — | Next.js, Sanity.io, TypeScript, Tailwindcss, Shadcn ui |
+| Abdellatif Laghjaj | [abdellatif-laghjaj.ml](https://www.abdellatif-laghjaj.ml/) | — | VueJS, Lottiefiles, CSS |
+| Abdelrahman Ahmed | [abdalrahman.tech](https://abdalrahman.tech) | [GitHub](https://github.com/AB-DALRAHM-AN) | Next.js, TypeScript, TailwindCss, Shadcn/ui, Notion |
+| Abhishek Jha | [abhishekjha.me](https://www.abhishekjha.me) | — | HTML, CSS, JavaScript, Ruby on Rails, GSAP |
+| Abu Said | [abusaid.netlify.app](https://abusaid.netlify.app/) | [GitHub](https://github.com/said7388/developer-portfolio) | Next.js, Tailwind CSS, Email.JS |
+| Adeola Adeoti | [adeolaadeoti.site](https://www.adeolaadeoti.site) | [GitHub](https://github.com/adeolaadeoti/adeolaadeoti-v2) | TypeScript, GSAP, NodeJS, NextJS, SCSS |
+| Adeola Badero | [adeolabadero.vercel.app](https://adeolabadero.vercel.app) | [GitHub](https://github.com/adex-hub/ade-folio) | Nextjs, Tailwind CSS, TypeScript, Framer Motion |
+| Adenekan Wonderful | [codewonders.dev](https://www.codewonders.dev/) | — | React, NextJS, Styled-components |
+| Aditya Bansal | [adityabansal.tech](https://www.adityabansal.tech/) | — | Three.js, R3F, React, Framer Motion, GSAP |
+| Aditya Gupta | [minimalist-portfolio-phi.vercel.app](https://minimalist-portfolio-phi.vercel.app/) | [GitHub](https://github.com/impulseadi/minimalist_portfolio) | React.js, Tailwind CSS, Framer Motion |
+| Aditya Induraj | [adityainduraj.xyz](https://adityainduraj.xyz) | [GitHub](https://github.com/adityainduraj) | Nextjs, Tailwind CSS, TypeScript |
+| Aditya Punmiya | [adityapunmiya.com](https://adityapunmiya.com/) | [GitHub](https://github.com/Aditya-0011/portfolio-website) | Next.js, Tailwind CSS, TypeScript, MongoDB |
+| Aditya Vikram | [people.umass.edu/avsingh](https://people.umass.edu/avsingh) | [GitHub](https://github.com/AVS1508/My-Alternate-Portfolio-Website) | HTML, CSS, JavaScript |
+| Adrien Gervaix | [adriengervaix.com](https://adriengervaix.com) | — | HTML, CSS, JavaScript |
+| Adewale Adeyemi | [adex.onrender.com](https://adex.onrender.com/) | [GitHub](https://github.com/dev-adewale/portfolio) | Gridsome, GraphQL, Tailwind |
+| Aaron Shapiro | [aaron.mn](https://www.aaron.mn) | [GitHub](https://github.com/aarshap/aaron.mn) | React, Gatsby, Styled Components, Netlify |
+| Akshay K Rooben | [akshayabraham.vercel.app](https://akshayabraham.vercel.app) | [GitHub](https://github.com/akshay-abraham/Quantalink) | Next.js, TypeScript, TailwindCSS, Framer Motion |
+| Akshay Kumar | [akshaytalanki.netlify.app](https://akshaytalanki.netlify.app/) | [GitHub](https://github.com/akshaytalanki19/portfolio) | HTML, CSS, JavaScript |
+| Alfaizkhan Pathan | [alfaizkhan.github.io](https://alfaizkhan.github.io) | [GitHub](https://github.com/Alfaizkhan/alfaizkhan.github.io) | Flutter, Dart, Github Pages |
+| Ali Imam | [aliimam.in](https://www.aliimam.in/) | [GitHub](https://github.com/aliimam-in/aliimam) | NextJS, TailwindCSS, React, Lenis |
+| Ali Imam | [dalim.in](https://dalim.in) | [GitHub](https://github.com/designali-in/designali.in) | Next.js, Typescript, Authjs, Prisma, Cloudinary |
+| Aliyah Adefolake | [aliyahadefolake.com](https://www.aliyahadefolake.com/) | — | ReactJS, Gatsby, SASS, GSAP, Contentful |
+| Alpay Celik | [alpaycelik.dev](https://alpaycelik.dev/) | [GitHub](https://github.com/AlpayC/portfolio_site) | NextJS, TailwindCSS, Typescript, Framer Motion |
+| Anand Baraik | [anandbaraik.github.io](https://anandbaraik.github.io) | [GitHub](https://github.com/anandbaraik/anandbaraik.github.io) | HTML, CSS, React.js |
+| Andrea Toffanello | [andreatoffanello.com](https://andreatoffanello.com) | — | VueJS, ThreeJS, GSAP, Blender |
+| Andrew Baisden | [andrewbaisden.com](https://andrewbaisden.com) | [GitHub](https://github.com/andrewbaisden/andrew-baisden-portfolio-2022) | HTML, CSS, TypeScript, ReactJS |
+| Andrew Branch | [blog.andrewbran.ch](https://blog.andrewbran.ch/) | [GitHub](https://github.com/andrewbranch/blog) | Gatsby, TypeScript, Emotion, Netlify |
+| Anirban Das | [anirbandas.in](https://www.anirbandas.in/) | [GitHub](https://github.com/anirban12d/portfolio-2023) | Qwik, React, Tailwind CSS |
+| Anish De | [anishde.dev](https://anishde.dev) | [GitHub](https://github.com/AnishDe12020/portfolio) | Next.js, TypeScript, Tailwind CSS |
+| Anshul Gora | [anshulwork.netlify.app](https://anshulwork.netlify.app/) | — | ReactJs, Bootstrap, Vanilla CSS |
+| Anshul Soni | [anshulsoni.in](https://www.anshulsoni.in/) | [GitHub](https://github.com/anshulsoni2010/portfolio-website) | HTML, CSS, JavaScript |
+| Anthony Fu | [antfu.me](https://antfu.me/) | [GitHub](https://github.com/antfu/antfu.me) | VueJS, Markdown, TypeScript |
+| Antonio Ayola | [antonioayola.netlify.app](https://antonioayola.netlify.app) | [GitHub](https://github.com/Tono2007/Portafolio) | React, HTML, CSS, PWA |
+| Anuoluwapo Abolarin | [anuoluwapo.xyz](https://anuoluwapo.xyz/) | [GitHub](https://github.com/Anu-oluwapo/portfolio-v2) | VueJS, SCSS, GSAP, Vite |
+| Anurag Hazra | [anuraghazra.dev](https://anuraghazra.dev/) | [GitHub](https://github.com/anuraghazra/anuraghazra.github.io) | React, Gatsby, Styled-components |
+| Anubhav Sigdel | [anubhavsigdel.vercel.app](https://anubhavsigdel.vercel.app/) | [GitHub](https://github.com/asigdel29/portfolio) | HTML, CSS, JS |
+| Apoorv Maurya | [apoorv.onrender.com](https://apoorv.onrender.com) | [GitHub](https://github.com/apoorvmaurya/portfolio) | HTML, CSS, JavaScript |
+| Ara Oladipo | [araoladipo.tech](https://araoladipo.tech/) | [GitHub](https://github.com/Ara-O/Portfolio-Website) | HTML, CSS, Vue.js, Spline3D |
+| Arafat Islam | [portfolio-khaki-iota-89.vercel.app](https://portfolio-khaki-iota-89.vercel.app/) | [GitHub](https://github.com/arafat4693/portfolio) | NextJS, TypeScript, GraphQL, Tailwind |
+| Aravind Ashokan | [aravindashokan.tech](https://aravindashokan.tech) | [GitHub](https://github.com/code-lover636/aravindashokan) | ReactJS, CSS(SASS), Framer Motion |
+| Aravind Balla | [aravindballa.com](https://aravindballa.com) | [GitHub](https://github.com/aravindballa/website) | NextJS, TypeScript, Tailwind CSS |
+| Archit Agrawal | [archit-agrawal-portfolio.vercel.app](https://archit-agrawal-portfolio.vercel.app/) | [GitHub](https://github.com/ArchitAgrawal25/Portfolio) | HTML, CSS, JavaScript |
+| Ariful Alam | [arifszn.github.io/gitprofile](https://arifszn.github.io/gitprofile) | [GitHub](https://github.com/arifszn/gitprofile) | React, Vite, Tailwind CSS |
+| Aristide Benoist | [aristidebenoist.com](https://aristidebenoist.com/) | — | PHP, JavaScript, WebGL, AWS |
+| Arshdeep Singh | [arshdeepsingh.me](https://arshdeepsingh.me/) | — | NextJS, ReactJS, TailwindCSS |
+| Ashish | [asrvd.me](https://asrvd.me/) | [GitHub](https://github.com/asrvd/asrvd.me) | Next.js, tRPC, Tailwind CSS, TypeScript |
+| Asharib Ali | [cv.asharib.xyz](https://cv.asharib.xyz/) | [GitHub](https://github.com/AsharibAli/cv) | Next.js, React, Typescript, Shadcn/ui |
+| Ashutosh Hathidara | [ashutoshhathidara.com](https://ashutoshhathidara.com/#/) | [GitHub](https://github.com/ashutosh1919/masterPortfolio) | HTML5, CSS3, React, NextJS |
+| Ata Berkay Karakuş | [berkaykrks.com](https://berkaykrks.netlify.app/) | [GitHub](https://github.com/berkaykrks/personal-website) | HTML, CSS, JS |
+| Atijosan Iyanuoluwa | [iyanu-codes-v1.vercel.app](https://iyanu-codes-v1.vercel.app/) | [GitHub](https://github.com/Iyanu1396) | ReactJS, TailwindCSS |
+| Aycan Öğüt | [aycan.dev](https://www.aycan.dev) | [GitHub](https://github.com/aycanogut/aycan.dev) | React, Next, TypeScript, Mantine |
+| Ayodele Ayoola | [ayodeleayoola.com](https://ayodeleayoola.com) | [GitHub](https://github.com/CreedTech/ayodele-ayoola) | NextJs, TypeScript, GSAP, Tailwind CSS |
+| Aziz Rahman | [azizstark.com](https://azizstark.com) | [GitHub](https://github.com/AzizStark/AzizStark/tree/portfolio-v2) | React, Gatsby, Styled-Components, AnimeJS |
+| Babatunde Afreka | [bafrekauiux.framer.website](https://bafrekauiux.framer.website/) | — | Framer, React |
+| Baraa Alshaer | [alshaer.vercel.app](https://alshaer.vercel.app/) | [GitHub](https://github.com/balshaer/alshaer) | React JS, Typescript, Shadcn ui, Tailwind CSS |
+| Ben Holmes | [bholmes.dev](https://bholmes.dev/) | [GitHub](https://github.com/bholmesdev/bholmesdev) | Gatsby, Javascript, SCSS, Pug |
+| Benaiah Alumona | [benrobo.vercel.app](https://benrobo.vercel.app) | [GitHub](https://github.com/benrobo/portfolio-v3) | Reactjs, TailwindCss, Next.js |
+| Bhavin Virani | [bhavinn.xyz](https://bhavinn.xyz) | [GitHub](https://github.com/bhavinvirani/Protfolio) | HTML, CSS, JS, React.js, Github API |
+| Binil B | [thegr8binil.me](https://thegr8binil.me) | [GitHub](https://github.com/thegr8binil/) | Nextjs, Motion, Tailwind CSS, TypeScript, GSAP |
+| Bona Brian Siagian | [bonabrian.com](https://bonabrian.com) | [GitHub](https://github.com/bonabrian/bonabrian.com) | Typescript, NextJs, TailwindCSS, Prisma |
+| Braydon Coyer | [braydoncoyer.dev](https://braydoncoyer.dev/) | [GitHub](https://github.com/braydoncoyer/braydoncoyer.dev) | React, TypeScript, NextJS, Tailwindcss |
+| Brayden | [braydentw.io](https://braydentw.io/) | [GitHub](https://github.com/BraydenTW/braydentw.io) | React, NextJS, TailwindCSS |
+| Brian Lovin | [brianlovin.com](https://brianlovin.com/) | [GitHub](https://github.com/brianlovin/briOS) | NextJS, TypeScript, Tailwind CSS, Prisma |
+| Brittany Chiang | [v4.brittanychiang.com](https://v4.brittanychiang.com/) | [GitHub](https://github.com/bchiang7/v4) | React, Gatsby, Styled-components |
+| Bruno Simon | [bruno-simon.com](https://bruno-simon.com) | [GitHub](https://github.com/brunosimon/folio-2019) | GSAP, ThreeJS, JavaScript |
+| Bryan Smith | [multikitty.onrender.com](https://multikitty.onrender.com) | [GitHub](https://github.com/multikitty/multikitty.github.io) | HTML, CSS, JavaScript |
+| Byunggeun Cho | [bbangjo.kr](https://bbangjo.kr) | [GitHub](https://github.com/bbangjooo/buffalo) | HTML, CSS, JavaScript, TypeScript, Threejs, Blender |
+| Carlos Dubón | [carlosdubon.dev](https://carlosdubon.dev) | — | Next.js 14, TailwindCSS, TypeScript, Framer Motion |
+| Carson Spriggs | [carsonsgit.github.io](https://carsonsgit.github.io/) | [GitHub](https://github.com/carsonSgit/carsonsgit.github.io) | React, TypeScript, SCSS |
+| Cassidy Williams | [cassidoo.co](https://cassidoo.co/) | — | HTML, CSS, JavaScript |
+| Chai Phonbopit | [devahoy.com](https://devahoy.com/) | — | NextJS, Preact, Tailwind CSS, NodeJS |
+| Chandraprakash Darji | [chandraprakash.vercel.app](https://chandraprakash.vercel.app/) | [GitHub](https://github.com/Chandraprakash-Darji/personal) | Nextjs, Typescript, Tailwindcss |
+| Charles Bruyerre | [itssharl.ee](https://itssharl.ee/) | — | NextJS, ThreeJS, PWA |
+| Chris Porter | [madebyporter.com](https://madebyporter.com) | [GitHub](https://github.com/madebyporter/madebyporter) | HTML, Ruby, SCSS, JavaScript |
+| Chris Williams | [astro-theme-cactus.netlify.app](https://astro-theme-cactus.netlify.app/) | [GitHub](https://github.com/chrismwilliams/astro-theme-cactus) | Astro, Typescript, Tailwind CSS |
+| Chun-Ho (Hugo) Lin | [1chooo.com](https://1chooo.com/) | [GitHub](https://github.com/1chooo/1chooo.com) | ReactJS, Next.js, TypeScript |
+| Chung Nguyen Thanh | [chunhthanhde.github.io](https://chunhthanhde.github.io) | [GitHub](https://github.com/chunhthanhde) | Flutter, Dart, Github Pages |
+| Cole Solomon | [colesolomon.me](https://colesolomon.me/) | [GitHub](https://github.com/codecole/colesolomonme) | HTML, CSS, SASS, JavaScript, GSAP |
+| Collins Enebeli | [kadet.dev](https://kadet.dev/) | [GitHub](https://github.com/kadetXx/kadet.dev) | React, Gatsby |
+| Community Pro | [cpro-portfolio-html.netlify.app](https://cpro-portfolio-html.netlify.app) | [GitHub](https://github.com/CommunityPro/portfolio-html) | HTML, CSS, JavaScript |
+| CuB3y0nd | [cubeyond.net](https://cubeyond.net) | [GitHub](https://github.com/CuB3y0nd/cubeyond.net) | Nextjs, MDX, Tailwind CSS, TypeScript |
+| Culture DevOps | [culturedevops.com](https://culturedevops.com/en) | [GitHub](https://github.com/CultureDevOps/blog) | Next.js, Tailwind CSS, i18n |
+| Cyd Stumpel | [cydstumpel.nl](https://cydstumpel.nl/) | — | WordPress, PHP, ThreeJS, GSAP |
+| Çağlar Turalı | [turali.js.org](https://turali.js.org/) | [GitHub](https://github.com/caglarturali/caglarturali.github.io) | React, TypeScript |
+| Dale Larroder | [dalelarroder.com](https://dalelarroder.com) | [GitHub](https://github.com/dlarroder/dalelarroder) | NextJS, Preact, TypeScript, Tailwind, MDX |
+| Damian Demasi | [damiandemasi.com](https://www.damiandemasi.com/) | [GitHub](https://github.com/Colo-Codes/portfolio-v2) | ReactJS, TailwindCSS, DaisyUI |
+| Damian Watracz | [watracz.com](https://watracz.com/) | — | HTML, CSS, JavaScript |
+| Daniel Cranney | [danielcranney.com](https://www.danielcranney.com/) | [GitHub](https://github.com/danielcranney/portfolio) | NextJS, TailwindCSS, Vercel |
+| Daniel Coyula | [portfolio.dctech.dev](https://portfolio.dctech.dev/) | — | Flutter |
+| Daniel Ezekiel | [danielezekiel.me](https://danielezekiel.me/) | [GitHub](https://github.com/Daniel-Ezekiel/Portfolio-Website) | HTML, CSS, JavaScript |
+| Daniel Wisky | [danielwisky.com.br](https://danielwisky.com.br/) | [GitHub](https://github.com/danielwisky/danielwisky.github.io) | HTML, CSS, JavaScript |
+| Danilo Batson | [batson-portfolio.vercel.app](https://batson-portfolio.vercel.app/) | [GitHub](https://github.com/danilobatson/batson-portfolio) | TypeScript, JavaScript, React, Vue, Node |
+| Danny Garcia | [danny-garcia.com](https://danny-garcia.com/) | [GitHub](https://github.com/dannygarcia/dannygarcia.github.com) | HTML5, TypeScript, GLSL, Netlify |
+| Danny Johnson | [mrdannyjohnson.co.uk](https://www.mrdannyjohnson.co.uk/) | — | Astro, Vue, Sanity, Tailwind CSS |
+| David Angulo | [davidangulo.xyz](https://www.davidangulo.xyz/) | [GitHub](https://github.com/dcangulo/davidangulo.xyz) | HTML, Jekyll, Ruby, Bootstrap |
+| David Darnes | [darn.es](https://darn.es) | — | Netlify, Jekyll |
+| David Heckoff | [david-hckh.com](https://david-hckh.com/) | — | HTML, CSS, ThreeJS, GSAP |
+| David Obodo | [davidobodo.com](https://www.davidobodo.com/) | — | NextJS, Typescript, SASS, GSAP |
+| David Simoes | [davesimoesportfolio.netlify.app](https://davesimoesportfolio.netlify.app/) | [GitHub](https://github.com/DaveSimoes/Developer.Portfolio) | HTML, CSS, JavaScript |
+| DEBAJYOTI GHOSH | [convolexa-2503.web.app](https://convolexa-2503.web.app/) | — | React JS |
+| Deepak Modi | [deepakmodi.tech](https://deepakmodi.tech/) | [GitHub](https://github.com/decodewithdeepak/Portfolio) | React, Tailwind CSS, TypeScript |
+| Deepanshu Mehra | [deeshu2002.github.io/folio](https://deeshu2002.github.io/folio) | [GitHub](https://github.com/deeshu2002/folio) | HTML, CSS, TypeScript, Vite, PWA |
+| Deidre Driscoll | [deidredriscoll.com](https://deidredriscoll.com) | — | HTML, JavaScript, CSS, GSAP |
+| Dejan Markovic | [dejan.works](https://www.dejan.works) | — | HTML, CSS, JavaScript, Jquery |
+| Delba Oliviera | [delba.dev](https://delba.dev/) | [GitHub](https://github.com/delbaoliveira/website) | Next.js, MDX, Tailwind, Prisma |
+| Dennis Snellenberg | [dennissnellenberg.com](https://dennissnellenberg.com/) | — | GSAP, JQuery, PHP, VueJS |
+| Dev Clinton | [devclinton.org](https://devclinton.org/) | — | NextJS, ReactJS, TailwindCSS, Prismic, Framer Motion |
+| Dev Khandelwal | [slyro.vercel.app](https://slyro.vercel.app/) | [GitHub](https://github.com/khandelwaldev/dev) | Next.JS, Tailwind CSS, MDX |
+| Dhairya Majmudar | [dhaiyra-majmudar.netlify.app](https://dhaiyra-majmudar.netlify.app) | [GitHub](https://github.com/DhairyaMajmudar/Personal-Portfolio) | React, Tailwind, Material UI |
+| Dipesh Murmu | [dipeshmurmu.com.np](https://dipeshmurmu.com.np/) | — | Tailwind, Alpine, Laravel, Livewire |
+| Divyansh Kathuria | [divyanshkathuria.netlify.app](https://divyanshkathuria.netlify.app/) | [GitHub](https://github.com/DIVYANSHKATHURIA) | HTML, CSS, React, Three.js |
+| Dogan Merden | [doganmerden.vercel.app](https://doganmerden.vercel.app/) | — | Next.js, TypeScript, Tailwind CSS, Framer Motion |
+| Durgesh | [yodkwtf.com](https://yodkwtf.com/) | [GitHub](https://github.com/yodkwtf/yodkwtf.com) | ReactJS, CSS, Context API, Airtable CMS |
+| Efren Martinez | [efrencodes.com](https://efrencodes.com) | [GitHub](https://github.com/efrencodes/efrencodes.ts) | NextJS, TypeScript, TailwindCSS |
+| Eliaz LR | [eliaz-lr.dev](https://eliaz-lr.dev/) | [GitHub](https://github.com/Eliaz-LR/portfolio-v3) | Astro, TailwindCSS, Vue, DaisyUI |
+| Emmanuel Alabi | [emmanuelalabi.vercel.app](https://emmanuelalabi.vercel.app/) | — | HTML, TailwindCSS |
+| Emmanuel Ebeh | [emmanuelebeh.dev](https://emmanuelebeh.dev) | — | React, Tanstack Start, TailwindCSS, Framer Motion |
+| Emmanuel Nsikan-david | [nsikandavid.dev](https://nsikandavid.dev) | — | ReactJS, CSS |
+| Enes Hacısağır | [enesehs.me](https://www.enesehs.me/) | [GitHub](https://github.com/enesehs) | HTML, CSS, JavaScript, GSAP |
+| Erika Senft Miller | [erikasenftmiller.com](https://www.erikasenftmiller.com/) | — | Contentful, GSAP, LazySizes, PWA |
+| Erys Mozo | [erysmozo.vercel.app](https://erysmozo.vercel.app/) | [GitHub](https://github.com/ErysCode7/Web-Portfolio) | React, SASS, Vite, AOS |
+| Eva Decker | [evadecker.com](https://evadecker.com) | [GitHub](https://github.com/evadecker/evadecker.com) | Astro, React, TypeScript, Framer Motion |
+| Farouk Mustapha | [devfarouk.vercel.app](https://devfarouk.vercel.app/) | [GitHub](https://github.com/Farouk-ayo/devfarouk) | NextJs, Typescript, TailwindCSS, AOS |
+| Franklin Ohaegbulam | [frankiefab.com](https://frankiefab.com) | [GitHub](https://github.com/frankiefab100/frankiefab.tech) | HTML, CSS, JavaScript |
+| Gavin Nelson | [nelson.co](https://nelson.co/) | [GitHub](https://github.com/gavinmn/nelson.co) | NextJS, Tailwind CSS, MDX |
+| George Christeas | [chr-ge.com](https://chr-ge.com/) | [GitHub](https://github.com/chr-ge/chr-ge.com) | Next.js, Typescript, ChakraUI |
+| George Francis | [georgefrancis.dev](https://georgefrancis.dev) | — | GSAP, Netlify, HTML, CSS |
+| Ghulam Ahmed | [gahmed.com](https://gahmed.com) | [GitHub](https://github.com/theghulam) | Astro, Solid.js, TypeScript, TailwindCSS |
+| Glayson Visgueira | [glaysonvisgueira.vercel.app](https://glaysonvisgueira.vercel.app/) | [GitHub](https://github.com/Glaysonvisgueira/glaysonvisgueira_next-js) | NextJS, Styled-components, NodeJS |
+| Goodness Urama | [goodie.work](https://www.goodie.work/) | [GitHub](https://github.com/GoodyBoy301/goodie.work) | Pug, SCSS, ThreeJS, GSAP |
+| Greg Ives | [gregives.co.uk](https://www.gregives.co.uk) | [GitHub](https://github.com/gregives/gregives.co.uk) | Vue, NuxtJS, SASS, Netlify |
+| Gregory Koberger | [gkoberger.com](https://gkoberger.com/) | — | VueJS, GSAP, NodeJS, Express |
+| Guillaume Gouessan | [guillaumegouessan.com](https://guillaumegouessan.com/) | [GitHub](https://github.com/superguigui/guillaumegouessan.com) | GSAP, ThreeJS, JavaScript |
+| Guglielmo Cerri | [guglielmocerri.github.io](https://guglielmocerri.github.io) | [GitHub](https://github.com/GuglielmoCerri/GuglielmoCerri.github.io) | HTML, CSS, JavaScript |
+| Hanaia Youcef | [poysa213.me](https://poysa213.me/) | [GitHub](https://github.com/poysa213/portfolio) | Typescript, NextJS, TailwindCSS, Framer Motion |
+| Hanif Yuli Abdillah | [hanifabdlh.vercel.app](https://hanifabdlh.vercel.app/) | — | Python, HTML, CSS, JS |
+| Hardik Gohil | [hardikgohil.space](https://hardikgohil.space/) | — | Next.js, TypeScript, Tailwind CSS, Firebase |
+| Hari Prasad | [hariprasd.me](https://hariprasd.me) | [GitHub](https://github.com/hariprasd) | React, Tailwind CSS |
+| Hari Thatikonda | [thughari.github.io](https://thughari.github.io) | [GitHub](https://github.com/thughari/thughari.github.io) | HTML, CSS, JS, Google Sheets |
+| Harsh Singh | [harshsingh.xyz](https://harshsingh.xyz/) | [GitHub](https://github.com/harshhhdev/harshhhdev.github.io) | NextJS, TailwindCSS, TypeScript, Prisma |
+| Hikmet C. Kufteoglu | [hicaku.com](https://hicaku.com) | [GitHub](https://github.com/spencehiko/portfolio) | Vue 3, Pinia, TypeScript |
+| Hisami Kurita | [hsmkrt1996.com](https://hsmkrt1996.com/) | [GitHub](https://github.com/hisamikurita/hisamikurita-portfoliosite) | Vue.js, Nuxt.js, SCSS, ThreeJS, GSAP |
+| Huy Nguyen | [huyng.xyz](https://www.huyng.xyz/) | — | React.js, TailwindCSS, GSAP, Lenis |
+| Ibrahim Sadik Tamim | [tam11a.dev](https://tam11a.dev) | [GitHub](https://github.com/tam11a/tam11a.dev) | NextJS, TypeScript, TailwindCSS, Framer, GSAP |
+| Idris Olubisi | [idrisolubisi.com](https://idrisolubisi.com) | [GitHub](https://github.com/Olanetsoft/idrisolubisi.com) | ReactJs, GatsbyJs, TypedJs, Styled Component |
+| Ifedili Onyegbu | [ifedili.com](https://www.ifedili.com) | [GitHub](https://github.com/saucecodee/ifedili.com) | Angular, TypeScript, SASS |
+| Isaac Fayemi | [fayemi.design](https://www.fayemi.design/) | — | Vanilla JS, Prismic CMS, SCSS, ThreeJS, GSAP |
+| Ismael López | [ismaellopez.dev](https://ismaellopez.dev) | — | Svelte, JavaScript, CSS, Netlify CMS |
+| Ismoilbek Ilxomov | [ismail.uz](https://ismail.uz/) | — | NextJS, TailwindCSS, Netlify |
+| Israel Mitolu | [mitolu.dev](https://mitolu.dev) | [GitHub](https://github.com/israelmitolu/premier-portfolio) | HTML, SASS, Javascript, GSAP |
+| Jaber Said | [jaber.dev](https://jaber.dev) | [GitHub](https://github.com/Jaber-Saed/3d-protfoluo) | React JS, Tailwind CSS, Three JS |
+| Jacob Valdez | [jacobfv.github.io](https://jacobfv.github.io) | [GitHub](https://github.com/JacobFV/jacobfv.github.io) | HTML, Jekyll |
+| Jahir Fiquitiva | [jahir.dev](https://jahir.dev/) | [GitHub](https://github.com/jahirfiquitiva/jahir.dev) | Next.js, Tailwind CSS, MDX, PlanetScale |
+| Jahidul Islam | [XahidEx.com](https://xahidex.com/) | — | Typescript, NextJs, TailwindCSS, Prisma |
+| James Warner | [jmswrnr.com](https://jmswrnr.com/) | — | NextJS, Sanity, NodeJS, ThreeJS |
+| Jason Lengstorf | [jason.energy](https://www.jason.energy) | [GitHub](https://github.com/jlengstorf/jason.energy) | JavaScript, TypeScript, Nunjucks |
+| Jawher Kallel | [jawherkl-github-io.vercel.app](https://jawherkl-github-io.vercel.app/) | [GitHub](https://github.com/JawherKl) | PHP, JavaScript, Go, Java, TypeScript |
+| Jay Bhavsar | [jay.is-savvy.dev](https://jay.is-savvy.dev) | [GitHub](https://github.com/jbhv12/portfolio) | Vue, Gridsome, Tailwind CSS |
+| Jatin Kamboj | [jatinkamboj.me](https://jatinkamboj.me/) | — | HTML, CSS, JavaScript, GreenSock |
+| Jeferson Brito | [jefersonsilva.me](https://www.jefersonsilva.me/) | [GitHub](https://github.com/jeferson-sb/portfolio) | Vue 3.0, Vite |
+| Jemima Abu | [jemimaabu.com](https://jemimaabu.com) | [GitHub](https://github.com/jemimaabu/portfolio) | HTML, CSS, JavaScript |
+| Jesse Akoh | [jesseakoh.com](https://jesseakoh.com) | — | Astro, TailwindCSS, Netlify |
+| Jesse Zhou | [jesse-zhou.com](https://jesse-zhou.com/) | [GitHub](https://github.com/enderh3art/Ramen-Shop) | HTML, GLSL, Howler.js, GSAP, Three.js, Node.js |
+| Jhey Tompkins | [jhey.dev](https://jhey.dev/) | [GitHub](https://github.com/jh3y/jhey.dev) | Sanity, Astro, Tailwind CSS |
+| Jimmy Soussan | [cozy-codeur.fr](https://www.cozy-codeur.fr) | [GitHub](https://github.com/jilink/personal-portfolio) | React, Gatsby, Chakra UI, Framer Motion |
+| JJ Kasper | [jjsweb.site](https://jjsweb.site/) | [GitHub](https://github.com/ijjk/jjsweb.site) | NextJS, Vercel, CSS |
+| Johnson Takashi | [johnson-takashi-blockchain.web.app](https://johnson-takashi-blockchain.web.app/) | [GitHub](https://github.com/John-T45/John-T45.github.io) | HTML, CSS, Bootstrap, JavaScript |
+| Jonathan Toon | [jonathontoon.com](https://jonathontoon.com/) | [GitHub](https://github.com/jonathontoon/jonathontoon.com) | Gulp, EsBuild, postCSS, Nunjuck |
+| Josh Comeau | [joshwcomeau.com](https://www.joshwcomeau.com/) | — | NextJS, Styled Components, MDX, Framer Motion |
+| Josiah B. Etuk | [jobenetuk.dev](https://jobenetuk.dev/) | — | Vanilla JS, Node JS, Prismic CMS, SASS, GSAP |
+| Julia Johnson | [juliacodes.com](https://www.juliacodes.com/) | [GitHub](https://github.com/juliacodes/JuliaCodesGatsby) | React, Styled-components |
+| Julien Thême | [julien-theme.dev](https://julien-theme.dev/) | [GitHub](https://github.com/ZIRTR0X/PersonalWebsite) | Angular, TailwindCSS, ThreeJs |
+| Kaung Myat Kyaw | [barry121.com](https://barry121.vercel.app/) | [GitHub](https://github.com/Rhaegar121/Portfolio) | ReactJS, ThreeJS, TailwindCSS |
+| Kartik Jain | [jkartik.in](https://jkartik.in) | [GitHub](https://github.com/KartikJain14/jkartik.in) | HTML, CSS, JavaScript |
+| Kavan Bhavsar | [kavan-bhavsar.vercel.app](https://kavan-bhavsar.vercel.app) | — | Next.js, Tailwind, Framer Motion, Convex, Spline |
+| Kehinde Omopariola | [pariola.dev](https://www.pariola.dev) | [GitHub](https://github.com/Pariola-droid/pariola-v2.2.0) | NextJS, Typescript, SASS, Motion One |
+| Kent C. Dodds | [kentcdodds.com](https://kentcdodds.com) | [GitHub](https://github.com/kentcdodds/kentcdodds.com) | React, TypeScript, Remix, Prisma, Redis, Postgres |
+| Ketuman Vishwakarma | [k2maan.vercel.app](https://k2maan.vercel.app/) | — | NextJS, TailwindCSS |
+| Khaled Mohamed | [John Doe](https://portfolio-john2.netlify.app/) | — | HTML5, SCSS, Bootstrap5, JavaScript |
+| Krishnakumar Valliappan | [krishnakumar.dev](https://www.krishnakumar.dev/) | [GitHub](https://github.com/krishnavalliappan/portfolio-website) | Next.js, Framer, TypeScript, TailwindCSS, shadcn/ui |
+| Krish Depani | [krish-depani.vercel.app](https://krish-depani.vercel.app/) | [GitHub](https://github.com/Krish-Depani/Portfolio-Website) | HTML & CSS |
+| Kshitij Gehlot | [KDGehlot2003.github.io](https://kdgehlot2003.github.io/Portfolio/) | [GitHub](https://github.com/KDGehlot2003/Portfolio) | HTML, CSS, Bootstrap, JavaScript |
+| Lanre Adelowo | [lanre.wtf](https://lanre.wtf/) | — | NextJS, CSS Modules, GSAP, Vercel, Hugo |
+| Lazar Nikolov | [nikolovlazar.com](https://nikolovlazar.com) | [GitHub](https://github.com/nikolovlazar/nikolovlazar.com) | Next.js, Chakra UI, MDX, Prisma, PlanetScale |
+| Le Vinh Khang | [levinhkhang.org](https://levinhkhang.org/) | [GitHub](https://github.com/levinhkhangzz/personal-website) | NextJS, TailwindCSS, React |
+| Lee Robinson | [leerob.io](https://leerob.io/) | [GitHub](https://github.com/leerob/leerob.io) | Next.js, PlanetScale, Prisma, Sanity, Tailwind CSS |
+| Leonel Ngoya | [lndev.me](https://lndev.me) | [GitHub](https://github.com/ln-dev7) | HTML, CSS, JavaScript |
+| Leonid Meleshin | [leon0399.ru](https://leon0399.ru/) | [GitHub](https://github.com/leon0399/leon0399.ru) | ReactJS, Tailwind, CSS, Vercel |
+| LNLenost | [lnlenost.netlify.app](https://lnlenost.netlify.app/) | [GitHub](https://github.com/LNLenost/lnlenost.github.io) | HTML, SASS, JavaScript |
+| Louis Hoebregts | [mamboleoo.be](https://www.mamboleoo.be) | — | PHP, Parcel |
+| Lynn Fisher | [lynnandtonic.com](https://lynnandtonic.com/) | [GitHub](https://github.com/lynnandtonic/lynnandtonic.com) | HTML5, CSS, JavaScript, SVG |
+| M. Shahanwaz | [mshahanwaz.me](https://mshahanwaz.me) | [GitHub](https://github.com/mshahanwaz/portfolio-v4) | HTML, CSS, JavaScript, React, Next.js |
+| Madhurima Rawat | [madhurimarawat.github.io](https://madhurimarawat.github.io/Portfolio-Website/) | [GitHub](https://github.com/madhurimarawat/Portfolio-Website) | HTML, CSS, JS, Bootstrap |
+| Maggie Appleton | [maggieappleton.com](https://maggieappleton.com/) | [GitHub](https://github.com/MaggieAppleton/maggieappleton.com-V2) | React, Next.js, MDX, Algolia, Framer Motion |
+| MAHG | [mahg.me](https://mahg.me) | [GitHub](https://github.com/mahg0899/mahg) | NextJS, React, Typescript, TailwindCSS, Payload |
+| Mahmoud Elkariouny | [clear-sleet.surge.sh](https://clear-sleet.surge.sh/) | [GitHub](https://github.com/mahmoudessam820/my_portfolio) | HTML, CSS, JavaScript |
+| Mahmoud Ibrahim | [mahmoudibrahim.me](https://mahmoudibrahim.me) | — | React, Strapi, Bootstrap, TypeScript, Netlify |
+| Malik Naik | [maliknaik.me](https://www.maliknaik.me/) | — | HTML, CSS, Bootstrap, JavaScript |
+| Malaka Venugopal Reddy | [malakavenu.com](https://malakavenu.com) | — | Next.js, React, TypeScript, MDX, Vercel |
+| Manh Hung Dao | [age-of-23.vercel.app](https://age-of-23.vercel.app/) | [GitHub](https://github.com/mahhung12/AgeOf23) | Nextjs, MDX, Tailwind CSS, TypeScript |
+| Manish Kumar | [manishk.dev](https://manishk.dev) | [GitHub](https://github.com/manishprivet/portfolio) | React, Next, TypeScript, ParticleJS, Firebase |
+| Manish Tamang | [manishtamang.com](https://manishtamang.com/) | — | Next.js, TailwindCSS, React, Sanity |
+| Manuel David Gomez | [manueldavgomez.com](https://manueldavgomez.github.io/manueldavidgomez/) | [GitHub](https://github.com/ManuelDavGomez/manueldavidgomez) | ReactJs, Bootstrap, Vite |
+| Marcos Moura | [marcos-moura97.github.io](https://marcos-moura97.github.io/) | [GitHub](https://github.com/marcos-moura97/marcos-moura97.github.io) | HTML, CSS, JavaScript, Threejs |
+| Marieflor Bawanan | [marieflor.dev](https://marieflor.dev) | [GitHub](https://github.com/mariebawanan/marieflor.dev) | NextJS, TypeScript, TailwindCSS, GSAP |
+| Mariya Baig | [mariyabaig.vercel.app](https://mariyabaig.vercel.app/) | — | NextJS, TailwindCSS |
+| Mathis Zeghouani | [mathisdev.pro](https://mathisdev.pro) | [GitHub](https://github.com/mathisdev7/my-portfolio) | Next.js, React, Tailwind CSS, TypeScript |
+| Matteo Santoro | [matteosantoro.dev](https://matteosantoro.dev) | — | JavaScript, WebGL |
+| Matthew Kretschmann | [matthiaskretschmann.com](https://matthiaskretschmann.com/) | [GitHub](https://github.com/kremalicious/portfolio) | NextJS, TypeScript, CSS Modules |
+| Maxime Heckel | [maximeheckel.com](https://maximeheckel.com/) | [GitHub](https://github.com/MaximeHeckel/blog.maximeheckel.com) | NextJS, TypeScript, MDX |
+| Max Böck | [mxb.dev](https://mxb.dev) | [GitHub](https://github.com/maxboeck/mxb) | Eleventy, SCSS, Nunjucks |
+| MD Affan Asghar | [affancoder.github.io/Portfolio_Website](https://affancoder.github.io/Portfolio_Website/) | [GitHub](https://github.com/affancoder/Portfolio_Website) | HTML, CSS, JavaScript |
+| Md Nayeem Hossain | [nayeemdev.github.io](https://nayeemdev.github.io/) | [GitHub](https://github.com/nayeemdev/nayeemdev.github.io) | HTML, CSS, Bootstrap, Javascript |
+| Michael Kolesidis | [michaelkolesidis.com](https://michaelkolesidis.com/) | [GitHub](https://github.com/michaelkolesidis/michaelkolesidis.com) | TypeScript, p5.js, Sass, Vite |
+| Mike Bifulco | [mikebifulco.com](https://mikebifulco.com) | [GitHub](https://github.com/mbifulco/blog) | NextJS, React, SCSS, MDX |
+| Mike Liu | [mikeliuu.com](https://mikeliuu.com) | [GitHub](https://github.com/mikeliuu/mikeliuu.com) | NextJS, TypeScript, Tailwind CSS |
+| Mihir | [mihir-portfolio-main-777.vercel.app](https://mihir-portfolio-main-777.vercel.app/) | [GitHub](https://github.com/MIHIR2006/mihir-portfolio) | React, Framer, GSAP, EmailJS |
+| Moe Dayraki | [moe.dayrakiarts.com](https://moe.dayrakiarts.com) | [GitHub](https://github.com/moedayraki/moedayraki.github.io) | Vue 3, Vite, Cypress, Tailwindcss |
+| Modupe Akanni | [modupe-akanni.vercel.app](https://modupe-akanni.vercel.app/) | [GitHub](https://github.com/Goketech/next-p) | React, Next.js, Styled Components |
+| Moinak Majumdar | [moinak05.vercel.app](https://moinak05.vercel.app/) | [GitHub](https://github.com/Moinak-Majumdar/portfolio) | Next.js, TypeScript, Framer Motion |
+| Monica Powell | [aboutmonica.com](https://aboutmonica.com/) | — | Gatsby, Emotion, Netlify |
+| Moshood Sanusi | [olawale.dev](https://www.olawale.dev/) | — | ReactJS, TailwindCSS, GSAP |
+| Mukul Chugh | [mukulchugh.com](https://mukulchugh.com/) | — | React, Next.js, Styled Components, Netlify |
+| Muhammad Essa | [muhammadessa.vercel.app](https://muhammadessa.vercel.app/) | [GitHub](https://github.com/imuhammadessa) | React.js, Next.js, Tailwind, MUI |
+| Muhammad Naeem Tahir | [muhammadnaeemtahir.github.io](https://muhammadnaeemtahir.github.io/) | [GitHub](https://github.com/muhammadnaeemtahir/muhammadnaeemtahir.github.io) | HTML, CSS, JavaScript, Bootstrap |
+| Nafis Mahmud Ayon | [nafisbd.com](https://nafisbd.com/) | [GitHub](https://github.com/NafisMahmudAyon/Portfolio-NafisBd.com-v2) | React Js, Framer Motion, NextJS, TailwindCSS |
+| Naseem Khan | [naseemkhan.dev](https://naseemkhan.dev) | [GitHub](https://github.com/naseemkhandev) | Next.js, Supabase, Prisma, MDX, Tailwind CSS |
+| Nat Anselm | [nanselm.com](https://nanselm.com) | — | Astro, DaisyUI, TailwindCSS |
+| Nicholas Gannon | [nicholasgannon.io](https://nicholasgannon.io/) | [GitHub](https://github.com/NicholasGannon/Portfolio) | HTML, TailwindCSS, JavaScript |
+| Ngô Phú Thịnh | [thinhcorner.com](https://thinhcorner.com) | [GitHub](https://github.com/Th1nhNg0/th1nhng0.vercel.app) | NextJS, TailwindCSS, TypeScript |
+| Nguyen Tran Gia Si | [nguyentrangiasi.id.vn](https://nguyentrangiasi.id.vn/) | [GitHub](https://github.com/giasinguyen/GiaSi-Portfolio) | ReactJS, Tailwind CSS, Three.js, GSAP |
+| Nikhil Rajput | [nixrajput.nixlab.co.in](https://nixrajput.nixlab.co.in/) | [GitHub](https://github.com/nixrajput/portfolio-nextjs) | Next.js, SCSS, Node.js |
+| Nirban Chakraborty | [nirban-chakraborty.netlify.app](https://nirban-chakraborty.netlify.app/) | [GitHub](https://github.com/nirban256/personal_website) | ReactJs, JavaScript, SASS |
+| Nisarg Kavi | [nisargkavi.in](https://www.nisargkavi.in/) | — | Nextjs, Tailwind CSS, Framer Motion, AnimeJS |
+| Odhy Pradhana | [odhyp.com](https://odhyp.com/) | [GitHub](https://github.com/odhyp/odhyp.com) | Hugo, TailwindCSS, JavaScript |
+| Olasunkanmi Balogun | [kanmibalogun.vercel.app](https://kanmibalogun.vercel.app/) | [GitHub](https://github.com/SiR-PENt/folio-me) | NextJS, JavaScript, Tailwind, Framer-motion |
+| Olamide Adeyi | [olamideadeyi.com](https://www.olamideadeyi.com) | — | Vue, NuxtJS, GSAP |
+| Olamide Sholanke | [olamide.dev](https://www.olamide.dev/) | — | Vue, NuxtJS |
+| Olaolu Olawuyi | [olaolu.dev](https://olaolu.dev) | [GitHub](https://github.com/whizkydee/olaolu.dev) | VueJS, JavaScript, styled-components, Sass |
+| Oluwadare Oluwaseyi | [seyi.dev](https://www.seyi.dev) | [GitHub](https://github.com/oluwadareseyi/folio-v2) | HTML, SCSS, JavaScript, GSAP |
+| Omar Sherif Ali | [osa-portfolio.vercel.app](https://osa-portfolio.vercel.app/) | [GitHub](https://github.com/omar-sherif9992) | ReactJs, JavaScript, CSS, HTML |
+| Oscar Barajas | [gndx.io](https://gndx.io) | [GitHub](https://github.com/gndx/gndx.io) | HTML, TailwindCSS |
+| Parish Khan | [parish.cv](https://parish.cv) | — | React, TypeScript, Tailwind CSS, Vite |
+| Parth Desai | [musing.vercel.app](https://musing.vercel.app/) | [GitHub](https://github.com/pycoder2000/blog) | TailwindCSS, React, Next.JS, MDX |
+| Patrick David | [bepatrickdavid.com](https://bepatrickdavid.com/) | — | HTML, CSS, jQuery, ThreeJS, GSAP |
+| Patrick Heng | [patrickheng.com](https://patrickheng.com/) | — | Nuxt.js, GSAP, ThreeJS |
+| Patrick Scott | [pscott.io](https://pscott.io) | — | React.js, Heroku, Github Pages |
+| Patrick T.LO | [pleaseleaveon.com](https://pleaseleaveon.com/) | — | HTML5, CSS, JavaScript, jQuery |
+| Payton Pierce | [paytonpierce.dev](https://paytonpierce.dev) | [GitHub](https://github.com/paytonjewell/paytonpierce.dev) | ReactJS, Material UI |
+| Peace Jinadu-Paul | [pjpportfolio.netlify.app](https://pjpportfolio.netlify.app/) | [GitHub](https://github.com/Pappyjay23/my-portfolio-1) | React, CSS, Framer Motion, Netlify |
+| Peter Tait | [petertait.com](https://petertait.com) | [GitHub](https://github.com/petertait/petertait.com) | React, Webpack, Radium, Netlify |
+| Phillip Cabrera | [Portfolio](https://pcabreram-portfolio.netlify.app/) | [GitHub](https://github.com/pcabreram1234/portfolio) | HTML, CSS, JavaScript, Webpack, ReactJs |
+| Phong Nguyen | [napthedev.com](https://napthedev.com) | [GitHub](https://github.com/napthedev/portfolio-next) | Nextjs, Tailwind, Framer-motion |
+| Pieter-Jan Scheir | [pieterjanscheir.com](https://www.pieterjanscheir.com/) | — | React/Next.js, Typescript, Tailwindcss |
+| Pintu Singh | [pintusingh28.dev](https://pintusingh28.dev/) | — | Next.js, TypeScript, TailwindCSS, Framer Motion |
+| Piyush Goyani | [piyushgoyani.thesourcepedia.org](https://piyushgoyani.thesourcepedia.org) | — | VueJS, Gridsome, TailwindCSS, Firebase |
+| Praveen Kumar | [praveen.science](https://praveen.science/) | [GitHub](https://github.com/praveenscience/praveenscience) | Bootstrap 4.3, PHP, JavaScript |
+| Pravin Mane | [pravinmane.com](https://www.pravinmane.com/) | [GitHub](https://github.com/pravinmane1/Portfolio) | Angular, HTML, SCSS, TypeScript |
+| Prince Muhammad | [princemuhammad.pro](https://princemuhammad.pro) | — | JavaScript, React.js, Next.js, TailwindCSS |
+| Priyankar Pal | [itspp.vercel.app](https://itspp.vercel.app) | [GitHub](https://github.com/priyankarpal/Priyankar) | HTML & SCSS |
+| Pritish Samal | [pritishsamal.com](https://pritishsamal.com/) | [GitHub](https://github.com/CIPHERTron/portfolio-v2) | Next.js, TypeScript, Emotion, Chakra UI |
+| Priyanshu Tiwari | [priyanshu-tiwari.vercel.app](https://priyanshu-tiwari.vercel.app/) | [GitHub](https://github.com/priyanshtiwari001/portfolio) | NextJS, TailwindCSS, TypeScript, ThreeJS |
+| Pyae Sone | [pyaesonepsn.github.io](https://pyaesonepsn.github.io/portfolio-project/) | [GitHub](https://github.com/pyaesonepsn/portfolio-project) | HTML, CSS, JavaScript |
+| Rafael Conde | [rafa.design](https://rafa.design) | [GitHub](https://github.com/rafaelconde/rafaelconde) | Nunjucks, JavaScript, CSS |
+| Rafael Derolez | [derolez.dev](https://derolez.dev/) | — | NextJS, Sanity, ChakraUI, Emotion |
+| Rafael Santana | [rafaelsantana.dev](https://www.rafaelsantana.dev/) | [GitHub](https://github.com/rafalmeida73/portfolio) | Next.js, Material UI, TypeScript |
+| Raj Savaliya | [rajsavaliya.com](https://www.rajsavaliya.com/) | [GitHub](https://github.com/SRX9/portfoliosrx9) | NextJS, React, TypeScript, Tailwind CSS |
+| Raphaël Chelly | [raphaelchelly.com](https://www.raphaelchelly.com) | [GitHub](https://github.com/raphaelchelly/raph_www) | Next.js, TailwindCSS, Vercel |
+| Rauno Freiberg | [rauno.me](https://rauno.me/) | — | NextJS, NodeJS, Stitches, Vercel |
+| Rauliqbal | [rauliqbal.vercel.app](https://rauliqbal.vercel.app/) | — | Next JS, TypeScript, Tailwind CSS, Framer Motion |
+| Rémy Beumier | [remybeumier.be](https://remybeumier.be/) | [GitHub](https://github.com/beumsk/beumsk.github.io) | Next.js, Sass, MDX, AOS |
+| Reuben Rapose | [reubence.com](https://reubence.com) | [GitHub](https://github.com/reubence/reubence) | HTML, TailwindCSS, React, Next.JS, MDX |
+| Reza Ghasemzadeh | [rezaghz.com](https://rezaghz.com) | — | HTML, CSS, Bootstrap, Javascript |
+| Rick Waalders | [rickwaalders.com](https://www.rickwaalders.com) | — | NextJS, React, NodeJS, GSAP, Webpack |
+| Rida F'kih | [rida.dev](https://www.rida.dev/) | [GitHub](https://github.com/ridafkih/portfolio) | React, NextJS |
+| Rifqi Banu Safingi | [rifqibanusafingi.vercel.app](https://rifqibanusafingi.vercel.app/) | — | Next.js, TypeScript, TailwindCSS, Supabase |
+| Rishi Mohan | [rishimohan.me](https://rishimohan.me) | [GitHub](https://github.com/rishimohan/rishimohan.me) | Next.js, TailwindCSS, Framer Motion |
+| Robb Owen | [robbowen.digital](https://robbowen.digital/) | — | HTML, CSS, JavaScript, Netlify |
+| Robby Leonardi | [rleonardi.com](http://www.rleonardi.com) | — | NextJS, React, NodeJS, GSAP, Webpack |
+| Robin Mastromarino | [robinmastromarino.com](http://robinmastromarino.com/) | — | HTML, CSS, JavaScript, WebGL, GSAP |
+| Robin Payot | [robinpayot.com](http://www.robinpayot.com/) | — | HTML, CSS, GSAP, Howler.js, WebGL |
+| Rohit Saini | [portfolio-45b9b.web.app](https://portfolio-45b9b.web.app/) | — | ReactJs, CSS, GSAP, Framer Motion |
+| Roman Mendaliev | [roman.asd.lol](https://roman.asd.lol) | [GitHub](https://github.com/reacheight/home) | HTML, CSS, JavaScript |
+| Ross Moody | [rossmoody.com](https://rossmoody.com/) | [GitHub](https://github.com/rossmoody/rossmoody.com) | Next.js, Chakra UI, TypeScript, MDX |
+| Ruben Kuipers | [rubenkuipers.design](https://rubenkuipers.design/) | — | Vue.js, Nuxt.js, Tailwind CSS |
+| Rushikesh Nimkar | [rushikeshnimkar.xyz](https://rushikeshnimkar.xyz) | [GitHub](https://github.com/Rushikeshnimkar/portfolio2025.git) | Next.js, React, Tailwind CSS, LangChain |
+| Rutik Wankhade | [rutikwankhade.dev](https://rutikwankhade.dev/) | — | NextJs, React, NodeJS, TailwindCSS |
+| Sachin Chaurasiya | [sachinchaurasiya.dev](https://sachinchaurasiya.dev) | — | HTML, CSS, JavaScript, ReactJs, Material UI |
+| Sachin Desai | [sachindesai.in](https://sachindesai.in) | [GitHub](https://github.com/sachind3/finalportfolio) | Next Js 14, Tailwind CSS, GSAP, Locomotive Scroll |
+| Sadee | [codewithsadee.github.io/vcard-personal-portfolio](https://codewithsadee.github.io/vcard-personal-portfolio/) | [GitHub](https://github.com/codewithsadee/vcard-personal-portfolio) | HTML, CSS, JavaScript |
+| Saahil Dutta | [saahild.com](https://saahild.com/) | [GitHub](https://github.com/NeonGamerBot-QK/saahild.com) | Reactjs |
+| Saikat Roy | [saikatroy.netlify.app](https://saikatroy.netlify.app/) | [GitHub](https://github.com/njmsaikat/portfolio) | HTML, CSS, Bootstrap, JavaScript |
+| Saleh Salehizadeh | [SirSaleh.github.io](https://sirsaleh.github.io/Portfolio/) | [GitHub](https://github.com/SirSaleh/Portfolio) | Nextjs, Tailwind CSS, TypeScript |
+| Salim Rutaganda | [rsalim.vercel.app](https://www.rsalim.vercel.app/) | [GitHub](https://github.com/rutaganda-salim/devfolio) | React, Next.js, Tailwindcss, TypeScript |
+| Samuel Akinosho | [samuelakinosho.com](https://www.samuelakinosho.com/) | — | Webflow, Jquery |
+| Samuel Imolorhe | [xkoji.dev](https://www.xkoji.dev/) | [GitHub](https://github.com/imolorhe/xkoji-code) | Gatsby, GSAP, JavaScript, Netlify |
+| Samuel Williams | [williamssam.netlify.app](https://williamssam.netlify.app/) | [GitHub](https://github.com/williamssam/My-Portfolio) | HTML, CSS, Javascript |
+| Sandeep Kumar | [eternalfrustation.github.io](https://eternalfrustation.github.io/) | [GitHub](https://github.com/eternalfrustation/eternalfrustation.github.io) | HTML, CSS, JavaScript |
+| Sara Cajner | [saracajner.com](https://saracajner.com) | — | ReactJS, CSS, GSAP, Stripe |
+| Sarah Dayan | [sarahdayan.dev](https://www.sarahdayan.dev/) | — | NextJS, Tailwind CSS, NodeJS |
+| Sawad | [sawad.framer.website](https://sawad.framer.website/) | — | Framer |
+| Seán Halpin | [seanhalpin.xyz](https://www.seanhalpin.xyz/) | — | Svelte, SvelteKit, Vite, PWA |
+| Segun Ajibola | [segunajibola.com](https://www.segunajibola.com) | [GitHub](https://github.com/segunajibola/portfolio) | HTML, CSS, TailwindCSS, React, SwiperJS |
+| Serdar Gökhan | [serdargokhan.dev](https://serdargokhan.dev) | [GitHub](https://github.com/serdargokhan/portfolio-website-v1) | NextJS, TypeScript, TailwindCSS |
+| Shaan Alam | [shaanalam.vercel.app](https://shaanalam.vercel.app) | [GitHub](https://github.com/shaan-alam/shaanalam) | NextJS, Tailwind, TypeScript, Hygraph |
+| Shahriar Shafin | [shahriarshafin.github.io](https://shahriarshafin.github.io/) | [GitHub](https://github.com/shahriarshafin/myportfolio) | React, Next.js, Tailwind CSS |
+| Shahrukh Anwar | [shahrukhanwar.vercel.app](https://shahrukhanwar.vercel.app) | [GitHub](https://github.com/devshahrukhanwar/shahrukh-anwar) | Vue.js, TypeScript, Bulma CSS, Vite |
+| Shivaraj Kolekar | [shivarajkolekar.com](https://shivaraj-portfolio.vercel.app/) | [GitHub](https://github.com/Shivaraj-Kolekar/portfolio) | HTML, TailwindCSS, Javascript |
+| Shivam Gupta | [the-shivam-gupta.github.io](https://the-shivam-gupta.github.io/) | [GitHub](https://github.com/the-shivam-gupta/the-shivam-gupta.github.io) | HTML, CSS, JS |
+| Shivam Javiya | [shivamjaviya.netlify.app](https://shivamjaviya.netlify.app/) | [GitHub](https://github.com/ShivamJaviya/Shivam_Portfolio) | HTML, CSS, JS |
+| Shivam Panchal | [shivampanchal.vercel.app](https://shivampanchal.vercel.app/) | — | ReactJS, CSS |
+| Shivani Yadav | [shivaniyadav.online](https://shivaniyadav.online) | [GitHub](https://github.com/ShivaniYadav07/Portfolio) | React, TypeScript, ParticleJS, SCSS |
+| Shodipo Ayomide | [shodipoayomide.com](https://shodipoayomide.com/) | [GitHub](https://github.com/Developerayo/shodipoayomide.com) | Gatsby, React, SCSS, Bootstrap |
+| Shourya Shikhar Ghosh | [shourya.vercel.app](https://shourya.vercel.app) | [GitHub](https://github.com/danger-ahead/flutter_dev_folio) | Flutter |
+| Shubham Gaur | [shubhamessier.github.io](https://shubhamessier.github.io/portfolio) | [GitHub](https://github.com/shubhamessier/portfolio) | HTML, CSS, JavaScript |
+| Shubh Porwal | [shubhporwal.me](https://www.shubhporwal.me/) | [GitHub](https://github.com/shubh73/devfolio) | NextJS, ReactJS, Tailwind CSS, GSAP |
+| Siddharth Verma | [iamdev.netlify.app](https://iamdev.netlify.app/home.html) | — | Tailwind, Javascript, React |
+| Siyana Zdravkova | [bluebutterflies.github.io/professionalportfolio](https://bluebutterflies.github.io/professionalportfolio/) | [GitHub](https://github.com/BlueButterflies/professionalportfolio) | React JS, Bootstrap |
+| Skifli | [skifli.github.io](https://skifli.github.io/) | [GitHub](https://github.com/skifli/skifli.github.io) | HTML, CSS, JavaScript |
+| Soumyadeep Das | [soumyadeeposd.github.io](https://soumyadeeposd.github.io/Tensor-Block/) | [GitHub](https://github.com/SoumyadeepOSD/Tensor-Block) | HTML, CSS, JavaScript |
+| SofiDev | [itssofi.dev](https://itssofi.dev/) | [GitHub](https://github.com/SofiDevO/sofidev-portfolio-astro) | Astro, CSS, Javascript, React |
+| Srijan Baniyal | [srijanbaniyal.com](https://srijanbaniyal.com) | — | Next.js, Tailwindcss, Typescript, Framer Motion |
+| Stefan Topalovic | [stefantopalovicdev.vercel.app](https://stefantopalovicdev.vercel.app/) | — | ReactJS, SCSS, Vercel |
+| Stef Ivanov | [stefivanov.com](https://stefivanov.com) | — | WordPress, Yoast SEO, MailChimp, PWA |
+| Sumonta Saha Mridul | [sumonta056.github.io](https://sumonta056.github.io/) | [GitHub](https://github.com/Sumonta056/sumonta056.github.io) | HTML5, CSS3, JavaScript |
+| Sunidhi Singh | [sunidhi-singh.netlify.app](https://sunidhi-singh.netlify.app/) | [GitHub](https://github.com/sunidhi014) | HTML, CSS, JavaScript |
+| Syed Moshin | [opensource-portfolio.netlify.app](https://opensource-portfolio.netlify.app/) | [GitHub](https://github.com/devsyedmohsin/portfolio-template) | HTML5, CSS3, JavaScript |
+| Tajmirul Islam | [me.toinfinite.dev](https://www.me.toinfinite.dev/) | — | Next.js, GSAP, Tailwind CSS, TypeScript |
+| Tamal Sen | [tamalsen.dev](https://tamalsen.dev/) | — | WordPress, Elementor, PHP, Anime.js |
+| Tanay Shah | [tanayshah.dev](https://tanayshah.dev) | [GitHub](https://github.com/tanayshah11) | NextJS, TypeScript, Tailwind v4 |
+| Tania Rascia | [taniarascia.com](https://taniarascia.com) | [GitHub](https://github.com/taniarascia/taniarascia.com) | React, Gatsby, CSS, Netlify, NodeJS |
+| Tanishka Yadav | [tanishka-yadav.netlify.app](https://tanishka-yadav.netlify.app/) | [GitHub](https://github.com/Tanishka-dev/Portfolio-Reactjs) | ReactJS, SASS, Framer Motion |
+| Tanuj Chakraborty | [iamtj.dev](https://iamtj.dev) | [GitHub](https://github.com/i-am-tj/iamtj.dev) | React, Next.js, TypeScript, Tailwind CSS |
+| Theodore Clarence | [theodorusclarence.com](https://theodorusclarence.com/) | [GitHub](https://github.com/theodorusclarence/theodorusclarence.com) | NextJS, TypeScript, Tailwind CSS, MDX Bundler |
+| Thang Huu Vu | [thvu.dev](https://www.thvu.dev/) | [GitHub](https://github.com/ThangHuuVu/thvu-blog) | React, NextJS, TypeScript, GraphQL, Tailwindcss |
+| Timothy Klint | [tjklint.github.io](https://tjklint.github.io) | [GitHub](https://github.com/tjklint/tjklint.github.io) | React, TypeScript, SASS |
+| Timothy Lin | [timlrx.com](https://timlrx.com) | [GitHub](https://github.com/timlrx/timlrx.com) | NextJS, MDX, TailwindCSS, SASS |
+| Travis Fischer | [transitivebullsh.it](https://transitivebullsh.it/) | [GitHub](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) | NextJS, TypeScript, Notion API |
+| Tri Dang | [tri-dang.github.io](https://tri-dang.github.io/about) | [GitHub](https://github.com/tri-dang/tri-dang.github.io) | Ruby, Jekyll, Markdown |
+| Trịnh Minh Nhật | [thinhcorner.com](https://thinhcorner.com) | — | React, Tailwindcss |
+| Trần Hữu Đạt | [tranhuudat2004.github.io](https://tranhuudat2004.github.io/new-version.html) | [GitHub](https://github.com/TranHuuDat2004/TranHuuDat2004.github.io) | HTML, CSS, JavaScript, GitHub API |
+| Truong Phan | [techika.com](https://techika.com) | [GitHub](https://github.com/infantiablue) | Vue 3, Vite, VuePress, Tailwindcss |
+| TSolutionsX | [techsolutionsx.vercel.app](https://techsolutionsx.vercel.app/) | — | NextJS, TailwindCSS |
+| Twan Mulder | [twanmulder.com](https://www.twanmulder.com/) | [GitHub](https://github.com/twanmulder/portfolio) | React, TailwindCSS, Stripe, Netlify |
+| Uday G | [portfoliov3-puce.vercel.app](https://portfoliov3-puce.vercel.app/) | [GitHub](https://github.com/oxBinaryBrain/Portfoilo_v3) | TypeScript, CSS, Vercel, Vite, Nextjs |
+| Umesh Nagare | [umeshnagare.com](https://umeshnagare.com) | [GitHub](https://github.com/Algoture/PortFolio) | Next.js, Tailwind, Framer Motion |
+| Usman Sabuwala | [usman-s.me](https://www.usman-s.me) | [GitHub](https://github.com/max-programming/usman-s.me) | NextJS, Chakra UI, Framer Motion |
+| Utkarsh Singhal | [utkarsh-singhal.is-a.dev](https://utkarsh-singhal.is-a.dev/) | [GitHub](https://github.com/Utkarsh-Singhal-26/portfolio) | Next.js, TypeScript, TailwindCSS, ShadCN UI |
+| Utkarsh Tiwari | [utportfolio.vercel.app](https://utportfolio.vercel.app/) | [GitHub](https://github.com/utkxrsh13/portfolio) | ReactJS, Material UI, TailwindCSS |
+| Vaishnavi Shelke | [vsp-portfolio.netlify.app](https://vsp-portfolio.netlify.app) | [GitHub](https://github.com/vaishnavishelke2021/Portfolio-Website) | HTML, CSS, Bootstrap, Netlify |
+| Vanessa Santana | [nessajs.com.br](https://www.nessajs.com.br/) | [GitHub](https://github.com/vanessa-dev/nessa.js) | HTML, CSS, JavaScript, PHP |
+| Victor Adeniji | [codevickk.com](https://codevickk.com/) | — | Nuxt.js, Vue.js, GSAP, Netlify, Lenis |
+| Victor Eke | [victoreke.com](https://victoreke.com) | [GitHub](https://github.com/evavic44/victoreke.com) | Nextjs, Sanity, Tailwind CSS, TypeScript |
+| Victor Ikechukwu | [iamvictor.tech](https://iamvictor.tech) | — | Next.js, Tailwind CSS, Netlify |
+| Victor Williams | [victorwilliams.me](https://www.victorwilliams.me/) | [GitHub](https://github.com/victorcodess/folio-v1) | React, Next.js, TypeScript, TailwindCSS, Framer Motion |
+| Vijay Verma | [vjy.me](https://vjy.me/) | — | NextJS, Styled Components, Vercel |
+| Vijay Kumar Reddy | [talakolavijay.vercel.app](https://talakolavijay.vercel.app/) | [GitHub](https://github.com/VijayKumarReddyTalakola/MyPortFolio) | Reactjs, Tailwind CSS, AOS |
+| Vignesh Patali | [vigh.me](https://vigh.me/) | — | Next.js, React, Tailwind CSS, TypeScript, Threejs |
+| Wahid Ali | [wahidali.dev](https://www.wahidali.dev/) | [GitHub](https://github.com/Aliwahid17/portfolio) | Svelte, Tailwind CSS, TypeScript |
+| Wallace Nascimento | [portfolio-srnascimento40.vercel.app](https://portfolio-srnascimento40.vercel.app/) | [GitHub](https://github.com/SrNascimento40/portfolio) | NextJS, ReactJS, TypeScript, Styled-Components |
+| Walter Teng | [walterteng.com](https://walterteng.com/) | [GitHub](https://github.com/davzoku/personal-website-v1) | React, Typescript, Gatsby, Netlify |
+| Wasim Baig | [wasimbaig.com](https://wasimbaig.com) | [GitHub](https://github.com/simbaig/portfolio-nextjs) | Next JS, Tailwind CSS, Framer-Motion |
+| William Cachawri | [minimal-blog-seven.vercel.app](https://minimal-blog-seven.vercel.app) | — | Next.js 15+, TailwindCSS, ShadCN UI, Three.js |
+| Williams Samuel | [williamssam.netlify.app](https://williamssam.netlify.app/) | [GitHub](https://github.com/williamssam/My-Portfolio) | HTML, CSS, Javascript |
+| Wisnu Wicaksono | [wiscaksono.com](https://wiscaksono.com/) | [GitHub](https://github.com/wiscaksono/wiscaksono-site) | Nextjs, Tailwind CSS, MDX, Next Auth |
+| Xiaohan Zou | [portfolio.zxh.me](https://portfolio.zxh.me/) | [GitHub](https://github.com/Renovamen/playground-macos) | React JS, Zustand, UnoCSS, Typescript, Vite |
+| Yinka Adedire | [yinka.codes](https://www.yinka.codes/) | [GitHub](https://github.com/yinkakun/yinkakun-portfolio) | Gatsby, ReactJS, Styled-Components |
+| Yunus Ertürk | [yunuserturk.com](https://yunuserturk.com) | — | HTML, CSS, React, NextJS |
+| yuxxeun | [yuxxeun.xyz](https://yuxxeun.xyz) | [GitHub](https://github.com/yuxxeun) | Next.js, Tailwind, Supabase, Vercel |
+| Zacky Aduoli | [lookupzach.netlify.app](https://lookupzach.netlify.app) | — | ReactJS, Material UI, SCSS, Styled Components |
+| Zai Santillan | [plskz-me.vercel.app](https://plskz-me.vercel.app/) | [GitHub](https://github.com/plskz/plskz.me) | NextJS, TypeScript, Tailwind CSS, DaisyUI |
+| Zaher Al Majed | [zaher.design](https://zaher.design/) | — | React, TypeScript, NextJS, TailwindCSS |
+
+</details>
+
+---
+
+## 🤝 Contributing
+
+We'd love to have your portfolio in this collection! Here's how:
+
+1. **Fork** this repository
+2. Add your entry to the table in `index.md` with the following columns:
+   - **Author** — your name
+   - **Screenshot** — a screenshot of your portfolio
+   - **Live URL** — link to your live portfolio
+   - **Repo** — link to your GitHub repo (if open source)
+   - **Tech Stack** — comma-separated list of technologies
+3. Open a **Pull Request** with the title: `feat: add [your name]'s portfolio`
+
+> 💡 **Tips for a great submission:**
+> - Use a high-quality screenshot (ideally 1280×800px or higher)
+> - Make sure your live URL is accessible
+> - List your tech stack accurately
+
+---
+
+<div align="center">
+
+<br/>
+
+**⭐ Star this repo if it helped you find inspiration!**
+
+<br/>
+
+Made with ❤️ by the developer community · [Contribute](CONTRIBUTING.md) · [Report an Issue](https://github.com/Evavic44/portfolio-ideas/issues)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
