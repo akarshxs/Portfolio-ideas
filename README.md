@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Portfolio%20Ideas&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=A%20curated%20collection%20of%20stunning%20developer%20portfolios&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Portfolio%20Ideas&fontSize=72&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=A%20curated%20gallery%20of%20stunning%20developer%20portfolios&descAlignY=60&descSize=20" width="100%"/>
 
 <br/>
 
 [![Portfolios](https://img.shields.io/badge/Portfolios-200%2B-blueviolet?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Evavic44/portfolio-ideas)
+[![Open Source](https://img.shields.io/badge/Open%20Source%20Repos-140%2B-brightgreen?style=for-the-badge&logo=github)](https://github.com/Evavic44/portfolio-ideas)
 [![Stars](https://img.shields.io/github/stars/Evavic44/portfolio-ideas?style=for-the-badge&logo=star&color=gold)](https://github.com/Evavic44/portfolio-ideas/stargazers)
 [![Forks](https://img.shields.io/github/forks/Evavic44/portfolio-ideas?style=for-the-badge&logo=git&color=orange)](https://github.com/Evavic44/portfolio-ideas/network)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 <br/>
 
-> 💡 **A growing collection of beautiful developer portfolio websites** — categorized by tech stack, featuring live URLs, screenshots, and open-source repos. Find your inspiration and build something amazing.
+> 💡 **A growing visual collection of beautiful developer portfolio websites.**
+> Browse screenshots, visit live URLs, study open-source code, and build something unforgettable.
 
 <br/>
 
@@ -24,26 +25,18 @@
 - [✨ Why This Exists](#-why-this-exists)
 - [🚀 Quick Stats](#-quick-stats)
 - [🔥 Featured Portfolios](#-featured-portfolios)
-- [📦 Portfolios by Tech Stack](#-portfolios-by-tech-stack)
-  - [⚛️ React / Next.js](#️-react--nextjs)
-  - [🟢 Vue / Nuxt.js](#-vue--nuxtjs)
-  - [🔷 TypeScript Heavy](#-typescript-heavy)
-  - [🌟 Three.js / WebGL / 3D](#-threejs--webgl--3d)
-  - [💨 Tailwind CSS](#-tailwind-css)
-  - [🧩 Vanilla HTML / CSS / JS](#-vanilla-html--css--js)
-  - [🔧 Other Frameworks](#-other-frameworks)
-- [📋 Full Portfolio List](#-full-portfolio-list)
+- [🖼️ Full Portfolio Gallery](#️-full-portfolio-gallery)
 - [🤝 Contributing](#-contributing)
 
 ---
 
 ## ✨ Why This Exists
 
-A portfolio is your **digital first impression** — it tells the world who you are before you say a word. This repo collects the most creative, polished, and inspiring developer portfolios on the internet so you can:
+Your portfolio is your **digital first impression** — it tells the world who you are before you say a word. This repo collects the most creative, polished, and inspiring developer portfolios on the internet so you can:
 
 - 🎨 **Find your aesthetic** — minimalist, 3D, brutalist, magazine-style, or anything in between
-- 🛠️ **Learn from real implementations** — many repos are open source
-- 🚀 **Get unstuck** — when you need a layout idea, a color palette, or an interaction pattern
+- 🛠️ **Learn from real code** — most repos are open source and ready to study
+- 🚀 **Get unstuck** — when you need a layout idea, color palette, or interaction pattern
 - 🌍 **Discover the community** — see how developers worldwide present themselves
 
 ---
@@ -52,14 +45,15 @@ A portfolio is your **digital first impression** — it tells the world who you 
 
 <div align="center">
 
-| Stat | Count |
-|------|-------|
+| Category | Count |
+|----------|-------|
 | 🌐 Total Portfolios | **200+** |
 | 📂 Open Source Repos | **140+** |
-| ⚛️ React / Next.js Portfolios | **90+** |
-| 🟢 Vue / Nuxt.js Portfolios | **15+** |
-| 🌟 Three.js / WebGL Portfolios | **20+** |
-| 🧩 Vanilla HTML/CSS/JS | **40+** |
+| ⚛️ React / Next.js | **90+** |
+| 🟢 Vue / Nuxt.js | **15+** |
+| 🌟 Three.js / WebGL / 3D | **20+** |
+| 🧩 Vanilla HTML / CSS / JS | **40+** |
+| 🚀 Astro / Svelte / Flutter | **15+** |
 
 </div>
 
@@ -67,709 +61,444 @@ A portfolio is your **digital first impression** — it tells the world who you 
 
 ## 🔥 Featured Portfolios
 
-> Hand-picked portfolios that stand out for their creativity, interactivity, or design.
+> Hand-picked portfolios that stand out for creativity, interactivity, or design excellence.
 
-| # | Author | Live | Stack | Why It's Special |
-|---|--------|------|-------|-----------------|
-| 🥇 | **Bruno Simon** | [bruno-simon.com](https://bruno-simon.com) | GSAP, ThreeJS, JS | Full 3D driving game as a portfolio |
-| 🥈 | **Robby Leonardi** | [rleonardi.com](http://www.rleonardi.com) | NextJS, React, GSAP | Interactive scrolling side-scroller game |
-| 🥉 | **Josh Comeau** | [joshwcomeau.com](https://www.joshwcomeau.com/) | NextJS, MDX, Framer | Incredible interactivity & blog quality |
-| ⭐ | **Brittany Chiang** | [v4.brittanychiang.com](https://v4.brittanychiang.com/) | React, Gatsby, Styled | The iconic "developer portfolio" everyone references |
-| ⭐ | **Jesse Zhou** | [jesse-zhou.com](https://jesse-zhou.com/) | ThreeJS, GSAP, GLSL | Ramen shop 3D experience — stunning |
-| ⭐ | **Lynn Fisher** | [lynnandtonic.com](https://lynnandtonic.com/) | HTML, CSS, SVG | Redesigns every year — legendary |
-| ⭐ | **David Heckoff** | [david-hckh.com](https://david-hckh.com/) | ThreeJS, GSAP, Howler.js | Immersive audio-visual experience |
-| ⭐ | **Anthony Fu** | [antfu.me](https://antfu.me/) | VueJS, Markdown | Clean, elegant open-source dev portfolio |
-| ⭐ | **Vivek Patel** | [vivek9patel.github.io](https://vivek9patel.github.io/) | NextJS, Tailwind | macOS-style desktop portfolio |
+<div align="center">
 
----
+| Preview | Author | Live | Why It's Special |
+|---------|--------|------|-----------------|
+| <img src="https://user-images.githubusercontent.com/62628408/167303510-f39c3350-4273-4f6f-b28e-12f095f2af7a.png" width="220"/> | **Bruno Simon** | [bruno-simon.com](https://bruno-simon.com) | 🎮 Full 3D driving game as a portfolio — nothing like it |
+| <img src="https://user-images.githubusercontent.com/86816711/172065557-6e6ea80f-aa5b-4b43-8b90-438b6fd13b1c.png" width="220"/> | **Robby Leonardi** | [rleonardi.com](http://www.rleonardi.com) | 🕹️ Interactive scrolling side-scroller game |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/dacfef81-f090-4f54-885f-c8baec247351" width="220"/> | **Josh Comeau** | [joshwcomeau.com](https://www.joshwcomeau.com/) | ✨ Incredible interactivity & world-class blog |
+| <img src="https://user-images.githubusercontent.com/62628408/163446015-fc50d2c1-3cee-42fb-b80a-b692ad7eef1e.png" width="220"/> | **Brittany Chiang** | [v4.brittanychiang.com](https://v4.brittanychiang.com/) | 🌟 The iconic dev portfolio everyone references |
+| <img src="https://user-images.githubusercontent.com/88075256/221340025-0e357cf8-61e3-461a-a969-11940d9c2ff1.png" width="220"/> | **Jesse Zhou** | [jesse-zhou.com](https://jesse-zhou.com/) | 🍜 Ramen shop 3D WebGL experience — stunning |
+| <img src="https://user-images.githubusercontent.com/88075256/220362800-fe33d26e-8b09-4d29-9be8-b27aef020b01.png" width="220"/> | **Lynn Fisher** | [lynnandtonic.com](https://lynnandtonic.com/) | 🎨 Redesigns every year — a legendary tradition |
+| <img src="https://user-images.githubusercontent.com/62628408/189466543-8297ec23-92e1-445d-8b26-dc2f38e73dc9.png" width="220"/> | **Anthony Fu** | [antfu.me](https://antfu.me/) | ⚡ Beautifully minimal, open-source, beloved by devs |
+| <img src="https://user-images.githubusercontent.com/18528418/190361290-ec86e3f1-d6a2-49c2-a893-225cc92d1247.png" width="220"/> | **Maggie Appleton** | [maggieappleton.com](https://maggieappleton.com/) | 🌿 Stunning digital garden with unique visual essays |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/b108472d-0197-45fb-be95-7e19a9a77a90" width="220"/> | **Robb Owen** | [robbowen.digital](https://robbowen.digital/) | 🖤 Bold brutalist design with immersive interactions |
 
-## 📦 Portfolios by Tech Stack
-
-### ⚛️ React / Next.js
-
-<details>
-<summary><b>Click to expand — 90+ portfolios</b></summary>
-
-| Author | Live URL | Repo | Additional Tech |
-|--------|----------|------|----------------|
-| Victor Eke | [victoreke.com](https://victoreke.com) | [GitHub](https://github.com/evavic44/victoreke.com) | Sanity, Tailwind CSS, TypeScript, Vercel |
-| Kent C. Dodds | [kentcdodds.com](https://kentcdodds.com) | [GitHub](https://github.com/kentcdodds/kentcdodds.com) | Remix, Prisma, Redis, Postgres |
-| Brittany Chiang | [v4.brittanychiang.com](https://v4.brittanychiang.com/) | [GitHub](https://github.com/bchiang7/v4) | Gatsby, Styled-components |
-| Braydon Coyer | [braydoncoyer.dev](https://braydoncoyer.dev/) | [GitHub](https://github.com/braydoncoyer/braydoncoyer.dev) | TypeScript, Tailwindcss, Notion API, Supabase |
-| Tania Rascia | [taniarascia.com](https://taniarascia.com) | [GitHub](https://github.com/taniarascia/taniarascia.com) | Gatsby, CSS, Netlify, NodeJS |
-| Thang Huu Vu | [thvu.dev](https://www.thvu.dev/) | [GitHub](https://github.com/ThangHuuVu/thvu-blog) | NextJS, NodeJS, TypeScript, GraphQL, Tailwindcss |
-| Adeola Adeoti | [adeolaadeoti.site](https://www.adeolaadeoti.site) | [GitHub](https://github.com/adeolaadeoti/adeolaadeoti-v2) | TypeScript, GSAP, NodeJS, SCSS |
-| Aaron Shapiro | [aaron.mn](https://www.aaron.mn) | [GitHub](https://github.com/aarshap/aaron.mn) | Gatsby, Styled Components, Netlify |
-| Rick Waalders | [rickwaalders.com](https://www.rickwaalders.com) | — | NodeJS, GSAP, Webpack |
-| Raj Savaliya | [rajsavaliya.com](https://www.rajsavaliya.com/) | [GitHub](https://github.com/SRX9/portfoliosrx9) | TypeScript, Tailwind CSS |
-| Benaiah Alumona | [benrobo.vercel.app](https://benrobo.vercel.app) | [GitHub](https://github.com/benrobo/portfolio-v3) | TailwindCss, Next.js, Emailjs |
-| Anish De | [anishde.dev](https://anishde.dev) | [GitHub](https://github.com/AnishDe12020/portfolio) | TypeScript, Tailwind CSS, Content Layer |
-| Dale Larroder | [dalelarroder.com](https://dalelarroder.com) | [GitHub](https://github.com/dlarroder/dalelarroder) | Preact, TypeScript, Tailwind, MDX |
-| Lee Robinson | [leerob.io](https://leerob.io/) | [GitHub](https://github.com/leerob/leerob.io) | PlanetScale, Prisma, Vercel, Sanity, Tailwind CSS |
-| Lazar Nikolov | [nikolovlazar.com](https://nikolovlazar.com) | [GitHub](https://github.com/nikolovlazar/nikolovlazar.com) | Chakra UI, MDX, Prisma, PlanetScale |
-| Reuben Rapose | [reubence.com](https://reubence.com) | [GitHub](https://github.com/reubence/reubence) | TailwindCSS, Next.JS, MDX, Mailchimp |
-| M. Shahanwaz | [mshahanwaz.me](https://mshahanwaz.me) | [GitHub](https://github.com/mshahanwaz/portfolio-v4) | Next.js, Nodemailer |
-| Parth Desai | [musing.vercel.app](https://musing.vercel.app/) | [GitHub](https://github.com/pycoder2000/blog) | TailwindCSS, Next.JS, MDX |
-| Maggie Appleton | [maggieappleton.com](https://maggieappleton.com/) | [GitHub](https://github.com/MaggieAppleton/maggieappleton.com-V2) | MDX, Algolia, Framer Motion, styled-components |
-| Phong Nguyen | [napthedev.com](https://napthedev.com) | [GitHub](https://github.com/napthedev/portfolio-next) | Tailwind, Framer-motion, Locomotive-scroll |
-| Theodorus Clarence | [theodorusclarence.com](https://theodorusclarence.com/) | [GitHub](https://github.com/theodorusclarence/theodorusclarence.com) | TypeScript, Tailwind CSS, MDX Bundler, Prisma |
-| Rishi Mohan | [rishimohan.me](https://rishimohan.me) | [GitHub](https://github.com/rishimohan/rishimohan.me) | TailwindCSS, Framer Motion |
-| Hamish Williams | [hamishw.com](https://hamishw.com/) | [GitHub](https://github.com/HamishMW/portfolio) | ThreeJS, NextJS |
-| Anurag Hazra | [anuraghazra.dev](https://anuraghazra.dev/) | [GitHub](https://github.com/anuraghazra/anuraghazra.github.io) | Gatsby, Styled-components, Cypress, Jest |
-| Delba Oliviera | [delba.dev](https://delba.dev/) | [GitHub](https://github.com/delbaoliveira/website) | MDX, Tailwind, Prisma, Typescript |
-| Vivek Patel | [vivek9patel.github.io](https://vivek9patel.github.io/) | [GitHub](https://github.com/vivek9patel/vivek9patel.github.io) | Tailwind CSS, GitHub Pages |
-| Ashish | [asrvd.me](https://asrvd.me/) | [GitHub](https://github.com/asrvd/asrvd.me) | tRPC, Tailwind CSS, TypeScript, NextAuth.js, Prisma |
-| Josh Comeau | [joshwcomeau.com](https://www.joshwcomeau.com/) | — | Styled Components, MDX, MongoDB, Framer Motion |
-| Harsh Singh | [harshsingh.xyz](https://harshsingh.xyz/) | [GitHub](https://github.com/harshhhdev/harshhhdev.github.io) | TailwindCSS, TypeScript, Prisma |
-| Brayden | [braydentw.io](https://braydentw.io/) | [GitHub](https://github.com/BraydenTW/braydentw.io) | TailwindCSS |
-| Ben (nuro.dev) | [nuro.dev](https://nuro.dev/) | [GitHub](https://github.com/NuroDev/nuro.dev) | TailwindCSS |
-| Matthias Kretschmann | [matthiaskretschmann.com](https://matthiaskretschmann.com/) | [GitHub](https://github.com/kremalicious/portfolio) | Gatsby / NextJS, TypeScript, CSS Modules |
-| Trịnh Minh Nhật | [thinhcorner.com](https://thinhcorner.com) | [GitHub](https://github.com/Th1nhNg0/th1nhng0.vercel.app) | TailwindCSS, TypeScript |
-| Anand Baraik | [anandbaraik.github.io](https://anandbaraik.github.io) | [GitHub](https://github.com/anandbaraik/anandbaraik.github.io) | CSS |
-| Victor Williams | [victorwilliams.me](https://www.victorwilliams.me/) | [GitHub](https://github.com/victorcodess/folio-v1) | TypeScript, TailwindCSS, Framer Motion, GSAP |
-| Maxime Heckel | [maximeheckel.com](https://maximeheckel.com/) | [GitHub](https://github.com/MaximeHeckel/blog.maximeheckel.com) | TypeScript, Stitches/CSS, MDX |
-| Gavin Nelson | [nelson.co](https://nelson.co/) | [GitHub](https://github.com/gavinmn/nelson.co) | Tailwind CSS, Vercel, MDX |
-| Nikhil Rajput | [nixrajput.nixlab.co.in](https://nixrajput.nixlab.co.in/) | [GitHub](https://github.com/nixrajput/portfolio-nextjs) | SCSS, Node.js |
-| Raphaël Chelly | [raphaelchelly.com](https://www.raphaelchelly.com) | [GitHub](https://github.com/raphaelchelly/raph_www) | TailwindCSS, Vercel |
-| Daniel Cranney | [danielcranney.com](https://www.danielcranney.com/) | [GitHub](https://github.com/danielcranney/portfolio) | TailwindCSS, Vercel |
-| Anuoluwapo Abolarin | [anuoluwapo.xyz](https://anuoluwapo.xyz/) | [GitHub](https://github.com/Anu-oluwapo/portfolio-v2) | — |
-| Aravind Balla | [aravindballa.com](https://aravindballa.com) | [GitHub](https://github.com/aravindballa/website) | TypeScript, Tailwind CSS, Vercel |
-| Usman Sabuwala | [usman-s.me](https://www.usman-s.me) | [GitHub](https://github.com/max-programming/usman-s.me) | Chakra UI, Framer Motion |
-| Payton Pierce | [paytonpierce.dev](https://paytonpierce.dev) | [GitHub](https://github.com/paytonjewell/paytonpierce.dev) | Material UI |
-| Tanishka Yadav | [tanishka-yadav.netlify.app](https://tanishka-yadav.netlify.app/) | [GitHub](https://github.com/Tanishka-dev/Portfolio-Reactjs) | SASS, Framer Motion |
-| Brian Lovin | [brianlovin.com](https://brianlovin.com/) | [GitHub](https://github.com/brianlovin/briOS) | TypeScript, Tailwind CSS, Prisma, Planetscale |
-| Shubh Porwal | [shubhporwal.me](https://www.shubhporwal.me/) | [GitHub](https://github.com/shubh73/devfolio) | ReactJS, Tailwind CSS, GSAP |
-| Rashad Santana | [rafaelsantana.dev](https://www.rafaelsantana.dev/) | [GitHub](https://github.com/rafalmeida73/portfolio) | Material UI, TypeScript |
-| Moinak Majumdar | [moinak05.vercel.app](https://moinak05.vercel.app/) | [GitHub](https://github.com/Moinak-Majumdar/portfolio) | TypeScript, Framer Motion, TailwindCss |
-| Adeola Badero | [adeolabadero.vercel.app](https://adeolabadero.vercel.app) | [GitHub](https://github.com/adex-hub/ade-folio) | Tailwind CSS, TypeScript, Framer Motion |
-| Salim Rutaganda | [rsalim.vercel.app](https://www.rsalim.vercel.app/) | [GitHub](https://github.com/rutaganda-salim/devfolio) | Tailwindcss, TypeScript |
-| Deepak Modi | [deepakmodi.tech](https://deepakmodi.tech/) | [GitHub](https://github.com/decodewithdeepak/Portfolio) | Tailwind CSS, TypeScript, Vercel |
-
-</details>
+</div>
 
 ---
 
-### 🟢 Vue / Nuxt.js
+## 🖼️ Full Portfolio Gallery
 
-<details>
-<summary><b>Click to expand — 15+ portfolios</b></summary>
+> All **200+** portfolios with screenshots, live links, source code, and tech stacks.
 
-| Author | Live URL | Repo | Additional Tech |
-|--------|----------|------|----------------|
-| Olaolu Olawuyi | [olaolu.dev](https://olaolu.dev) | [GitHub](https://github.com/whizkydee/olaolu.dev) | JavaScript, HTML, styled-components, Sass |
-| Jeferson Brito | [jefersonsilva.me](https://www.jefersonsilva.me/) | [GitHub](https://github.com/jeferson-sb/portfolio) | Vue 3.0, Vite |
-| Anthony Fu | [antfu.me](https://antfu.me/) | [GitHub](https://github.com/antfu/antfu.me) | Markdown, TypeScript, CSS |
-| Micah Lindley | [micahlindley.com](https://micahlindley.com) | [GitHub](https://github.com/micahlt/micahlt.github.io) | Vue 3, Vite |
-| Ara Oladipo | [araoladipo.tech](https://araoladipo.tech/) | [GitHub](https://github.com/Ara-O/Portfolio-Website) | CSS, Spline3D |
-| Hisami Kurita | [hsmkrt1996.com](https://hsmkrt1996.com/) | [GitHub](https://github.com/hisamikurita/hisamikurita-portfoliosite) | Nuxt.js, SCSS, ThreeJS, GSAP |
-| Moe Dayraki | [moe.dayrakiarts.com](https://moe.dayrakiarts.com) | [GitHub](https://github.com/moedayraki/moedayraki.github.io) | Vite, Cypress, Tailwindcss, TypeScript, Pinia |
-| Truong Phan | [techika.com](https://techika.com) | [GitHub](https://github.com/infantiablue) | Vite, VuePress, Tailwindcss |
-| Dennis Snellenberg | [dennissnellenberg.com](https://dennissnellenberg.com/) | — | GSAP, JQuery, PHP |
-| Ruben Kuipers | [rubenkuipers.design](https://rubenkuipers.design/) | — | Nuxt.js, Tailwind CSS, scrollreveal |
-| Olamide Sholanke | [olamide.dev](https://www.olamide.dev/) | — | NuxtJS |
-| Olamide Adeyi | [olamideadeyi.com](https://www.olamideadeyi.com) | — | NuxtJS, GSAP |
-| Greg Ives | [gregives.co.uk](https://www.gregives.co.uk) | [GitHub](https://github.com/gregives/gregives.co.uk) | NuxtJS, SASS, Netlify |
-| Patrick Heng | [patrickheng.com](https://patrickheng.com/) | — | Nuxt.js, GSAP, ThreeJS |
-| Jay Bhavsar | [jay.is-savvy.dev](https://jay.is-savvy.dev) | [GitHub](https://github.com/jbhv12/portfolio) | Gridsome, Tailwind CSS |
-| Shahrukh Anwar | [shahrukhanwar.vercel.app](https://shahrukhanwar.vercel.app) | [GitHub](https://github.com/devshahrukhanwar/shahrukh-anwar) | TypeScript, Bulma CSS, Vite |
-| Victor Adeniji | [codevickk.com](https://codevickk.com/) | — | Nuxt.js, GSAP, Netlify, Lenis |
-
-</details>
-
----
-
-### 🔷 TypeScript Heavy
-
-<details>
-<summary><b>Click to expand — 25+ portfolios</b></summary>
-
-| Author | Live URL | Repo | Framework |
-|--------|----------|------|-----------|
-| Adeola Adeoti | [adeolaadeoti.site](https://www.adeolaadeoti.site) | [GitHub](https://github.com/adeolaadeoti/adeolaadeoti-v2) | NextJS + GSAP |
-| Chandraprakash Darji | [chandraprakash.vercel.app](https://chandraprakash.vercel.app/) | [GitHub](https://github.com/Chandraprakash-Darji/personal) | Nextjs, Tailwindcss |
-| Harsh Singh | [harshsingh.xyz](https://harshsingh.xyz/) | [GitHub](https://github.com/harshhhdev/harshhhdev.github.io) | NextJS, TailwindCSS, Prisma |
-| Serdargokhan | [serdargokhan.dev](https://serdargokhan.dev) | [GitHub](https://github.com/serdargokhan/portfolio-website-v1) | NextJS, TailwindCSS |
-| Arafat Islam | [portfolio-khaki-iota-89.vercel.app](https://portfolio-khaki-iota-89.vercel.app/) | [GitHub](https://github.com/arafat4693/portfolio) | NextJS, GraphQL, Tailwind |
-| Michael Kolesidis | [michaelkolesidis.com](https://michaelkolesidis.com/) | [GitHub](https://github.com/michaelkolesidis/michaelkolesidis.com) | p5.js, Sass, Vite |
-| Maxime Heckel | [maximeheckel.com](https://maximeheckel.com/) | [GitHub](https://github.com/MaximeHeckel/blog.maximeheckel.com) | NextJS, Stitches, MDX |
-| Manish Kumar | [manishk.dev](https://manishk.dev) | [GitHub](https://github.com/manishprivet/portfolio) | React, Next, ParticleJS, Firebase |
-| Jahir Fiquitiva | [jahir.dev](https://jahir.dev/) | [GitHub](https://github.com/jahirfiquitiva/jahir.dev) | Next.js, Tailwind, MDX, PlanetScale |
-| Çağlar Turalı | [turali.js.org](https://turali.js.org/) | [GitHub](https://github.com/caglarturali/caglarturali.github.io) | React |
-| Marieflor Bawanan | [marieflor.dev](https://marieflor.dev) | [GitHub](https://github.com/mariebawanan/marieflor.dev) | NextJS, TailwindCSS, GSAP |
-| Kehinde Omopariola | [pariola.dev](https://www.pariola.dev) | [GitHub](https://github.com/Pariola-droid/pariola-v2.2.0) | NextJS, SASS, Motion One |
-| Bonabrian | [bonabrian.com](https://bonabrian.com) | [GitHub](https://github.com/bonabrian/bonabrian.com) | Nextjs, TailwindCSS, Prisma, Contentlayer |
-| Shaan Alam | [shaanalam.vercel.app](https://shaanalam.vercel.app) | [GitHub](https://github.com/shaan-alam/shaanalam) | NextJS, Tailwind, Hygraph |
-| Mateus Felipe | [mateusf.com](https://mateusf.com) | [GitHub](https://github.com/mateusfg7/mateusf.com) | Next.js, Tailwindcss, Contentlayer & MDX |
-| Mike Liu | [mikeliuu.com](https://mikeliuu.com) | [GitHub](https://github.com/mikeliuu/mikeliuu.com) | NextJS, Tailwind CSS, Vercel |
-| Baraa Alshaer | [alshaer.vercel.app](https://alshaer.vercel.app/) | [GitHub](https://github.com/balshaer/alshaer) | React, Shadcn ui, Tailwind CSS |
-| Asharib Ali | [cv.asharib.xyz](https://cv.asharib.xyz/) | [GitHub](https://github.com/AsharibAli/cv) | Next.js, Shadcn/ui, Tailwind CSS |
-| Krishnakumar Valliappan | [krishnakumar.dev](https://www.krishnakumar.dev/) | [GitHub](https://github.com/krishnavalliappan/portfolio-website) | Next.js, Framer, TailwindCSS, shadcn/ui |
-| Utkarsh Singhal | [utkarsh-singhal.is-a.dev](https://utkarsh-singhal.is-a.dev/) | [GitHub](https://github.com/Utkarsh-Singhal-26/portfolio) | Next.js, TailwindCSS, ShadCN UI |
-| Abdelrahman Ahmed | [abdalrahman.tech](https://abdalrahman.tech) | [GitHub](https://github.com/AB-DALRAHM-AN) | Next.js, Shadcn/ui, Notion, Resend |
-| Tanay Shah | [tanayshah.dev](https://tanayshah.dev) | [GitHub](https://github.com/tanayshah11) | NextJS, Tailwind v4, Vercel |
-
-</details>
-
----
-
-### 🌟 Three.js / WebGL / 3D
-
-<details>
-<summary><b>Click to expand — 20+ portfolios</b></summary>
-
-| Author | Live URL | Repo | Additional Tech |
-|--------|----------|------|----------------|
-| Bruno Simon | [bruno-simon.com](https://bruno-simon.com) | [GitHub](https://github.com/brunosimon/folio-2019) | GSAP, JavaScript |
-| Jesse Zhou | [jesse-zhou.com](https://jesse-zhou.com/) | [GitHub](https://github.com/enderh3art/Ramen-Shop) | GLSL, Howler.js, GSAP, Node.js |
-| Robby Leonardi | [rleonardi.com](http://www.rleonardi.com) | — | NextJS, React, GSAP, Webpack |
-| Guillaume Gouessan | [guillaumegouessan.com](https://guillaumegouessan.com/) | [GitHub](https://github.com/superguigui/guillaumegouessan.com) | GSAP, JavaScript |
-| Patrick Heng | [patrickheng.com](https://patrickheng.com/) | — | Nuxt.js, GSAP |
-| Hisami Kurita | [hsmkrt1996.com](https://hsmkrt1996.com/) | [GitHub](https://github.com/hisamikurita/hisamikurita-portfoliosite) | Vue.js, GSAP, ASSCROLL |
-| Hamish Williams | [hamishw.com](https://hamishw.com/) | [GitHub](https://github.com/HamishMW/portfolio) | React, NextJS |
-| Andrea Toffanello | [andreatoffanello.com](https://andreatoffanello.com) | — | VueJS, GSAP, Blender |
-| Danny Garcia | [danny-garcia.com](https://danny-garcia.com/) | [GitHub](https://github.com/dannygarcia/dannygarcia.github.com) | TypeScript, GLSL, Netlify |
-| David Heckoff | [david-hckh.com](https://david-hckh.com/) | — | HTML, GSAP, Howler.js |
-| Byunggeun Cho | [bbangjo.kr](https://bbangjo.kr) | [GitHub](https://github.com/bbangjooo/buffalo) | TypeScript, Blender |
-| James Warner | [jmswrnr.com](https://jmswrnr.com/) | — | NextJS, Sanity, NodeJS |
-| Charles Bruyerre | [itssharl.ee](https://itssharl.ee/) | — | NextJS, PWA, Vercel |
-| Jaber Said | [jaber.dev](https://jaber.dev) | [GitHub](https://github.com/Jaber-Saed/3d-protfoluo) | React JS, Tailwind CSS |
-| Kaung Myat Kyaw | [barry121.com](https://barry121.vercel.app/) | [GitHub](https://github.com/Rhaegar121/Portfolio) | ReactJS, TailwindCSS |
-| Julien Thême | [julien-theme.dev](https://julien-theme.dev/) | [GitHub](https://github.com/ZIRTR0X/PersonalWebsite) | Angular, TailwindCSS |
-| Goodness Urama | [goodie.work](https://www.goodie.work/) | [GitHub](https://github.com/GoodyBoy301/goodie.work) | Pug, SCSS, GSAP |
-| Priyanshu Tiwari | [priyanshu-tiwari.vercel.app](https://priyanshu-tiwari.vercel.app/) | [GitHub](https://github.com/priyanshtiwari001/portfolio) | NextJS, TailwindCSS, TypeScript |
-| Aditya Bansal | [adityabansal.tech](https://www.adityabansal.tech/) | — | R3F, React Js, Framer Motion, GSAP |
-| Divyansh Kathuria | [divyanshkathuria.netlify.app](https://divyanshkathuria.netlify.app/) | [GitHub](https://github.com/DIVYANSHKATHURIA) | HTML, CSS, React |
-| Marcos Moura | [marcos-moura97.github.io](https://marcos-moura97.github.io/) | [GitHub](https://github.com/marcos-moura97/marcos-moura97.github.io) | HTML, CSS, JavaScript |
-| Nguyen Tran Gia Si | [nguyentrangiasi.id.vn](https://nguyentrangiasi.id.vn/) | [GitHub](https://github.com/giasinguyen/GiaSi-Portfolio) | ReactJS, GSAP, Vite, Framer Motion |
-| Robin Payot | [robinpayot.com](http://www.robinpayot.com/) | — | GSAP, Howler.js, WebGL, PWA |
-
-</details>
-
----
-
-### 💨 Tailwind CSS
-
-<details>
-<summary><b>Click to expand — 30+ portfolios</b></summary>
-
-| Author | Live URL | Repo | Framework |
-|--------|----------|------|-----------|
-| Victor Eke | [victoreke.com](https://victoreke.com) | [GitHub](https://github.com/evavic44/victoreke.com) | Nextjs, Sanity |
-| Raj Savaliya | [rajsavaliya.com](https://www.rajsavaliya.com/) | [GitHub](https://github.com/SRX9/portfoliosrx9) | NextJS, React |
-| Segun Ajibola | [segunajibola.com](https://www.segunajibola.com) | [GitHub](https://github.com/segunajibola/portfolio) | React, SwiperJS |
-| Brayden | [braydentw.io](https://braydentw.io/) | [GitHub](https://github.com/BraydenTW/braydentw.io) | React, NextJS |
-| Ben | [nuro.dev](https://nuro.dev/) | [GitHub](https://github.com/NuroDev/nuro.dev) | React, NextJS |
-| Harsh Singh | [harshsingh.xyz](https://harshsingh.xyz/) | [GitHub](https://github.com/harshhhdev/harshhhdev.github.io) | NextJS, TypeScript |
-| Serdargokhan | [serdargokhan.dev](https://serdargokhan.dev) | [GitHub](https://github.com/serdargokhan/portfolio-website-v1) | NextJS, TypeScript |
-| Raphaël Chelly | [raphaelchelly.com](https://www.raphaelchelly.com) | [GitHub](https://github.com/raphaelchelly/raph_www) | Next.js, Vercel |
-| Daniel Cranney | [danielcranney.com](https://www.danielcranney.com/) | [GitHub](https://github.com/danielcranney/portfolio) | NextJS, Vercel |
-| Damian Demasi | [damiandemasi.com](https://www.damiandemasi.com/) | [GitHub](https://github.com/Colo-Codes/portfolio-v2) | ReactJS, DaisyUI |
-| Jhey Tompkins | [jhey.dev](https://jhey.dev/) | [GitHub](https://github.com/jh3y/jhey.dev) | Sanity, Astro, Netlify |
-| Chris Williams | [astro-theme-cactus.netlify.app](https://astro-theme-cactus.netlify.app/) | [GitHub](https://github.com/chrismwilliams/astro-theme-cactus) | Astro, TypeScript, MDX |
-| Abu Said | [abusaid.netlify.app](https://abusaid.netlify.app/) | [GitHub](https://github.com/said7388/developer-portfolio) | Next.js, Email.JS |
-| Eliaz LR | [eliaz-lr.dev](https://eliaz-lr.dev/) | [GitHub](https://github.com/Eliaz-LR/portfolio-v3) | Astro, Vue, DaisyUI |
-| Brian Lovin | [brianlovin.com](https://brianlovin.com/) | [GitHub](https://github.com/brianlovin/briOS) | NextJS, TypeScript, Prisma |
-| Zai Santillan | [plskz-me.vercel.app](https://plskz-me.vercel.app/) | [GitHub](https://github.com/plskz/plskz.me) | NextJS, TypeScript, DaisyUI |
-| Abass Dev | [abassdev.com](https://abassdev.com/) | [GitHub](https://github.com/abass-dev/abassdev.com) | NextJs, TypeScript |
-| Oscar Barajas | [gndx.io](https://gndx.io) | [GitHub](https://github.com/gndx/gndx.io) | HTML |
-| Wasim Baig | [wasimbaig.com](https://wasimbaig.com) | [GitHub](https://github.com/simbaig/portfolio-nextjs) | Next JS, Framer-Motion |
-| Hari Prasad | [hariprasd.me](https://hariprasd.me) | [GitHub](https://github.com/hariprasd) | React |
-
-</details>
-
----
-
-### 🧩 Vanilla HTML / CSS / JS
-
-<details>
-<summary><b>Click to expand — 40+ portfolios</b></summary>
-
-| Author | Live URL | Repo |
-|--------|----------|------|
-| Jemima Abu | [jemimaabu.com](https://jemimaabu.com) | [GitHub](https://github.com/jemimaabu/portfolio) |
-| Aditya Vikram | [people.umass.edu/avsingh](https://people.umass.edu/avsingh) | [GitHub](https://github.com/AVS1508/My-Alternate-Portfolio-Website) |
-| Adrien Gervaix | [adriengervaix.com](https://adriengervaix.com) | — |
-| Deidre Driscoll | [deidredriscoll.com](https://deidredriscoll.com) | — |
-| Community Pro | [cpro-portfolio-html.netlify.app](https://cpro-portfolio-html.netlify.app) | [GitHub](https://github.com/CommunityPro/portfolio-html) |
-| Pyae Sone | [pyaesonepsn.github.io](https://pyaesonepsn.github.io/portfolio-project/) | [GitHub](https://github.com/pyaesonepsn/portfolio-project) |
-| Williams Samuel | [williamssam.netlify.app](https://williamssam.netlify.app/) | [GitHub](https://github.com/williamssam/My-Portfolio) |
-| Franklin Ohaegbulam | [frankiefab.com](https://frankiefab.com) | [GitHub](https://github.com/frankiefab100/frankiefab.tech) |
-| Daniel Ezekiel | [danielezekiel.me](https://danielezekiel.me/) | [GitHub](https://github.com/Daniel-Ezekiel/Portfolio-Website) |
-| Leonel Ngoya | [lndev.me](https://lndev.me) | [GitHub](https://github.com/ln-dev7) |
-| Daniel Wisky | [danielwisky.com.br](https://danielwisky.com.br/) | [GitHub](https://github.com/danielwisky/danielwisky.github.io) |
-| Cassidy Williams | [cassidoo.co](https://cassidoo.co/) | — |
-| Lynn Fisher | [lynnandtonic.com](https://lynnandtonic.com/) | [GitHub](https://github.com/lynnandtonic/lynnandtonic.com) |
-| Robb Owen | [robbowen.digital](https://robbowen.digital/) | — |
-| Sandeep Kumar | [eternalfrustation.github.io](https://eternalfrustation.github.io/) | [GitHub](https://github.com/eternalfrustation/eternalfrustation.github.io) |
-| Bryan Smith | [multikitty.onrender.com](https://multikitty.onrender.com) | [GitHub](https://github.com/multikitty/multikitty.github.io) |
-| Anubhav Sigdel | [anubhavsigdel.vercel.app](https://anubhavsigdel.vercel.app/) | [GitHub](https://github.com/asigdel29/portfolio) |
-| Syed Moshin | [opensource-portfolio.netlify.app](https://opensource-portfolio.netlify.app/) | [GitHub](https://github.com/devsyedmohsin/portfolio-template) |
-| Sadee | [codewithsadee.github.io/vcard-personal-portfolio](https://codewithsadee.github.io/vcard-personal-portfolio/) | [GitHub](https://github.com/codewithsadee/vcard-personal-portfolio) |
-| Skifli | [skifli.github.io](https://skifli.github.io/) | [GitHub](https://github.com/skifli/skifli.github.io) |
-| Guglielmo Cerri | [guglielmocerri.github.io](https://guglielmocerri.github.io) | [GitHub](https://github.com/GuglielmoCerri/GuglielmoCerri.github.io) |
-| Sameera Sandakelum | [sameerasw.com](https://sameerasw.com/) | [GitHub](https://github.com/sameerasw/sameerasw.com) |
-| Sumonta Saha Mridul | [sumonta056.github.io](https://sumonta056.github.io/) | [GitHub](https://github.com/Sumonta056/sumonta056.github.io) |
-| Shivam Gupta | [the-shivam-gupta.github.io](https://the-shivam-gupta.github.io/) | [GitHub](https://github.com/the-shivam-gupta/the-shivam-gupta.github.io) |
-| Sunidhi Singh | [sunidhi-singh.netlify.app](https://sunidhi-singh.netlify.app/) | [GitHub](https://github.com/sunidhi014) |
-| Aakash Rajbanshi | [aakashrajbanshi.com.np](https://aakashrajbanshi.com.np/) | — |
-| Ata Berkay Karakuş | [berkaykrks.com](https://berkaykrks.netlify.app/) | [GitHub](https://github.com/berkaykrks/personal-website) |
-| Roman Mendaliev | [roman.asd.lol](https://roman.asd.lol) | [GitHub](https://github.com/reacheight/home) |
-| Kartik Jain | [jkartik.in](https://jkartik.in) | [GitHub](https://github.com/KartikJain14/jkartik.in) |
-| Aarav Gupta | [aarus2709.me](https://aarus2709.me) | [GitHub](https://github.com/Aarav2709/AarusPortfolio) |
-| Anshul Soni | [anshulsoni.in](https://www.anshulsoni.in/) | [GitHub](https://github.com/anshulsoni2010/portfolio-website) |
-| Akshay Kumar | [akshaytalanki.netlify.app](https://akshaytalanki.netlify.app/) | [GitHub](https://github.com/akshaytalanki19/portfolio) |
-| Madhurima Rawat | [madhurimarawat.github.io](https://madhurimarawat.github.io/Portfolio-Website/) | [GitHub](https://github.com/madhurimarawat/Portfolio-Website) |
-| Archit Agrawal | [archit-agrawal-portfolio.vercel.app](https://archit-agrawal-portfolio.vercel.app/) | [GitHub](https://github.com/ArchitAgrawal25/Portfolio) |
-| Shivam Javiya | [shivamjaviya.netlify.app](https://shivamjaviya.netlify.app/) | [GitHub](https://github.com/ShivamJaviya/Shivam_Portfolio) |
-
-</details>
-
----
-
-### 🔧 Other Frameworks
-
-<details>
-<summary><b>Astro, Svelte, Gatsby, Eleventy, Flutter, and more</b></summary>
-
-| Author | Live URL | Repo | Tech |
-|--------|----------|------|------|
-| Chris Williams | [astro-theme-cactus.netlify.app](https://astro-theme-cactus.netlify.app/) | [GitHub](https://github.com/chrismwilliams/astro-theme-cactus) | Astro, Tailwind, MDX |
-| Jhey Tompkins | [jhey.dev](https://jhey.dev/) | [GitHub](https://github.com/jh3y/jhey.dev) | Astro, Sanity, Tailwind |
-| Eliaz LR | [eliaz-lr.dev](https://eliaz-lr.dev/) | [GitHub](https://github.com/Eliaz-LR/portfolio-v3) | Astro, Vue, DaisyUI |
-| Eva Decker | [evadecker.com](https://evadecker.com) | [GitHub](https://github.com/evadecker/evadecker.com) | Astro, React, TypeScript, Framer Motion |
-| SofiDev | [itssofi.dev](https://itssofi.dev/) | [GitHub](https://github.com/SofiDevO/sofidev-portfolio-astro) | Astro, CSS, React |
-| Ghulam Ahmed | [gahmed.com](https://gahmed.com) | [GitHub](https://github.com/theghulam) | Astro, Solid.js, TypeScript |
-| Jesse Akoh | [jesseakoh.com](https://jesseakoh.com) | — | Astro, TailwindCSS, Netlify |
-| Nat Anselm | [nanselm.com](https://nanselm.com) | — | Astro, DaisyUI, TailwindCSS |
-| Danny Johnson | [mrdannyjohnson.co.uk](https://www.mrdannyjohnson.co.uk/) | — | Astro, Vue, Sanity, Tailwind |
-| Odhy Pradhana | [odhyp.com](https://odhyp.com/) | [GitHub](https://github.com/odhyp/odhyp.com) | Hugo, TailwindCSS |
-| Schulz Daniel | [iamschulz.com](https://iamschulz.com) | [GitHub](https://github.com/iamschulz/iamschulz-hugo) | Hugo, JavaScript |
-| Ismael López | [ismaellopez.dev](https://ismaellopez.dev) | — | Svelte, CSS, Netlify CMS |
-| Seán Halpin | [seanhalpin.xyz](https://www.seanhalpin.xyz/) | — | Svelte, SvelteKit, Vite, PWA |
-| Wahid Ali | [wahidali.dev](https://www.wahidali.dev/) | [GitHub](https://github.com/Aliwahid17/portfolio) | Svelte, Tailwind CSS, TypeScript |
-| Max Böck | [mxb.dev](https://mxb.dev) | [GitHub](https://github.com/maxboeck/mxb) | Eleventy, SCSS, Nunjucks |
-| Jonathan Toon | [jonathontoon.com](https://jonathontoon.com/) | [GitHub](https://github.com/jonathontoon/jonathontoon.com) | Gulp, EsBuild, postCSS |
-| Aaron Shapiro | [aaron.mn](https://www.aaron.mn) | [GitHub](https://github.com/aarshap/aaron.mn) | React, Gatsby, Netlify |
-| Anurag Hazra | [anuraghazra.dev](https://anuraghazra.dev/) | [GitHub](https://github.com/anuraghazra/anuraghazra.github.io) | React, Gatsby, Cypress |
-| Alfaizkhan Pathan | [alfaizkhan.github.io](https://alfaizkhan.github.io) | [GitHub](https://github.com/Alfaizkhan/alfaizkhan.github.io) | Flutter, Dart |
-| Shourya Shikhar Ghosh | [shourya.vercel.app](https://shourya.vercel.app) | [GitHub](https://github.com/danger-ahead/flutter_dev_folio) | Flutter |
-| Daniel Coyula | [portfolio.dctech.dev](https://portfolio.dctech.dev/) | — | Flutter |
-| Tri Dang | [tri-dang.github.io](https://tri-dang.github.io/about) | [GitHub](https://github.com/tri-dang/tri-dang.github.io) | Ruby, Jekyll, Markdown |
-| Jacob Valdez | [jacobfv.github.io](https://jacobfv.github.io) | [GitHub](https://github.com/JacobFV/jacobfv.github.io) | HTML, Jekyll |
-| Max Böck | [mxb.dev](https://mxb.dev/) | [GitHub](https://github.com/maxboeck/mxb) | Eleventy, SCSS, Nunjucks |
-
-</details>
-
----
-
-## 📋 Full Portfolio List
-
-> Complete alphabetical listing of all portfolios in this collection.
-
-<details>
-<summary><b>View all 200+ portfolios</b></summary>
-
-| Author | Live URL | Repo | Tech Stack |
-|--------|----------|------|------------|
-| Aarav Gupta | [aarus2709.me](https://aarus2709.me) | [GitHub](https://github.com/Aarav2709/AarusPortfolio) | HTML, CSS, JavaScript, GSAP |
-| Aakash Rajbanshi | [aakashrajbanshi.com.np](https://aakashrajbanshi.com.np/) | — | HTML, CSS, JavaScript |
-| Abass Dev | [abassdev.com](https://abassdev.com/) | [GitHub](https://github.com/abass-dev/abassdev.com) | NextJs, Tailwind CSS, TypeScript |
-| Abdullah Abdulfatah | [draq.tech](https://www.draq.tech/) | — | NextJS, Typescript, ChakraUI |
-| Abdullah Moiz | [mrmoiz.vercel.app](https://mrmoiz.vercel.app/) | — | Next Js, Tailwind css |
-| Abdelkarim Ain | [abdelkarimain.me](https://www.abdelkarimain.me/) | — | Next.js, Sanity.io, TypeScript, Tailwindcss, Shadcn ui |
-| Abdellatif Laghjaj | [abdellatif-laghjaj.ml](https://www.abdellatif-laghjaj.ml/) | — | VueJS, Lottiefiles, CSS |
-| Abdelrahman Ahmed | [abdalrahman.tech](https://abdalrahman.tech) | [GitHub](https://github.com/AB-DALRAHM-AN) | Next.js, TypeScript, TailwindCss, Shadcn/ui, Notion |
-| Abhishek Jha | [abhishekjha.me](https://www.abhishekjha.me) | — | HTML, CSS, JavaScript, Ruby on Rails, GSAP |
-| Abu Said | [abusaid.netlify.app](https://abusaid.netlify.app/) | [GitHub](https://github.com/said7388/developer-portfolio) | Next.js, Tailwind CSS, Email.JS |
-| Adeola Adeoti | [adeolaadeoti.site](https://www.adeolaadeoti.site) | [GitHub](https://github.com/adeolaadeoti/adeolaadeoti-v2) | TypeScript, GSAP, NodeJS, NextJS, SCSS |
-| Adeola Badero | [adeolabadero.vercel.app](https://adeolabadero.vercel.app) | [GitHub](https://github.com/adex-hub/ade-folio) | Nextjs, Tailwind CSS, TypeScript, Framer Motion |
-| Adenekan Wonderful | [codewonders.dev](https://www.codewonders.dev/) | — | React, NextJS, Styled-components |
-| Aditya Bansal | [adityabansal.tech](https://www.adityabansal.tech/) | — | Three.js, R3F, React, Framer Motion, GSAP |
-| Aditya Gupta | [minimalist-portfolio-phi.vercel.app](https://minimalist-portfolio-phi.vercel.app/) | [GitHub](https://github.com/impulseadi/minimalist_portfolio) | React.js, Tailwind CSS, Framer Motion |
-| Aditya Induraj | [adityainduraj.xyz](https://adityainduraj.xyz) | [GitHub](https://github.com/adityainduraj) | Nextjs, Tailwind CSS, TypeScript |
-| Aditya Punmiya | [adityapunmiya.com](https://adityapunmiya.com/) | [GitHub](https://github.com/Aditya-0011/portfolio-website) | Next.js, Tailwind CSS, TypeScript, MongoDB |
-| Aditya Vikram | [people.umass.edu/avsingh](https://people.umass.edu/avsingh) | [GitHub](https://github.com/AVS1508/My-Alternate-Portfolio-Website) | HTML, CSS, JavaScript |
-| Adrien Gervaix | [adriengervaix.com](https://adriengervaix.com) | — | HTML, CSS, JavaScript |
-| Adewale Adeyemi | [adex.onrender.com](https://adex.onrender.com/) | [GitHub](https://github.com/dev-adewale/portfolio) | Gridsome, GraphQL, Tailwind |
-| Aaron Shapiro | [aaron.mn](https://www.aaron.mn) | [GitHub](https://github.com/aarshap/aaron.mn) | React, Gatsby, Styled Components, Netlify |
-| Akshay K Rooben | [akshayabraham.vercel.app](https://akshayabraham.vercel.app) | [GitHub](https://github.com/akshay-abraham/Quantalink) | Next.js, TypeScript, TailwindCSS, Framer Motion |
-| Akshay Kumar | [akshaytalanki.netlify.app](https://akshaytalanki.netlify.app/) | [GitHub](https://github.com/akshaytalanki19/portfolio) | HTML, CSS, JavaScript |
-| Alfaizkhan Pathan | [alfaizkhan.github.io](https://alfaizkhan.github.io) | [GitHub](https://github.com/Alfaizkhan/alfaizkhan.github.io) | Flutter, Dart, Github Pages |
-| Ali Imam | [aliimam.in](https://www.aliimam.in/) | [GitHub](https://github.com/aliimam-in/aliimam) | NextJS, TailwindCSS, React, Lenis |
-| Ali Imam | [dalim.in](https://dalim.in) | [GitHub](https://github.com/designali-in/designali.in) | Next.js, Typescript, Authjs, Prisma, Cloudinary |
-| Aliyah Adefolake | [aliyahadefolake.com](https://www.aliyahadefolake.com/) | — | ReactJS, Gatsby, SASS, GSAP, Contentful |
-| Alpay Celik | [alpaycelik.dev](https://alpaycelik.dev/) | [GitHub](https://github.com/AlpayC/portfolio_site) | NextJS, TailwindCSS, Typescript, Framer Motion |
-| Anand Baraik | [anandbaraik.github.io](https://anandbaraik.github.io) | [GitHub](https://github.com/anandbaraik/anandbaraik.github.io) | HTML, CSS, React.js |
-| Andrea Toffanello | [andreatoffanello.com](https://andreatoffanello.com) | — | VueJS, ThreeJS, GSAP, Blender |
-| Andrew Baisden | [andrewbaisden.com](https://andrewbaisden.com) | [GitHub](https://github.com/andrewbaisden/andrew-baisden-portfolio-2022) | HTML, CSS, TypeScript, ReactJS |
-| Andrew Branch | [blog.andrewbran.ch](https://blog.andrewbran.ch/) | [GitHub](https://github.com/andrewbranch/blog) | Gatsby, TypeScript, Emotion, Netlify |
-| Anirban Das | [anirbandas.in](https://www.anirbandas.in/) | [GitHub](https://github.com/anirban12d/portfolio-2023) | Qwik, React, Tailwind CSS |
-| Anish De | [anishde.dev](https://anishde.dev) | [GitHub](https://github.com/AnishDe12020/portfolio) | Next.js, TypeScript, Tailwind CSS |
-| Anshul Gora | [anshulwork.netlify.app](https://anshulwork.netlify.app/) | — | ReactJs, Bootstrap, Vanilla CSS |
-| Anshul Soni | [anshulsoni.in](https://www.anshulsoni.in/) | [GitHub](https://github.com/anshulsoni2010/portfolio-website) | HTML, CSS, JavaScript |
-| Anthony Fu | [antfu.me](https://antfu.me/) | [GitHub](https://github.com/antfu/antfu.me) | VueJS, Markdown, TypeScript |
-| Antonio Ayola | [antonioayola.netlify.app](https://antonioayola.netlify.app) | [GitHub](https://github.com/Tono2007/Portafolio) | React, HTML, CSS, PWA |
-| Anuoluwapo Abolarin | [anuoluwapo.xyz](https://anuoluwapo.xyz/) | [GitHub](https://github.com/Anu-oluwapo/portfolio-v2) | VueJS, SCSS, GSAP, Vite |
-| Anurag Hazra | [anuraghazra.dev](https://anuraghazra.dev/) | [GitHub](https://github.com/anuraghazra/anuraghazra.github.io) | React, Gatsby, Styled-components |
-| Anubhav Sigdel | [anubhavsigdel.vercel.app](https://anubhavsigdel.vercel.app/) | [GitHub](https://github.com/asigdel29/portfolio) | HTML, CSS, JS |
-| Apoorv Maurya | [apoorv.onrender.com](https://apoorv.onrender.com) | [GitHub](https://github.com/apoorvmaurya/portfolio) | HTML, CSS, JavaScript |
-| Ara Oladipo | [araoladipo.tech](https://araoladipo.tech/) | [GitHub](https://github.com/Ara-O/Portfolio-Website) | HTML, CSS, Vue.js, Spline3D |
-| Arafat Islam | [portfolio-khaki-iota-89.vercel.app](https://portfolio-khaki-iota-89.vercel.app/) | [GitHub](https://github.com/arafat4693/portfolio) | NextJS, TypeScript, GraphQL, Tailwind |
-| Aravind Ashokan | [aravindashokan.tech](https://aravindashokan.tech) | [GitHub](https://github.com/code-lover636/aravindashokan) | ReactJS, CSS(SASS), Framer Motion |
-| Aravind Balla | [aravindballa.com](https://aravindballa.com) | [GitHub](https://github.com/aravindballa/website) | NextJS, TypeScript, Tailwind CSS |
-| Archit Agrawal | [archit-agrawal-portfolio.vercel.app](https://archit-agrawal-portfolio.vercel.app/) | [GitHub](https://github.com/ArchitAgrawal25/Portfolio) | HTML, CSS, JavaScript |
-| Ariful Alam | [arifszn.github.io/gitprofile](https://arifszn.github.io/gitprofile) | [GitHub](https://github.com/arifszn/gitprofile) | React, Vite, Tailwind CSS |
-| Aristide Benoist | [aristidebenoist.com](https://aristidebenoist.com/) | — | PHP, JavaScript, WebGL, AWS |
-| Arshdeep Singh | [arshdeepsingh.me](https://arshdeepsingh.me/) | — | NextJS, ReactJS, TailwindCSS |
-| Ashish | [asrvd.me](https://asrvd.me/) | [GitHub](https://github.com/asrvd/asrvd.me) | Next.js, tRPC, Tailwind CSS, TypeScript |
-| Asharib Ali | [cv.asharib.xyz](https://cv.asharib.xyz/) | [GitHub](https://github.com/AsharibAli/cv) | Next.js, React, Typescript, Shadcn/ui |
-| Ashutosh Hathidara | [ashutoshhathidara.com](https://ashutoshhathidara.com/#/) | [GitHub](https://github.com/ashutosh1919/masterPortfolio) | HTML5, CSS3, React, NextJS |
-| Ata Berkay Karakuş | [berkaykrks.com](https://berkaykrks.netlify.app/) | [GitHub](https://github.com/berkaykrks/personal-website) | HTML, CSS, JS |
-| Atijosan Iyanuoluwa | [iyanu-codes-v1.vercel.app](https://iyanu-codes-v1.vercel.app/) | [GitHub](https://github.com/Iyanu1396) | ReactJS, TailwindCSS |
-| Aycan Öğüt | [aycan.dev](https://www.aycan.dev) | [GitHub](https://github.com/aycanogut/aycan.dev) | React, Next, TypeScript, Mantine |
-| Ayodele Ayoola | [ayodeleayoola.com](https://ayodeleayoola.com) | [GitHub](https://github.com/CreedTech/ayodele-ayoola) | NextJs, TypeScript, GSAP, Tailwind CSS |
-| Aziz Rahman | [azizstark.com](https://azizstark.com) | [GitHub](https://github.com/AzizStark/AzizStark/tree/portfolio-v2) | React, Gatsby, Styled-Components, AnimeJS |
-| Babatunde Afreka | [bafrekauiux.framer.website](https://bafrekauiux.framer.website/) | — | Framer, React |
-| Baraa Alshaer | [alshaer.vercel.app](https://alshaer.vercel.app/) | [GitHub](https://github.com/balshaer/alshaer) | React JS, Typescript, Shadcn ui, Tailwind CSS |
-| Ben Holmes | [bholmes.dev](https://bholmes.dev/) | [GitHub](https://github.com/bholmesdev/bholmesdev) | Gatsby, Javascript, SCSS, Pug |
-| Benaiah Alumona | [benrobo.vercel.app](https://benrobo.vercel.app) | [GitHub](https://github.com/benrobo/portfolio-v3) | Reactjs, TailwindCss, Next.js |
-| Bhavin Virani | [bhavinn.xyz](https://bhavinn.xyz) | [GitHub](https://github.com/bhavinvirani/Protfolio) | HTML, CSS, JS, React.js, Github API |
-| Binil B | [thegr8binil.me](https://thegr8binil.me) | [GitHub](https://github.com/thegr8binil/) | Nextjs, Motion, Tailwind CSS, TypeScript, GSAP |
-| Bona Brian Siagian | [bonabrian.com](https://bonabrian.com) | [GitHub](https://github.com/bonabrian/bonabrian.com) | Typescript, NextJs, TailwindCSS, Prisma |
-| Braydon Coyer | [braydoncoyer.dev](https://braydoncoyer.dev/) | [GitHub](https://github.com/braydoncoyer/braydoncoyer.dev) | React, TypeScript, NextJS, Tailwindcss |
-| Brayden | [braydentw.io](https://braydentw.io/) | [GitHub](https://github.com/BraydenTW/braydentw.io) | React, NextJS, TailwindCSS |
-| Brian Lovin | [brianlovin.com](https://brianlovin.com/) | [GitHub](https://github.com/brianlovin/briOS) | NextJS, TypeScript, Tailwind CSS, Prisma |
-| Brittany Chiang | [v4.brittanychiang.com](https://v4.brittanychiang.com/) | [GitHub](https://github.com/bchiang7/v4) | React, Gatsby, Styled-components |
-| Bruno Simon | [bruno-simon.com](https://bruno-simon.com) | [GitHub](https://github.com/brunosimon/folio-2019) | GSAP, ThreeJS, JavaScript |
-| Bryan Smith | [multikitty.onrender.com](https://multikitty.onrender.com) | [GitHub](https://github.com/multikitty/multikitty.github.io) | HTML, CSS, JavaScript |
-| Byunggeun Cho | [bbangjo.kr](https://bbangjo.kr) | [GitHub](https://github.com/bbangjooo/buffalo) | HTML, CSS, JavaScript, TypeScript, Threejs, Blender |
-| Carlos Dubón | [carlosdubon.dev](https://carlosdubon.dev) | — | Next.js 14, TailwindCSS, TypeScript, Framer Motion |
-| Carson Spriggs | [carsonsgit.github.io](https://carsonsgit.github.io/) | [GitHub](https://github.com/carsonSgit/carsonsgit.github.io) | React, TypeScript, SCSS |
-| Cassidy Williams | [cassidoo.co](https://cassidoo.co/) | — | HTML, CSS, JavaScript |
-| Chai Phonbopit | [devahoy.com](https://devahoy.com/) | — | NextJS, Preact, Tailwind CSS, NodeJS |
-| Chandraprakash Darji | [chandraprakash.vercel.app](https://chandraprakash.vercel.app/) | [GitHub](https://github.com/Chandraprakash-Darji/personal) | Nextjs, Typescript, Tailwindcss |
-| Charles Bruyerre | [itssharl.ee](https://itssharl.ee/) | — | NextJS, ThreeJS, PWA |
-| Chris Porter | [madebyporter.com](https://madebyporter.com) | [GitHub](https://github.com/madebyporter/madebyporter) | HTML, Ruby, SCSS, JavaScript |
-| Chris Williams | [astro-theme-cactus.netlify.app](https://astro-theme-cactus.netlify.app/) | [GitHub](https://github.com/chrismwilliams/astro-theme-cactus) | Astro, Typescript, Tailwind CSS |
-| Chun-Ho (Hugo) Lin | [1chooo.com](https://1chooo.com/) | [GitHub](https://github.com/1chooo/1chooo.com) | ReactJS, Next.js, TypeScript |
-| Chung Nguyen Thanh | [chunhthanhde.github.io](https://chunhthanhde.github.io) | [GitHub](https://github.com/chunhthanhde) | Flutter, Dart, Github Pages |
-| Cole Solomon | [colesolomon.me](https://colesolomon.me/) | [GitHub](https://github.com/codecole/colesolomonme) | HTML, CSS, SASS, JavaScript, GSAP |
-| Collins Enebeli | [kadet.dev](https://kadet.dev/) | [GitHub](https://github.com/kadetXx/kadet.dev) | React, Gatsby |
-| Community Pro | [cpro-portfolio-html.netlify.app](https://cpro-portfolio-html.netlify.app) | [GitHub](https://github.com/CommunityPro/portfolio-html) | HTML, CSS, JavaScript |
-| CuB3y0nd | [cubeyond.net](https://cubeyond.net) | [GitHub](https://github.com/CuB3y0nd/cubeyond.net) | Nextjs, MDX, Tailwind CSS, TypeScript |
-| Culture DevOps | [culturedevops.com](https://culturedevops.com/en) | [GitHub](https://github.com/CultureDevOps/blog) | Next.js, Tailwind CSS, i18n |
-| Cyd Stumpel | [cydstumpel.nl](https://cydstumpel.nl/) | — | WordPress, PHP, ThreeJS, GSAP |
-| Çağlar Turalı | [turali.js.org](https://turali.js.org/) | [GitHub](https://github.com/caglarturali/caglarturali.github.io) | React, TypeScript |
-| Dale Larroder | [dalelarroder.com](https://dalelarroder.com) | [GitHub](https://github.com/dlarroder/dalelarroder) | NextJS, Preact, TypeScript, Tailwind, MDX |
-| Damian Demasi | [damiandemasi.com](https://www.damiandemasi.com/) | [GitHub](https://github.com/Colo-Codes/portfolio-v2) | ReactJS, TailwindCSS, DaisyUI |
-| Damian Watracz | [watracz.com](https://watracz.com/) | — | HTML, CSS, JavaScript |
-| Daniel Cranney | [danielcranney.com](https://www.danielcranney.com/) | [GitHub](https://github.com/danielcranney/portfolio) | NextJS, TailwindCSS, Vercel |
-| Daniel Coyula | [portfolio.dctech.dev](https://portfolio.dctech.dev/) | — | Flutter |
-| Daniel Ezekiel | [danielezekiel.me](https://danielezekiel.me/) | [GitHub](https://github.com/Daniel-Ezekiel/Portfolio-Website) | HTML, CSS, JavaScript |
-| Daniel Wisky | [danielwisky.com.br](https://danielwisky.com.br/) | [GitHub](https://github.com/danielwisky/danielwisky.github.io) | HTML, CSS, JavaScript |
-| Danilo Batson | [batson-portfolio.vercel.app](https://batson-portfolio.vercel.app/) | [GitHub](https://github.com/danilobatson/batson-portfolio) | TypeScript, JavaScript, React, Vue, Node |
-| Danny Garcia | [danny-garcia.com](https://danny-garcia.com/) | [GitHub](https://github.com/dannygarcia/dannygarcia.github.com) | HTML5, TypeScript, GLSL, Netlify |
-| Danny Johnson | [mrdannyjohnson.co.uk](https://www.mrdannyjohnson.co.uk/) | — | Astro, Vue, Sanity, Tailwind CSS |
-| David Angulo | [davidangulo.xyz](https://www.davidangulo.xyz/) | [GitHub](https://github.com/dcangulo/davidangulo.xyz) | HTML, Jekyll, Ruby, Bootstrap |
-| David Darnes | [darn.es](https://darn.es) | — | Netlify, Jekyll |
-| David Heckoff | [david-hckh.com](https://david-hckh.com/) | — | HTML, CSS, ThreeJS, GSAP |
-| David Obodo | [davidobodo.com](https://www.davidobodo.com/) | — | NextJS, Typescript, SASS, GSAP |
-| David Simoes | [davesimoesportfolio.netlify.app](https://davesimoesportfolio.netlify.app/) | [GitHub](https://github.com/DaveSimoes/Developer.Portfolio) | HTML, CSS, JavaScript |
-| DEBAJYOTI GHOSH | [convolexa-2503.web.app](https://convolexa-2503.web.app/) | — | React JS |
-| Deepak Modi | [deepakmodi.tech](https://deepakmodi.tech/) | [GitHub](https://github.com/decodewithdeepak/Portfolio) | React, Tailwind CSS, TypeScript |
-| Deepanshu Mehra | [deeshu2002.github.io/folio](https://deeshu2002.github.io/folio) | [GitHub](https://github.com/deeshu2002/folio) | HTML, CSS, TypeScript, Vite, PWA |
-| Deidre Driscoll | [deidredriscoll.com](https://deidredriscoll.com) | — | HTML, JavaScript, CSS, GSAP |
-| Dejan Markovic | [dejan.works](https://www.dejan.works) | — | HTML, CSS, JavaScript, Jquery |
-| Delba Oliviera | [delba.dev](https://delba.dev/) | [GitHub](https://github.com/delbaoliveira/website) | Next.js, MDX, Tailwind, Prisma |
-| Dennis Snellenberg | [dennissnellenberg.com](https://dennissnellenberg.com/) | — | GSAP, JQuery, PHP, VueJS |
-| Dev Clinton | [devclinton.org](https://devclinton.org/) | — | NextJS, ReactJS, TailwindCSS, Prismic, Framer Motion |
-| Dev Khandelwal | [slyro.vercel.app](https://slyro.vercel.app/) | [GitHub](https://github.com/khandelwaldev/dev) | Next.JS, Tailwind CSS, MDX |
-| Dhairya Majmudar | [dhaiyra-majmudar.netlify.app](https://dhaiyra-majmudar.netlify.app) | [GitHub](https://github.com/DhairyaMajmudar/Personal-Portfolio) | React, Tailwind, Material UI |
-| Dipesh Murmu | [dipeshmurmu.com.np](https://dipeshmurmu.com.np/) | — | Tailwind, Alpine, Laravel, Livewire |
-| Divyansh Kathuria | [divyanshkathuria.netlify.app](https://divyanshkathuria.netlify.app/) | [GitHub](https://github.com/DIVYANSHKATHURIA) | HTML, CSS, React, Three.js |
-| Dogan Merden | [doganmerden.vercel.app](https://doganmerden.vercel.app/) | — | Next.js, TypeScript, Tailwind CSS, Framer Motion |
-| Durgesh | [yodkwtf.com](https://yodkwtf.com/) | [GitHub](https://github.com/yodkwtf/yodkwtf.com) | ReactJS, CSS, Context API, Airtable CMS |
-| Efren Martinez | [efrencodes.com](https://efrencodes.com) | [GitHub](https://github.com/efrencodes/efrencodes.ts) | NextJS, TypeScript, TailwindCSS |
-| Eliaz LR | [eliaz-lr.dev](https://eliaz-lr.dev/) | [GitHub](https://github.com/Eliaz-LR/portfolio-v3) | Astro, TailwindCSS, Vue, DaisyUI |
-| Emmanuel Alabi | [emmanuelalabi.vercel.app](https://emmanuelalabi.vercel.app/) | — | HTML, TailwindCSS |
-| Emmanuel Ebeh | [emmanuelebeh.dev](https://emmanuelebeh.dev) | — | React, Tanstack Start, TailwindCSS, Framer Motion |
-| Emmanuel Nsikan-david | [nsikandavid.dev](https://nsikandavid.dev) | — | ReactJS, CSS |
-| Enes Hacısağır | [enesehs.me](https://www.enesehs.me/) | [GitHub](https://github.com/enesehs) | HTML, CSS, JavaScript, GSAP |
-| Erika Senft Miller | [erikasenftmiller.com](https://www.erikasenftmiller.com/) | — | Contentful, GSAP, LazySizes, PWA |
-| Erys Mozo | [erysmozo.vercel.app](https://erysmozo.vercel.app/) | [GitHub](https://github.com/ErysCode7/Web-Portfolio) | React, SASS, Vite, AOS |
-| Eva Decker | [evadecker.com](https://evadecker.com) | [GitHub](https://github.com/evadecker/evadecker.com) | Astro, React, TypeScript, Framer Motion |
-| Farouk Mustapha | [devfarouk.vercel.app](https://devfarouk.vercel.app/) | [GitHub](https://github.com/Farouk-ayo/devfarouk) | NextJs, Typescript, TailwindCSS, AOS |
-| Franklin Ohaegbulam | [frankiefab.com](https://frankiefab.com) | [GitHub](https://github.com/frankiefab100/frankiefab.tech) | HTML, CSS, JavaScript |
-| Gavin Nelson | [nelson.co](https://nelson.co/) | [GitHub](https://github.com/gavinmn/nelson.co) | NextJS, Tailwind CSS, MDX |
-| George Christeas | [chr-ge.com](https://chr-ge.com/) | [GitHub](https://github.com/chr-ge/chr-ge.com) | Next.js, Typescript, ChakraUI |
-| George Francis | [georgefrancis.dev](https://georgefrancis.dev) | — | GSAP, Netlify, HTML, CSS |
-| Ghulam Ahmed | [gahmed.com](https://gahmed.com) | [GitHub](https://github.com/theghulam) | Astro, Solid.js, TypeScript, TailwindCSS |
-| Glayson Visgueira | [glaysonvisgueira.vercel.app](https://glaysonvisgueira.vercel.app/) | [GitHub](https://github.com/Glaysonvisgueira/glaysonvisgueira_next-js) | NextJS, Styled-components, NodeJS |
-| Goodness Urama | [goodie.work](https://www.goodie.work/) | [GitHub](https://github.com/GoodyBoy301/goodie.work) | Pug, SCSS, ThreeJS, GSAP |
-| Greg Ives | [gregives.co.uk](https://www.gregives.co.uk) | [GitHub](https://github.com/gregives/gregives.co.uk) | Vue, NuxtJS, SASS, Netlify |
-| Gregory Koberger | [gkoberger.com](https://gkoberger.com/) | — | VueJS, GSAP, NodeJS, Express |
-| Guillaume Gouessan | [guillaumegouessan.com](https://guillaumegouessan.com/) | [GitHub](https://github.com/superguigui/guillaumegouessan.com) | GSAP, ThreeJS, JavaScript |
-| Guglielmo Cerri | [guglielmocerri.github.io](https://guglielmocerri.github.io) | [GitHub](https://github.com/GuglielmoCerri/GuglielmoCerri.github.io) | HTML, CSS, JavaScript |
-| Hanaia Youcef | [poysa213.me](https://poysa213.me/) | [GitHub](https://github.com/poysa213/portfolio) | Typescript, NextJS, TailwindCSS, Framer Motion |
-| Hanif Yuli Abdillah | [hanifabdlh.vercel.app](https://hanifabdlh.vercel.app/) | — | Python, HTML, CSS, JS |
-| Hardik Gohil | [hardikgohil.space](https://hardikgohil.space/) | — | Next.js, TypeScript, Tailwind CSS, Firebase |
-| Hari Prasad | [hariprasd.me](https://hariprasd.me) | [GitHub](https://github.com/hariprasd) | React, Tailwind CSS |
-| Hari Thatikonda | [thughari.github.io](https://thughari.github.io) | [GitHub](https://github.com/thughari/thughari.github.io) | HTML, CSS, JS, Google Sheets |
-| Harsh Singh | [harshsingh.xyz](https://harshsingh.xyz/) | [GitHub](https://github.com/harshhhdev/harshhhdev.github.io) | NextJS, TailwindCSS, TypeScript, Prisma |
-| Hikmet C. Kufteoglu | [hicaku.com](https://hicaku.com) | [GitHub](https://github.com/spencehiko/portfolio) | Vue 3, Pinia, TypeScript |
-| Hisami Kurita | [hsmkrt1996.com](https://hsmkrt1996.com/) | [GitHub](https://github.com/hisamikurita/hisamikurita-portfoliosite) | Vue.js, Nuxt.js, SCSS, ThreeJS, GSAP |
-| Huy Nguyen | [huyng.xyz](https://www.huyng.xyz/) | — | React.js, TailwindCSS, GSAP, Lenis |
-| Ibrahim Sadik Tamim | [tam11a.dev](https://tam11a.dev) | [GitHub](https://github.com/tam11a/tam11a.dev) | NextJS, TypeScript, TailwindCSS, Framer, GSAP |
-| Idris Olubisi | [idrisolubisi.com](https://idrisolubisi.com) | [GitHub](https://github.com/Olanetsoft/idrisolubisi.com) | ReactJs, GatsbyJs, TypedJs, Styled Component |
-| Ifedili Onyegbu | [ifedili.com](https://www.ifedili.com) | [GitHub](https://github.com/saucecodee/ifedili.com) | Angular, TypeScript, SASS |
-| Isaac Fayemi | [fayemi.design](https://www.fayemi.design/) | — | Vanilla JS, Prismic CMS, SCSS, ThreeJS, GSAP |
-| Ismael López | [ismaellopez.dev](https://ismaellopez.dev) | — | Svelte, JavaScript, CSS, Netlify CMS |
-| Ismoilbek Ilxomov | [ismail.uz](https://ismail.uz/) | — | NextJS, TailwindCSS, Netlify |
-| Israel Mitolu | [mitolu.dev](https://mitolu.dev) | [GitHub](https://github.com/israelmitolu/premier-portfolio) | HTML, SASS, Javascript, GSAP |
-| Jaber Said | [jaber.dev](https://jaber.dev) | [GitHub](https://github.com/Jaber-Saed/3d-protfoluo) | React JS, Tailwind CSS, Three JS |
-| Jacob Valdez | [jacobfv.github.io](https://jacobfv.github.io) | [GitHub](https://github.com/JacobFV/jacobfv.github.io) | HTML, Jekyll |
-| Jahir Fiquitiva | [jahir.dev](https://jahir.dev/) | [GitHub](https://github.com/jahirfiquitiva/jahir.dev) | Next.js, Tailwind CSS, MDX, PlanetScale |
-| Jahidul Islam | [XahidEx.com](https://xahidex.com/) | — | Typescript, NextJs, TailwindCSS, Prisma |
-| James Warner | [jmswrnr.com](https://jmswrnr.com/) | — | NextJS, Sanity, NodeJS, ThreeJS |
-| Jason Lengstorf | [jason.energy](https://www.jason.energy) | [GitHub](https://github.com/jlengstorf/jason.energy) | JavaScript, TypeScript, Nunjucks |
-| Jawher Kallel | [jawherkl-github-io.vercel.app](https://jawherkl-github-io.vercel.app/) | [GitHub](https://github.com/JawherKl) | PHP, JavaScript, Go, Java, TypeScript |
-| Jay Bhavsar | [jay.is-savvy.dev](https://jay.is-savvy.dev) | [GitHub](https://github.com/jbhv12/portfolio) | Vue, Gridsome, Tailwind CSS |
-| Jatin Kamboj | [jatinkamboj.me](https://jatinkamboj.me/) | — | HTML, CSS, JavaScript, GreenSock |
-| Jeferson Brito | [jefersonsilva.me](https://www.jefersonsilva.me/) | [GitHub](https://github.com/jeferson-sb/portfolio) | Vue 3.0, Vite |
-| Jemima Abu | [jemimaabu.com](https://jemimaabu.com) | [GitHub](https://github.com/jemimaabu/portfolio) | HTML, CSS, JavaScript |
-| Jesse Akoh | [jesseakoh.com](https://jesseakoh.com) | — | Astro, TailwindCSS, Netlify |
-| Jesse Zhou | [jesse-zhou.com](https://jesse-zhou.com/) | [GitHub](https://github.com/enderh3art/Ramen-Shop) | HTML, GLSL, Howler.js, GSAP, Three.js, Node.js |
-| Jhey Tompkins | [jhey.dev](https://jhey.dev/) | [GitHub](https://github.com/jh3y/jhey.dev) | Sanity, Astro, Tailwind CSS |
-| Jimmy Soussan | [cozy-codeur.fr](https://www.cozy-codeur.fr) | [GitHub](https://github.com/jilink/personal-portfolio) | React, Gatsby, Chakra UI, Framer Motion |
-| JJ Kasper | [jjsweb.site](https://jjsweb.site/) | [GitHub](https://github.com/ijjk/jjsweb.site) | NextJS, Vercel, CSS |
-| Johnson Takashi | [johnson-takashi-blockchain.web.app](https://johnson-takashi-blockchain.web.app/) | [GitHub](https://github.com/John-T45/John-T45.github.io) | HTML, CSS, Bootstrap, JavaScript |
-| Jonathan Toon | [jonathontoon.com](https://jonathontoon.com/) | [GitHub](https://github.com/jonathontoon/jonathontoon.com) | Gulp, EsBuild, postCSS, Nunjuck |
-| Josh Comeau | [joshwcomeau.com](https://www.joshwcomeau.com/) | — | NextJS, Styled Components, MDX, Framer Motion |
-| Josiah B. Etuk | [jobenetuk.dev](https://jobenetuk.dev/) | — | Vanilla JS, Node JS, Prismic CMS, SASS, GSAP |
-| Julia Johnson | [juliacodes.com](https://www.juliacodes.com/) | [GitHub](https://github.com/juliacodes/JuliaCodesGatsby) | React, Styled-components |
-| Julien Thême | [julien-theme.dev](https://julien-theme.dev/) | [GitHub](https://github.com/ZIRTR0X/PersonalWebsite) | Angular, TailwindCSS, ThreeJs |
-| Kaung Myat Kyaw | [barry121.com](https://barry121.vercel.app/) | [GitHub](https://github.com/Rhaegar121/Portfolio) | ReactJS, ThreeJS, TailwindCSS |
-| Kartik Jain | [jkartik.in](https://jkartik.in) | [GitHub](https://github.com/KartikJain14/jkartik.in) | HTML, CSS, JavaScript |
-| Kavan Bhavsar | [kavan-bhavsar.vercel.app](https://kavan-bhavsar.vercel.app) | — | Next.js, Tailwind, Framer Motion, Convex, Spline |
-| Kehinde Omopariola | [pariola.dev](https://www.pariola.dev) | [GitHub](https://github.com/Pariola-droid/pariola-v2.2.0) | NextJS, Typescript, SASS, Motion One |
-| Kent C. Dodds | [kentcdodds.com](https://kentcdodds.com) | [GitHub](https://github.com/kentcdodds/kentcdodds.com) | React, TypeScript, Remix, Prisma, Redis, Postgres |
-| Ketuman Vishwakarma | [k2maan.vercel.app](https://k2maan.vercel.app/) | — | NextJS, TailwindCSS |
-| Khaled Mohamed | [John Doe](https://portfolio-john2.netlify.app/) | — | HTML5, SCSS, Bootstrap5, JavaScript |
-| Krishnakumar Valliappan | [krishnakumar.dev](https://www.krishnakumar.dev/) | [GitHub](https://github.com/krishnavalliappan/portfolio-website) | Next.js, Framer, TypeScript, TailwindCSS, shadcn/ui |
-| Krish Depani | [krish-depani.vercel.app](https://krish-depani.vercel.app/) | [GitHub](https://github.com/Krish-Depani/Portfolio-Website) | HTML & CSS |
-| Kshitij Gehlot | [KDGehlot2003.github.io](https://kdgehlot2003.github.io/Portfolio/) | [GitHub](https://github.com/KDGehlot2003/Portfolio) | HTML, CSS, Bootstrap, JavaScript |
-| Lanre Adelowo | [lanre.wtf](https://lanre.wtf/) | — | NextJS, CSS Modules, GSAP, Vercel, Hugo |
-| Lazar Nikolov | [nikolovlazar.com](https://nikolovlazar.com) | [GitHub](https://github.com/nikolovlazar/nikolovlazar.com) | Next.js, Chakra UI, MDX, Prisma, PlanetScale |
-| Le Vinh Khang | [levinhkhang.org](https://levinhkhang.org/) | [GitHub](https://github.com/levinhkhangzz/personal-website) | NextJS, TailwindCSS, React |
-| Lee Robinson | [leerob.io](https://leerob.io/) | [GitHub](https://github.com/leerob/leerob.io) | Next.js, PlanetScale, Prisma, Sanity, Tailwind CSS |
-| Leonel Ngoya | [lndev.me](https://lndev.me) | [GitHub](https://github.com/ln-dev7) | HTML, CSS, JavaScript |
-| Leonid Meleshin | [leon0399.ru](https://leon0399.ru/) | [GitHub](https://github.com/leon0399/leon0399.ru) | ReactJS, Tailwind, CSS, Vercel |
-| LNLenost | [lnlenost.netlify.app](https://lnlenost.netlify.app/) | [GitHub](https://github.com/LNLenost/lnlenost.github.io) | HTML, SASS, JavaScript |
-| Louis Hoebregts | [mamboleoo.be](https://www.mamboleoo.be) | — | PHP, Parcel |
-| Lynn Fisher | [lynnandtonic.com](https://lynnandtonic.com/) | [GitHub](https://github.com/lynnandtonic/lynnandtonic.com) | HTML5, CSS, JavaScript, SVG |
-| M. Shahanwaz | [mshahanwaz.me](https://mshahanwaz.me) | [GitHub](https://github.com/mshahanwaz/portfolio-v4) | HTML, CSS, JavaScript, React, Next.js |
-| Madhurima Rawat | [madhurimarawat.github.io](https://madhurimarawat.github.io/Portfolio-Website/) | [GitHub](https://github.com/madhurimarawat/Portfolio-Website) | HTML, CSS, JS, Bootstrap |
-| Maggie Appleton | [maggieappleton.com](https://maggieappleton.com/) | [GitHub](https://github.com/MaggieAppleton/maggieappleton.com-V2) | React, Next.js, MDX, Algolia, Framer Motion |
-| MAHG | [mahg.me](https://mahg.me) | [GitHub](https://github.com/mahg0899/mahg) | NextJS, React, Typescript, TailwindCSS, Payload |
-| Mahmoud Elkariouny | [clear-sleet.surge.sh](https://clear-sleet.surge.sh/) | [GitHub](https://github.com/mahmoudessam820/my_portfolio) | HTML, CSS, JavaScript |
-| Mahmoud Ibrahim | [mahmoudibrahim.me](https://mahmoudibrahim.me) | — | React, Strapi, Bootstrap, TypeScript, Netlify |
-| Malik Naik | [maliknaik.me](https://www.maliknaik.me/) | — | HTML, CSS, Bootstrap, JavaScript |
-| Malaka Venugopal Reddy | [malakavenu.com](https://malakavenu.com) | — | Next.js, React, TypeScript, MDX, Vercel |
-| Manh Hung Dao | [age-of-23.vercel.app](https://age-of-23.vercel.app/) | [GitHub](https://github.com/mahhung12/AgeOf23) | Nextjs, MDX, Tailwind CSS, TypeScript |
-| Manish Kumar | [manishk.dev](https://manishk.dev) | [GitHub](https://github.com/manishprivet/portfolio) | React, Next, TypeScript, ParticleJS, Firebase |
-| Manish Tamang | [manishtamang.com](https://manishtamang.com/) | — | Next.js, TailwindCSS, React, Sanity |
-| Manuel David Gomez | [manueldavgomez.com](https://manueldavgomez.github.io/manueldavidgomez/) | [GitHub](https://github.com/ManuelDavGomez/manueldavidgomez) | ReactJs, Bootstrap, Vite |
-| Marcos Moura | [marcos-moura97.github.io](https://marcos-moura97.github.io/) | [GitHub](https://github.com/marcos-moura97/marcos-moura97.github.io) | HTML, CSS, JavaScript, Threejs |
-| Marieflor Bawanan | [marieflor.dev](https://marieflor.dev) | [GitHub](https://github.com/mariebawanan/marieflor.dev) | NextJS, TypeScript, TailwindCSS, GSAP |
-| Mariya Baig | [mariyabaig.vercel.app](https://mariyabaig.vercel.app/) | — | NextJS, TailwindCSS |
-| Mathis Zeghouani | [mathisdev.pro](https://mathisdev.pro) | [GitHub](https://github.com/mathisdev7/my-portfolio) | Next.js, React, Tailwind CSS, TypeScript |
-| Matteo Santoro | [matteosantoro.dev](https://matteosantoro.dev) | — | JavaScript, WebGL |
-| Matthew Kretschmann | [matthiaskretschmann.com](https://matthiaskretschmann.com/) | [GitHub](https://github.com/kremalicious/portfolio) | NextJS, TypeScript, CSS Modules |
-| Maxime Heckel | [maximeheckel.com](https://maximeheckel.com/) | [GitHub](https://github.com/MaximeHeckel/blog.maximeheckel.com) | NextJS, TypeScript, MDX |
-| Max Böck | [mxb.dev](https://mxb.dev) | [GitHub](https://github.com/maxboeck/mxb) | Eleventy, SCSS, Nunjucks |
-| MD Affan Asghar | [affancoder.github.io/Portfolio_Website](https://affancoder.github.io/Portfolio_Website/) | [GitHub](https://github.com/affancoder/Portfolio_Website) | HTML, CSS, JavaScript |
-| Md Nayeem Hossain | [nayeemdev.github.io](https://nayeemdev.github.io/) | [GitHub](https://github.com/nayeemdev/nayeemdev.github.io) | HTML, CSS, Bootstrap, Javascript |
-| Michael Kolesidis | [michaelkolesidis.com](https://michaelkolesidis.com/) | [GitHub](https://github.com/michaelkolesidis/michaelkolesidis.com) | TypeScript, p5.js, Sass, Vite |
-| Mike Bifulco | [mikebifulco.com](https://mikebifulco.com) | [GitHub](https://github.com/mbifulco/blog) | NextJS, React, SCSS, MDX |
-| Mike Liu | [mikeliuu.com](https://mikeliuu.com) | [GitHub](https://github.com/mikeliuu/mikeliuu.com) | NextJS, TypeScript, Tailwind CSS |
-| Mihir | [mihir-portfolio-main-777.vercel.app](https://mihir-portfolio-main-777.vercel.app/) | [GitHub](https://github.com/MIHIR2006/mihir-portfolio) | React, Framer, GSAP, EmailJS |
-| Moe Dayraki | [moe.dayrakiarts.com](https://moe.dayrakiarts.com) | [GitHub](https://github.com/moedayraki/moedayraki.github.io) | Vue 3, Vite, Cypress, Tailwindcss |
-| Modupe Akanni | [modupe-akanni.vercel.app](https://modupe-akanni.vercel.app/) | [GitHub](https://github.com/Goketech/next-p) | React, Next.js, Styled Components |
-| Moinak Majumdar | [moinak05.vercel.app](https://moinak05.vercel.app/) | [GitHub](https://github.com/Moinak-Majumdar/portfolio) | Next.js, TypeScript, Framer Motion |
-| Monica Powell | [aboutmonica.com](https://aboutmonica.com/) | — | Gatsby, Emotion, Netlify |
-| Moshood Sanusi | [olawale.dev](https://www.olawale.dev/) | — | ReactJS, TailwindCSS, GSAP |
-| Mukul Chugh | [mukulchugh.com](https://mukulchugh.com/) | — | React, Next.js, Styled Components, Netlify |
-| Muhammad Essa | [muhammadessa.vercel.app](https://muhammadessa.vercel.app/) | [GitHub](https://github.com/imuhammadessa) | React.js, Next.js, Tailwind, MUI |
-| Muhammad Naeem Tahir | [muhammadnaeemtahir.github.io](https://muhammadnaeemtahir.github.io/) | [GitHub](https://github.com/muhammadnaeemtahir/muhammadnaeemtahir.github.io) | HTML, CSS, JavaScript, Bootstrap |
-| Nafis Mahmud Ayon | [nafisbd.com](https://nafisbd.com/) | [GitHub](https://github.com/NafisMahmudAyon/Portfolio-NafisBd.com-v2) | React Js, Framer Motion, NextJS, TailwindCSS |
-| Naseem Khan | [naseemkhan.dev](https://naseemkhan.dev) | [GitHub](https://github.com/naseemkhandev) | Next.js, Supabase, Prisma, MDX, Tailwind CSS |
-| Nat Anselm | [nanselm.com](https://nanselm.com) | — | Astro, DaisyUI, TailwindCSS |
-| Nicholas Gannon | [nicholasgannon.io](https://nicholasgannon.io/) | [GitHub](https://github.com/NicholasGannon/Portfolio) | HTML, TailwindCSS, JavaScript |
-| Ngô Phú Thịnh | [thinhcorner.com](https://thinhcorner.com) | [GitHub](https://github.com/Th1nhNg0/th1nhng0.vercel.app) | NextJS, TailwindCSS, TypeScript |
-| Nguyen Tran Gia Si | [nguyentrangiasi.id.vn](https://nguyentrangiasi.id.vn/) | [GitHub](https://github.com/giasinguyen/GiaSi-Portfolio) | ReactJS, Tailwind CSS, Three.js, GSAP |
-| Nikhil Rajput | [nixrajput.nixlab.co.in](https://nixrajput.nixlab.co.in/) | [GitHub](https://github.com/nixrajput/portfolio-nextjs) | Next.js, SCSS, Node.js |
-| Nirban Chakraborty | [nirban-chakraborty.netlify.app](https://nirban-chakraborty.netlify.app/) | [GitHub](https://github.com/nirban256/personal_website) | ReactJs, JavaScript, SASS |
-| Nisarg Kavi | [nisargkavi.in](https://www.nisargkavi.in/) | — | Nextjs, Tailwind CSS, Framer Motion, AnimeJS |
-| Odhy Pradhana | [odhyp.com](https://odhyp.com/) | [GitHub](https://github.com/odhyp/odhyp.com) | Hugo, TailwindCSS, JavaScript |
-| Olasunkanmi Balogun | [kanmibalogun.vercel.app](https://kanmibalogun.vercel.app/) | [GitHub](https://github.com/SiR-PENt/folio-me) | NextJS, JavaScript, Tailwind, Framer-motion |
-| Olamide Adeyi | [olamideadeyi.com](https://www.olamideadeyi.com) | — | Vue, NuxtJS, GSAP |
-| Olamide Sholanke | [olamide.dev](https://www.olamide.dev/) | — | Vue, NuxtJS |
-| Olaolu Olawuyi | [olaolu.dev](https://olaolu.dev) | [GitHub](https://github.com/whizkydee/olaolu.dev) | VueJS, JavaScript, styled-components, Sass |
-| Oluwadare Oluwaseyi | [seyi.dev](https://www.seyi.dev) | [GitHub](https://github.com/oluwadareseyi/folio-v2) | HTML, SCSS, JavaScript, GSAP |
-| Omar Sherif Ali | [osa-portfolio.vercel.app](https://osa-portfolio.vercel.app/) | [GitHub](https://github.com/omar-sherif9992) | ReactJs, JavaScript, CSS, HTML |
-| Oscar Barajas | [gndx.io](https://gndx.io) | [GitHub](https://github.com/gndx/gndx.io) | HTML, TailwindCSS |
-| Parish Khan | [parish.cv](https://parish.cv) | — | React, TypeScript, Tailwind CSS, Vite |
-| Parth Desai | [musing.vercel.app](https://musing.vercel.app/) | [GitHub](https://github.com/pycoder2000/blog) | TailwindCSS, React, Next.JS, MDX |
-| Patrick David | [bepatrickdavid.com](https://bepatrickdavid.com/) | — | HTML, CSS, jQuery, ThreeJS, GSAP |
-| Patrick Heng | [patrickheng.com](https://patrickheng.com/) | — | Nuxt.js, GSAP, ThreeJS |
-| Patrick Scott | [pscott.io](https://pscott.io) | — | React.js, Heroku, Github Pages |
-| Patrick T.LO | [pleaseleaveon.com](https://pleaseleaveon.com/) | — | HTML5, CSS, JavaScript, jQuery |
-| Payton Pierce | [paytonpierce.dev](https://paytonpierce.dev) | [GitHub](https://github.com/paytonjewell/paytonpierce.dev) | ReactJS, Material UI |
-| Peace Jinadu-Paul | [pjpportfolio.netlify.app](https://pjpportfolio.netlify.app/) | [GitHub](https://github.com/Pappyjay23/my-portfolio-1) | React, CSS, Framer Motion, Netlify |
-| Peter Tait | [petertait.com](https://petertait.com) | [GitHub](https://github.com/petertait/petertait.com) | React, Webpack, Radium, Netlify |
-| Phillip Cabrera | [Portfolio](https://pcabreram-portfolio.netlify.app/) | [GitHub](https://github.com/pcabreram1234/portfolio) | HTML, CSS, JavaScript, Webpack, ReactJs |
-| Phong Nguyen | [napthedev.com](https://napthedev.com) | [GitHub](https://github.com/napthedev/portfolio-next) | Nextjs, Tailwind, Framer-motion |
-| Pieter-Jan Scheir | [pieterjanscheir.com](https://www.pieterjanscheir.com/) | — | React/Next.js, Typescript, Tailwindcss |
-| Pintu Singh | [pintusingh28.dev](https://pintusingh28.dev/) | — | Next.js, TypeScript, TailwindCSS, Framer Motion |
-| Piyush Goyani | [piyushgoyani.thesourcepedia.org](https://piyushgoyani.thesourcepedia.org) | — | VueJS, Gridsome, TailwindCSS, Firebase |
-| Praveen Kumar | [praveen.science](https://praveen.science/) | [GitHub](https://github.com/praveenscience/praveenscience) | Bootstrap 4.3, PHP, JavaScript |
-| Pravin Mane | [pravinmane.com](https://www.pravinmane.com/) | [GitHub](https://github.com/pravinmane1/Portfolio) | Angular, HTML, SCSS, TypeScript |
-| Prince Muhammad | [princemuhammad.pro](https://princemuhammad.pro) | — | JavaScript, React.js, Next.js, TailwindCSS |
-| Priyankar Pal | [itspp.vercel.app](https://itspp.vercel.app) | [GitHub](https://github.com/priyankarpal/Priyankar) | HTML & SCSS |
-| Pritish Samal | [pritishsamal.com](https://pritishsamal.com/) | [GitHub](https://github.com/CIPHERTron/portfolio-v2) | Next.js, TypeScript, Emotion, Chakra UI |
-| Priyanshu Tiwari | [priyanshu-tiwari.vercel.app](https://priyanshu-tiwari.vercel.app/) | [GitHub](https://github.com/priyanshtiwari001/portfolio) | NextJS, TailwindCSS, TypeScript, ThreeJS |
-| Pyae Sone | [pyaesonepsn.github.io](https://pyaesonepsn.github.io/portfolio-project/) | [GitHub](https://github.com/pyaesonepsn/portfolio-project) | HTML, CSS, JavaScript |
-| Rafael Conde | [rafa.design](https://rafa.design) | [GitHub](https://github.com/rafaelconde/rafaelconde) | Nunjucks, JavaScript, CSS |
-| Rafael Derolez | [derolez.dev](https://derolez.dev/) | — | NextJS, Sanity, ChakraUI, Emotion |
-| Rafael Santana | [rafaelsantana.dev](https://www.rafaelsantana.dev/) | [GitHub](https://github.com/rafalmeida73/portfolio) | Next.js, Material UI, TypeScript |
-| Raj Savaliya | [rajsavaliya.com](https://www.rajsavaliya.com/) | [GitHub](https://github.com/SRX9/portfoliosrx9) | NextJS, React, TypeScript, Tailwind CSS |
-| Raphaël Chelly | [raphaelchelly.com](https://www.raphaelchelly.com) | [GitHub](https://github.com/raphaelchelly/raph_www) | Next.js, TailwindCSS, Vercel |
-| Rauno Freiberg | [rauno.me](https://rauno.me/) | — | NextJS, NodeJS, Stitches, Vercel |
-| Rauliqbal | [rauliqbal.vercel.app](https://rauliqbal.vercel.app/) | — | Next JS, TypeScript, Tailwind CSS, Framer Motion |
-| Rémy Beumier | [remybeumier.be](https://remybeumier.be/) | [GitHub](https://github.com/beumsk/beumsk.github.io) | Next.js, Sass, MDX, AOS |
-| Reuben Rapose | [reubence.com](https://reubence.com) | [GitHub](https://github.com/reubence/reubence) | HTML, TailwindCSS, React, Next.JS, MDX |
-| Reza Ghasemzadeh | [rezaghz.com](https://rezaghz.com) | — | HTML, CSS, Bootstrap, Javascript |
-| Rick Waalders | [rickwaalders.com](https://www.rickwaalders.com) | — | NextJS, React, NodeJS, GSAP, Webpack |
-| Rida F'kih | [rida.dev](https://www.rida.dev/) | [GitHub](https://github.com/ridafkih/portfolio) | React, NextJS |
-| Rifqi Banu Safingi | [rifqibanusafingi.vercel.app](https://rifqibanusafingi.vercel.app/) | — | Next.js, TypeScript, TailwindCSS, Supabase |
-| Rishi Mohan | [rishimohan.me](https://rishimohan.me) | [GitHub](https://github.com/rishimohan/rishimohan.me) | Next.js, TailwindCSS, Framer Motion |
-| Robb Owen | [robbowen.digital](https://robbowen.digital/) | — | HTML, CSS, JavaScript, Netlify |
-| Robby Leonardi | [rleonardi.com](http://www.rleonardi.com) | — | NextJS, React, NodeJS, GSAP, Webpack |
-| Robin Mastromarino | [robinmastromarino.com](http://robinmastromarino.com/) | — | HTML, CSS, JavaScript, WebGL, GSAP |
-| Robin Payot | [robinpayot.com](http://www.robinpayot.com/) | — | HTML, CSS, GSAP, Howler.js, WebGL |
-| Rohit Saini | [portfolio-45b9b.web.app](https://portfolio-45b9b.web.app/) | — | ReactJs, CSS, GSAP, Framer Motion |
-| Roman Mendaliev | [roman.asd.lol](https://roman.asd.lol) | [GitHub](https://github.com/reacheight/home) | HTML, CSS, JavaScript |
-| Ross Moody | [rossmoody.com](https://rossmoody.com/) | [GitHub](https://github.com/rossmoody/rossmoody.com) | Next.js, Chakra UI, TypeScript, MDX |
-| Ruben Kuipers | [rubenkuipers.design](https://rubenkuipers.design/) | — | Vue.js, Nuxt.js, Tailwind CSS |
-| Rushikesh Nimkar | [rushikeshnimkar.xyz](https://rushikeshnimkar.xyz) | [GitHub](https://github.com/Rushikeshnimkar/portfolio2025.git) | Next.js, React, Tailwind CSS, LangChain |
-| Rutik Wankhade | [rutikwankhade.dev](https://rutikwankhade.dev/) | — | NextJs, React, NodeJS, TailwindCSS |
-| Sachin Chaurasiya | [sachinchaurasiya.dev](https://sachinchaurasiya.dev) | — | HTML, CSS, JavaScript, ReactJs, Material UI |
-| Sachin Desai | [sachindesai.in](https://sachindesai.in) | [GitHub](https://github.com/sachind3/finalportfolio) | Next Js 14, Tailwind CSS, GSAP, Locomotive Scroll |
-| Sadee | [codewithsadee.github.io/vcard-personal-portfolio](https://codewithsadee.github.io/vcard-personal-portfolio/) | [GitHub](https://github.com/codewithsadee/vcard-personal-portfolio) | HTML, CSS, JavaScript |
-| Saahil Dutta | [saahild.com](https://saahild.com/) | [GitHub](https://github.com/NeonGamerBot-QK/saahild.com) | Reactjs |
-| Saikat Roy | [saikatroy.netlify.app](https://saikatroy.netlify.app/) | [GitHub](https://github.com/njmsaikat/portfolio) | HTML, CSS, Bootstrap, JavaScript |
-| Saleh Salehizadeh | [SirSaleh.github.io](https://sirsaleh.github.io/Portfolio/) | [GitHub](https://github.com/SirSaleh/Portfolio) | Nextjs, Tailwind CSS, TypeScript |
-| Salim Rutaganda | [rsalim.vercel.app](https://www.rsalim.vercel.app/) | [GitHub](https://github.com/rutaganda-salim/devfolio) | React, Next.js, Tailwindcss, TypeScript |
-| Samuel Akinosho | [samuelakinosho.com](https://www.samuelakinosho.com/) | — | Webflow, Jquery |
-| Samuel Imolorhe | [xkoji.dev](https://www.xkoji.dev/) | [GitHub](https://github.com/imolorhe/xkoji-code) | Gatsby, GSAP, JavaScript, Netlify |
-| Samuel Williams | [williamssam.netlify.app](https://williamssam.netlify.app/) | [GitHub](https://github.com/williamssam/My-Portfolio) | HTML, CSS, Javascript |
-| Sandeep Kumar | [eternalfrustation.github.io](https://eternalfrustation.github.io/) | [GitHub](https://github.com/eternalfrustation/eternalfrustation.github.io) | HTML, CSS, JavaScript |
-| Sara Cajner | [saracajner.com](https://saracajner.com) | — | ReactJS, CSS, GSAP, Stripe |
-| Sarah Dayan | [sarahdayan.dev](https://www.sarahdayan.dev/) | — | NextJS, Tailwind CSS, NodeJS |
-| Sawad | [sawad.framer.website](https://sawad.framer.website/) | — | Framer |
-| Seán Halpin | [seanhalpin.xyz](https://www.seanhalpin.xyz/) | — | Svelte, SvelteKit, Vite, PWA |
-| Segun Ajibola | [segunajibola.com](https://www.segunajibola.com) | [GitHub](https://github.com/segunajibola/portfolio) | HTML, CSS, TailwindCSS, React, SwiperJS |
-| Serdar Gökhan | [serdargokhan.dev](https://serdargokhan.dev) | [GitHub](https://github.com/serdargokhan/portfolio-website-v1) | NextJS, TypeScript, TailwindCSS |
-| Shaan Alam | [shaanalam.vercel.app](https://shaanalam.vercel.app) | [GitHub](https://github.com/shaan-alam/shaanalam) | NextJS, Tailwind, TypeScript, Hygraph |
-| Shahriar Shafin | [shahriarshafin.github.io](https://shahriarshafin.github.io/) | [GitHub](https://github.com/shahriarshafin/myportfolio) | React, Next.js, Tailwind CSS |
-| Shahrukh Anwar | [shahrukhanwar.vercel.app](https://shahrukhanwar.vercel.app) | [GitHub](https://github.com/devshahrukhanwar/shahrukh-anwar) | Vue.js, TypeScript, Bulma CSS, Vite |
-| Shivaraj Kolekar | [shivarajkolekar.com](https://shivaraj-portfolio.vercel.app/) | [GitHub](https://github.com/Shivaraj-Kolekar/portfolio) | HTML, TailwindCSS, Javascript |
-| Shivam Gupta | [the-shivam-gupta.github.io](https://the-shivam-gupta.github.io/) | [GitHub](https://github.com/the-shivam-gupta/the-shivam-gupta.github.io) | HTML, CSS, JS |
-| Shivam Javiya | [shivamjaviya.netlify.app](https://shivamjaviya.netlify.app/) | [GitHub](https://github.com/ShivamJaviya/Shivam_Portfolio) | HTML, CSS, JS |
-| Shivam Panchal | [shivampanchal.vercel.app](https://shivampanchal.vercel.app/) | — | ReactJS, CSS |
-| Shivani Yadav | [shivaniyadav.online](https://shivaniyadav.online) | [GitHub](https://github.com/ShivaniYadav07/Portfolio) | React, TypeScript, ParticleJS, SCSS |
-| Shodipo Ayomide | [shodipoayomide.com](https://shodipoayomide.com/) | [GitHub](https://github.com/Developerayo/shodipoayomide.com) | Gatsby, React, SCSS, Bootstrap |
-| Shourya Shikhar Ghosh | [shourya.vercel.app](https://shourya.vercel.app) | [GitHub](https://github.com/danger-ahead/flutter_dev_folio) | Flutter |
-| Shubham Gaur | [shubhamessier.github.io](https://shubhamessier.github.io/portfolio) | [GitHub](https://github.com/shubhamessier/portfolio) | HTML, CSS, JavaScript |
-| Shubh Porwal | [shubhporwal.me](https://www.shubhporwal.me/) | [GitHub](https://github.com/shubh73/devfolio) | NextJS, ReactJS, Tailwind CSS, GSAP |
-| Siddharth Verma | [iamdev.netlify.app](https://iamdev.netlify.app/home.html) | — | Tailwind, Javascript, React |
-| Siyana Zdravkova | [bluebutterflies.github.io/professionalportfolio](https://bluebutterflies.github.io/professionalportfolio/) | [GitHub](https://github.com/BlueButterflies/professionalportfolio) | React JS, Bootstrap |
-| Skifli | [skifli.github.io](https://skifli.github.io/) | [GitHub](https://github.com/skifli/skifli.github.io) | HTML, CSS, JavaScript |
-| Soumyadeep Das | [soumyadeeposd.github.io](https://soumyadeeposd.github.io/Tensor-Block/) | [GitHub](https://github.com/SoumyadeepOSD/Tensor-Block) | HTML, CSS, JavaScript |
-| SofiDev | [itssofi.dev](https://itssofi.dev/) | [GitHub](https://github.com/SofiDevO/sofidev-portfolio-astro) | Astro, CSS, Javascript, React |
-| Srijan Baniyal | [srijanbaniyal.com](https://srijanbaniyal.com) | — | Next.js, Tailwindcss, Typescript, Framer Motion |
-| Stefan Topalovic | [stefantopalovicdev.vercel.app](https://stefantopalovicdev.vercel.app/) | — | ReactJS, SCSS, Vercel |
-| Stef Ivanov | [stefivanov.com](https://stefivanov.com) | — | WordPress, Yoast SEO, MailChimp, PWA |
-| Sumonta Saha Mridul | [sumonta056.github.io](https://sumonta056.github.io/) | [GitHub](https://github.com/Sumonta056/sumonta056.github.io) | HTML5, CSS3, JavaScript |
-| Sunidhi Singh | [sunidhi-singh.netlify.app](https://sunidhi-singh.netlify.app/) | [GitHub](https://github.com/sunidhi014) | HTML, CSS, JavaScript |
-| Syed Moshin | [opensource-portfolio.netlify.app](https://opensource-portfolio.netlify.app/) | [GitHub](https://github.com/devsyedmohsin/portfolio-template) | HTML5, CSS3, JavaScript |
-| Tajmirul Islam | [me.toinfinite.dev](https://www.me.toinfinite.dev/) | — | Next.js, GSAP, Tailwind CSS, TypeScript |
-| Tamal Sen | [tamalsen.dev](https://tamalsen.dev/) | — | WordPress, Elementor, PHP, Anime.js |
-| Tanay Shah | [tanayshah.dev](https://tanayshah.dev) | [GitHub](https://github.com/tanayshah11) | NextJS, TypeScript, Tailwind v4 |
-| Tania Rascia | [taniarascia.com](https://taniarascia.com) | [GitHub](https://github.com/taniarascia/taniarascia.com) | React, Gatsby, CSS, Netlify, NodeJS |
-| Tanishka Yadav | [tanishka-yadav.netlify.app](https://tanishka-yadav.netlify.app/) | [GitHub](https://github.com/Tanishka-dev/Portfolio-Reactjs) | ReactJS, SASS, Framer Motion |
-| Tanuj Chakraborty | [iamtj.dev](https://iamtj.dev) | [GitHub](https://github.com/i-am-tj/iamtj.dev) | React, Next.js, TypeScript, Tailwind CSS |
-| Theodore Clarence | [theodorusclarence.com](https://theodorusclarence.com/) | [GitHub](https://github.com/theodorusclarence/theodorusclarence.com) | NextJS, TypeScript, Tailwind CSS, MDX Bundler |
-| Thang Huu Vu | [thvu.dev](https://www.thvu.dev/) | [GitHub](https://github.com/ThangHuuVu/thvu-blog) | React, NextJS, TypeScript, GraphQL, Tailwindcss |
-| Timothy Klint | [tjklint.github.io](https://tjklint.github.io) | [GitHub](https://github.com/tjklint/tjklint.github.io) | React, TypeScript, SASS |
-| Timothy Lin | [timlrx.com](https://timlrx.com) | [GitHub](https://github.com/timlrx/timlrx.com) | NextJS, MDX, TailwindCSS, SASS |
-| Travis Fischer | [transitivebullsh.it](https://transitivebullsh.it/) | [GitHub](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) | NextJS, TypeScript, Notion API |
-| Tri Dang | [tri-dang.github.io](https://tri-dang.github.io/about) | [GitHub](https://github.com/tri-dang/tri-dang.github.io) | Ruby, Jekyll, Markdown |
-| Trịnh Minh Nhật | [thinhcorner.com](https://thinhcorner.com) | — | React, Tailwindcss |
-| Trần Hữu Đạt | [tranhuudat2004.github.io](https://tranhuudat2004.github.io/new-version.html) | [GitHub](https://github.com/TranHuuDat2004/TranHuuDat2004.github.io) | HTML, CSS, JavaScript, GitHub API |
-| Truong Phan | [techika.com](https://techika.com) | [GitHub](https://github.com/infantiablue) | Vue 3, Vite, VuePress, Tailwindcss |
-| TSolutionsX | [techsolutionsx.vercel.app](https://techsolutionsx.vercel.app/) | — | NextJS, TailwindCSS |
-| Twan Mulder | [twanmulder.com](https://www.twanmulder.com/) | [GitHub](https://github.com/twanmulder/portfolio) | React, TailwindCSS, Stripe, Netlify |
-| Uday G | [portfoliov3-puce.vercel.app](https://portfoliov3-puce.vercel.app/) | [GitHub](https://github.com/oxBinaryBrain/Portfoilo_v3) | TypeScript, CSS, Vercel, Vite, Nextjs |
-| Umesh Nagare | [umeshnagare.com](https://umeshnagare.com) | [GitHub](https://github.com/Algoture/PortFolio) | Next.js, Tailwind, Framer Motion |
-| Usman Sabuwala | [usman-s.me](https://www.usman-s.me) | [GitHub](https://github.com/max-programming/usman-s.me) | NextJS, Chakra UI, Framer Motion |
-| Utkarsh Singhal | [utkarsh-singhal.is-a.dev](https://utkarsh-singhal.is-a.dev/) | [GitHub](https://github.com/Utkarsh-Singhal-26/portfolio) | Next.js, TypeScript, TailwindCSS, ShadCN UI |
-| Utkarsh Tiwari | [utportfolio.vercel.app](https://utportfolio.vercel.app/) | [GitHub](https://github.com/utkxrsh13/portfolio) | ReactJS, Material UI, TailwindCSS |
-| Vaishnavi Shelke | [vsp-portfolio.netlify.app](https://vsp-portfolio.netlify.app) | [GitHub](https://github.com/vaishnavishelke2021/Portfolio-Website) | HTML, CSS, Bootstrap, Netlify |
-| Vanessa Santana | [nessajs.com.br](https://www.nessajs.com.br/) | [GitHub](https://github.com/vanessa-dev/nessa.js) | HTML, CSS, JavaScript, PHP |
-| Victor Adeniji | [codevickk.com](https://codevickk.com/) | — | Nuxt.js, Vue.js, GSAP, Netlify, Lenis |
-| Victor Eke | [victoreke.com](https://victoreke.com) | [GitHub](https://github.com/evavic44/victoreke.com) | Nextjs, Sanity, Tailwind CSS, TypeScript |
-| Victor Ikechukwu | [iamvictor.tech](https://iamvictor.tech) | — | Next.js, Tailwind CSS, Netlify |
-| Victor Williams | [victorwilliams.me](https://www.victorwilliams.me/) | [GitHub](https://github.com/victorcodess/folio-v1) | React, Next.js, TypeScript, TailwindCSS, Framer Motion |
-| Vijay Verma | [vjy.me](https://vjy.me/) | — | NextJS, Styled Components, Vercel |
-| Vijay Kumar Reddy | [talakolavijay.vercel.app](https://talakolavijay.vercel.app/) | [GitHub](https://github.com/VijayKumarReddyTalakola/MyPortFolio) | Reactjs, Tailwind CSS, AOS |
-| Vignesh Patali | [vigh.me](https://vigh.me/) | — | Next.js, React, Tailwind CSS, TypeScript, Threejs |
-| Wahid Ali | [wahidali.dev](https://www.wahidali.dev/) | [GitHub](https://github.com/Aliwahid17/portfolio) | Svelte, Tailwind CSS, TypeScript |
-| Wallace Nascimento | [portfolio-srnascimento40.vercel.app](https://portfolio-srnascimento40.vercel.app/) | [GitHub](https://github.com/SrNascimento40/portfolio) | NextJS, ReactJS, TypeScript, Styled-Components |
-| Walter Teng | [walterteng.com](https://walterteng.com/) | [GitHub](https://github.com/davzoku/personal-website-v1) | React, Typescript, Gatsby, Netlify |
-| Wasim Baig | [wasimbaig.com](https://wasimbaig.com) | [GitHub](https://github.com/simbaig/portfolio-nextjs) | Next JS, Tailwind CSS, Framer-Motion |
-| William Cachawri | [minimal-blog-seven.vercel.app](https://minimal-blog-seven.vercel.app) | — | Next.js 15+, TailwindCSS, ShadCN UI, Three.js |
-| Williams Samuel | [williamssam.netlify.app](https://williamssam.netlify.app/) | [GitHub](https://github.com/williamssam/My-Portfolio) | HTML, CSS, Javascript |
-| Wisnu Wicaksono | [wiscaksono.com](https://wiscaksono.com/) | [GitHub](https://github.com/wiscaksono/wiscaksono-site) | Nextjs, Tailwind CSS, MDX, Next Auth |
-| Xiaohan Zou | [portfolio.zxh.me](https://portfolio.zxh.me/) | [GitHub](https://github.com/Renovamen/playground-macos) | React JS, Zustand, UnoCSS, Typescript, Vite |
-| Yinka Adedire | [yinka.codes](https://www.yinka.codes/) | [GitHub](https://github.com/yinkakun/yinkakun-portfolio) | Gatsby, ReactJS, Styled-Components |
-| Yunus Ertürk | [yunuserturk.com](https://yunuserturk.com) | — | HTML, CSS, React, NextJS |
-| yuxxeun | [yuxxeun.xyz](https://yuxxeun.xyz) | [GitHub](https://github.com/yuxxeun) | Next.js, Tailwind, Supabase, Vercel |
-| Zacky Aduoli | [lookupzach.netlify.app](https://lookupzach.netlify.app) | — | ReactJS, Material UI, SCSS, Styled Components |
-| Zai Santillan | [plskz-me.vercel.app](https://plskz-me.vercel.app/) | [GitHub](https://github.com/plskz/plskz.me) | NextJS, TypeScript, Tailwind CSS, DaisyUI |
-| Zaher Al Majed | [zaher.design](https://zaher.design/) | — | React, TypeScript, NextJS, TailwindCSS |
-
-</details>
+| Preview | Author | Links | Tech Stack |
+|---------|--------|-------|------------|
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/62628408/618b6f06-1f3b-41e3-861f-6463ae5f0f81" width="200"/> | **Victor Eke** | [🌐 Live](https://victoreke.com) · [📂 Repo](https://github.com/evavic44/victoreke.com) | Nextjs, Sanity, Tailwind CSS, TypeScript, Vercel |
+| <img src="https://user-images.githubusercontent.com/62628408/169700953-63aaedb6-4784-4f42-a356-84d6506f8bf3.png" width="200"/> | **Kent C. Dodds** | [🌐 Live](https://kentcdodds.com) · [📂 Repo](https://github.com/kentcdodds/kentcdodds.com) | React, TypeScript, Remix, Prisma, Redis, Postgres |
+| <img src="https://user-images.githubusercontent.com/62628408/163446015-fc50d2c1-3cee-42fb-b80a-b692ad7eef1e.png" width="200"/> | **Brittany Chiang** | [🌐 Live](https://v4.brittanychiang.com/) · [📂 Repo](https://github.com/bchiang7/v4) | React, Gatsby, Styled-components |
+| <img src="https://user-images.githubusercontent.com/62628408/163818384-cebba9c4-e0ac-4172-bced-7011837bb292.png" width="200"/> | **Braydon Coyer** | [🌐 Live](https://braydoncoyer.dev/) · [📂 Repo](https://github.com/braydoncoyer/braydoncoyer.dev) | React, TypeScript, NextJS, Tailwindcss, Notion API, Supabase |
+| <img src="https://user-images.githubusercontent.com/62628408/163881127-a67615f6-2157-4478-a4b5-46b067a4bb9f.png" width="200"/> | **Tania Rascia** | [🌐 Live](https://taniarascia.com) · [📂 Repo](https://github.com/taniarascia/taniarascia.com) | React, Gatsby, CSS, Netlify, NodeJS |
+| <img src="https://user-images.githubusercontent.com/62628408/164337756-03930aad-4702-4926-ba58-c388c06de187.png" width="200"/> | **Jemima Abu** | [🌐 Live](https://jemimaabu.com) · [📂 Repo](https://github.com/jemimaabu/portfolio) | HTML, CSS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/62628408/164760564-3c749e0f-122c-40cb-9b28-112410227874.png" width="200"/> | **Rekhchand Sahu** | [🌐 Live](https://rekhchandsahu.com) | React, Gatsby, Preact, GSAP |
+| <img src="https://user-images.githubusercontent.com/62628408/171729441-dee07db1-0c6e-4222-b5ab-9e9b0b4bd735.png" width="200"/> | **Olaolu Olawuyi** | [🌐 Live](https://olaolu.dev) · [📂 Repo](https://github.com/whizkydee/olaolu.dev) | VueJS, JavaScript, HTML, styled-components, Sass |
+| <img src="https://user-images.githubusercontent.com/62628408/164990543-ab28fa6b-1c39-4306-bd90-565470dd896b.png" width="200"/> | **Thang Huu Vu** | [🌐 Live](https://www.thvu.dev/) · [📂 Repo](https://github.com/ThangHuuVu/thvu-blog) | React, NextJS, NodeJS, TypeScript, GraphQL, Tailwindcss |
+| <img src="https://user-images.githubusercontent.com/62628408/169704464-ed5ccfbd-f10b-47fa-820f-389466a4f4cf.png" width="200"/> | **George Francis** | [🌐 Live](https://georgefrancis.dev) | GSAP, Netlify, HTML, CSS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/62628408/164990973-ddb830bf-c3d3-4ed6-982a-9f137ff01b07.png" width="200"/> | **Aditya Vikram** | [🌐 Live](https://people.umass.edu/avsingh) · [📂 Repo](https://github.com/AVS1508/My-Alternate-Portfolio-Website) | HTML, CSS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/62628408/165801986-100e5b52-e8b6-4346-ad83-34c4b5411d94.png" width="200"/> | **Adeola Adeoti** | [🌐 Live](https://www.adeolaadeoti.site) · [📂 Repo](https://github.com/adeolaadeoti/adeolaadeoti-v2) | TypeScript, GSAP, NodeJS, NextJS, SCSS |
+| <img src="https://user-images.githubusercontent.com/62628408/165805667-b0946e79-8ac2-44a1-aaca-f31090ea97e6.png" width="200"/> | **Dejan Markovic** | [🌐 Live](https://www.dejan.works) | HTML, CSS, JavaScript, jQuery |
+| <img src="https://user-images.githubusercontent.com/62628408/166805924-1a843d07-59b4-408f-bb38-cfc04dd8ab87.png" width="200"/> | **Max Böck** | [🌐 Live](https://mxb.dev) · [📂 Repo](https://github.com/maxboeck/mxb) | Eleventy, SCSS, Nunjucks |
+| <img src="https://user-images.githubusercontent.com/62628408/166808069-166b12df-f1cb-431f-b1b9-887986cea367.png" width="200"/> | **David Darnes** | [🌐 Live](https://darn.es) | Netlify, Jekyll |
+| <img src="https://user-images.githubusercontent.com/62628408/166809062-f266e962-87e7-462d-b7ae-e0fae2b6227d.png" width="200"/> | **Schulz Daniel** | [🌐 Live](https://iamschulz.com) · [📂 Repo](https://github.com/iamschulz/iamschulz-hugo) | Hugo, Shell, JavaScript |
+| <img src="https://user-images.githubusercontent.com/62628408/166811371-2ab2bc24-0d8a-4841-b859-13f65fb0dc17.png" width="200"/> | **Rafael Conde** | [🌐 Live](https://rafa.design) · [📂 Repo](https://github.com/rafaelconde/rafaelconde) | Nunjucks, JavaScript, CSS |
+| <img src="https://user-images.githubusercontent.com/62628408/167303510-f39c3350-4273-4f6f-b28e-12f095f2af7a.png" width="200"/> | **Bruno Simon** | [🌐 Live](https://bruno-simon.com) · [📂 Repo](https://github.com/brunosimon/folio-2019) | GSAP, ThreeJS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/62628408/167304333-0f446a58-b279-4d19-8f01-320be629227c.png" width="200"/> | **Oluwadare Oluwaseyi** | [🌐 Live](https://www.seyi.dev) · [📂 Repo](https://github.com/oluwadareseyi/folio-v2) | HTML, SCSS, JavaScript, GSAP |
+| <img src="https://user-images.githubusercontent.com/62628408/167304726-d8931575-6d37-453f-a2b5-02d6ba96b0ef.png" width="200"/> | **Jason Lengstorf** | [🌐 Live](https://www.jason.energy) · [📂 Repo](https://github.com/jlengstorf/jason.energy) | JavaScript, TypeScript, Nunjucks, CSS |
+| <img src="https://user-images.githubusercontent.com/62628408/169664358-7b8c417c-6e9b-4f90-8b60-00d0a79a960d.png" width="200"/> | **Deidre Driscoll** | [🌐 Live](https://deidredriscoll.com) | HTML, JavaScript, CSS, GSAP |
+| <img src="https://user-images.githubusercontent.com/62628408/169663850-4e599cde-da68-4794-8806-9c3b6a8fe11e.png" width="200"/> | **Chris Porter** | [🌐 Live](https://madebyporter.com) · [📂 Repo](https://github.com/madebyporter/madebyporter) | HTML, Slim, Ruby, SCSS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/62628408/169704989-de117c0c-7277-4523-8db4-275c561eebc8.png" width="200"/> | **Louis Hoebregts** | [🌐 Live](https://www.mamboleoo.be) | PHP, Parcel |
+| <img src="https://user-images.githubusercontent.com/62628408/169705213-49e68326-ffbf-4d3d-8a55-ffda6ba6ae04.png" width="200"/> | **Adrien Gervaix** | [🌐 Live](https://adriengervaix.com) | HTML, CSS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/62628408/169705836-7adab895-edc8-41c0-85c0-6ad53e79ad17.png" width="200"/> | **Aaron Shapiro** | [🌐 Live](https://www.aaron.mn) · [📂 Repo](https://github.com/aarshap/aaron.mn) | React, Gatsby, Styled Components, Netlify |
+| <img src="https://user-images.githubusercontent.com/62628408/169706070-12936622-7740-4e67-a764-aa3594bab506.png" width="200"/> | **Peter Tait** | [🌐 Live](https://petertait.com) · [📂 Repo](https://github.com/petertait/petertait.com) | React, Webpack, Radium, Netlify |
+| <img src="https://user-images.githubusercontent.com/62628408/169706503-e0065c41-b88d-43bb-9175-dfd48cc6e324.png" width="200"/> | **Rick Waalders** | [🌐 Live](https://www.rickwaalders.com) | NextJS, React, NodeJS, GSAP, Webpack |
+| <img src="https://user-images.githubusercontent.com/62628408/170606950-2eeec46f-f0c0-424d-9937-c0377fab1870.png" width="200"/> | **Community Pro** | [🌐 Live](https://cpro-portfolio-html.netlify.app) · [📂 Repo](https://github.com/CommunityPro/portfolio-html) | HTML, CSS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/24995094/171908358-20bf2338-1e1d-4a14-9349-28779a7c1994.png" width="200"/> | **Ahmed Zougari** | [🌐 Live](https://ahmedzougari.com) · [📂 Repo](https://github.com/zougari47/portfolio-template) | HTML, SASS, Bootstrap, JavaScript, Vite |
+| <img src="https://user-images.githubusercontent.com/46242040/171985853-dbecac5c-fc94-4050-9f2f-5dba1e95c7bb.png" width="200"/> | **Raj Savaliya** | [🌐 Live](https://www.rajsavaliya.com/) · [📂 Repo](https://github.com/SRX9/portfoliosrx9) | NextJS, React, TypeScript, Tailwind CSS |
+| <img src="https://user-images.githubusercontent.com/53873209/171987187-5a8cd378-13c0-4111-aab8-b76f01039992.png" width="200"/> | **Israel Mitolu** | [🌐 Live](https://mitolu.dev) · [📂 Repo](https://github.com/israelmitolu/premier-portfolio) | HTML, SASS, Javascript, GSAP |
+| <img src="https://user-images.githubusercontent.com/28055486/171989464-e634cbf9-2772-4119-9e16-3283649290e4.png" width="200"/> | **Saikat Roy** | [🌐 Live](https://saikatroy.netlify.app/) · [📂 Repo](https://github.com/njmsaikat/portfolio) | HTML, CSS, Bootstrap, JavaScript, jQuery |
+| <img src="https://user-images.githubusercontent.com/31516195/170092193-d24327ca-f035-4074-8fde-57238ef570d6.png" width="200"/> | **Anand Baraik** | [🌐 Live](https://anandbaraik.github.io) · [📂 Repo](https://github.com/anandbaraik/anandbaraik.github.io) | HTML, CSS, React.js |
+| <img src="https://user-images.githubusercontent.com/74231771/172013597-2d2fdb32-2695-4121-9e25-56a28443565a.png" width="200"/> | **Nirban Chakraborty** | [🌐 Live](https://nirban-chakraborty.netlify.app/) · [📂 Repo](https://github.com/nirban256/personal_website) | ReactJs, JavaScript, SASS, HTML |
+| <img src="https://user-images.githubusercontent.com/65370456/172291784-f6e5453c-f46b-43c1-b509-50dea24aef41.png" width="200"/> | **Benaiah Alumona** | [🌐 Live](https://benrobo.vercel.app) · [📂 Repo](https://github.com/benrobo/portfolio-v3) | Reactjs, TailwindCss, Next.js, Emailjs |
+| <img src="https://user-images.githubusercontent.com/40033062/172034871-ff70f3fd-0311-4ee9-92bd-3b1fbc0adb9b.png" width="200"/> | **Md Nayeem Hossain** | [🌐 Live](https://nayeemdev.github.io/) · [📂 Repo](https://github.com/nayeemdev/nayeemdev.github.io) | HTML, CSS, Bootstrap, Javascript, jQuery |
+| <img src="https://user-images.githubusercontent.com/59080942/172006977-6e120ee4-9440-405e-b5ac-e861e4eeedb2.png" width="200"/> | **Sachin Chaurasiya** | [🌐 Live](https://sachinchaurasiya.dev) | HTML, CSS, JavaScript, ReactJs, Material UI |
+| <img src="https://user-images.githubusercontent.com/51731966/172062656-0b29d77e-a7b3-4e60-aa1b-5667a2bb009c.png" width="200"/> | **Anish De** | [🌐 Live](https://anishde.dev) · [📂 Repo](https://github.com/AnishDe12020/portfolio) | Next.js, TypeScript, Tailwind CSS |
+| <img src="https://user-images.githubusercontent.com/55531939/172037173-728af808-9299-4ecf-b68d-3dd2f39f5c7c.png" width="200"/> | **Shourya Shikhar Ghosh** | [🌐 Live](https://shourya.vercel.app) · [📂 Repo](https://github.com/danger-ahead/flutter_dev_folio) | Flutter |
+| <img src="https://user-images.githubusercontent.com/69806823/172054679-32dff626-d0ea-49ac-955c-30370b575263.png" width="200"/> | **Omar Sherif Ali** | [🌐 Live](https://osa-portfolio.vercel.app/) · [📂 Repo](https://github.com/omar-sherif9992) | ReactJs, JavaScript, CSS, HTML |
+| <img src="https://user-images.githubusercontent.com/86816711/172065557-6e6ea80f-aa5b-4b43-8b90-438b6fd13b1c.png" width="200"/> | **Robby Leonardi** | [🌐 Live](http://www.rleonardi.com) | NextJS, React, NodeJS, GSAP, Webpack |
+| <img src="https://user-images.githubusercontent.com/55996319/172113874-d9ef07c2-beef-4f11-b471-c68507f45db6.png" width="200"/> | **Serdar Gökhan** | [🌐 Live](https://serdargokhan.dev) · [📂 Repo](https://github.com/serdargokhan/portfolio-website-v1) | NextJS, TypeScript, TailwindCSS |
+| <img src="https://user-images.githubusercontent.com/30840709/172082704-87e2a4e4-4573-42e3-b953-b1bcb36f43ad.png" width="200"/> | **Jeferson Brito** | [🌐 Live](https://www.jefersonsilva.me/) · [📂 Repo](https://github.com/jeferson-sb/portfolio) | Vue 3.0, Vite |
+| <img src="https://user-images.githubusercontent.com/36529802/172173263-d87afabd-884d-4d88-b435-867f0963b868.png" width="200"/> | **Trịnh Minh Nhật** | [🌐 Live](https://trinhminhnhat.com) | React, Tailwindcss |
+| <img src="https://user-images.githubusercontent.com/2564340/172195787-6a42346a-1eba-4d45-b070-c34863f4fddb.png" width="200"/> | **Yunus Ertürk** | [🌐 Live](https://yunuserturk.com) | HTML, CSS, React, NextJS |
+| <img src="https://user-images.githubusercontent.com/88878684/172379242-6d063948-767d-40fd-a072-30cf875a91bc.png" width="200"/> | **Phong Nguyen** | [🌐 Live](https://napthedev.com) · [📂 Repo](https://github.com/napthedev/portfolio-next) | Nextjs, Tailwind, Framer-motion, Locomotive-scroll |
+| <img src="https://user-images.githubusercontent.com/13697123/172250584-228bf0c6-3dbd-4bf8-8f4e-1d0bdd29dbb1.png" width="200"/> | **Ismael López** | [🌐 Live](https://ismaellopez.dev) | Svelte, JavaScript, CSS, Netlify CMS |
+| <img src="https://user-images.githubusercontent.com/86574651/172486974-7718d5b2-0386-477c-a912-21879def00c3.png" width="200"/> | **Micah Lindley** | [🌐 Live](https://micahlindley.com) · [📂 Repo](https://github.com/micahlt/micahlt.github.io) | Vue 3, Vite |
+| <img src="https://user-images.githubusercontent.com/6835551/172994818-e570612c-c286-4d23-8f41-1d09025d7a52.png" width="200"/> | **Tri Dang** | [🌐 Live](https://tri-dang.github.io/about) · [📂 Repo](https://github.com/tri-dang/tri-dang.github.io) | Ruby, Jekyll, Markdown |
+| <img src="https://user-images.githubusercontent.com/36597017/172766065-02873144-d8df-4097-939f-5fa54fb339f0.jpg" width="200"/> | **Reza Ghasemzadeh** | [🌐 Live](https://rezaghz.com) | HTML, CSS, Bootstrap, Javascript |
+| <img src="https://user-images.githubusercontent.com/45073703/172781247-64b27deb-777e-48ec-b409-d1547bd7f96f.png" width="200"/> | **Ariful Alam** | [🌐 Live](https://arifszn.github.io/gitprofile) · [📂 Repo](https://github.com/arifszn/gitprofile) | React, Vite, Tailwind CSS |
+| <img src="https://user-images.githubusercontent.com/52998821/172965944-b25832f5-53a1-4833-a651-26d5ca0cdb20.png" width="200"/> | **Dale Larroder** | [🌐 Live](https://dalelarroder.com) · [📂 Repo](https://github.com/dlarroder/dalelarroder) | NextJS, Preact, TypeScript, Tailwind, MDX |
+| <img src="https://github.com/williamssam/My-Portfolio/raw/main/screenshot.jpg" width="200"/> | **Williams Samuel** | [🌐 Live](https://williamssam.netlify.app/) · [📂 Repo](https://github.com/williamssam/My-Portfolio) | HTML, CSS, Javascript |
+| <img src="https://user-images.githubusercontent.com/71810927/173070183-c0d30acf-2199-47a3-b0dd-919998e45e69.png" width="200"/> | **Guillaume Gouessan** | [🌐 Live](https://guillaumegouessan.com/) · [📂 Repo](https://github.com/superguigui/guillaumegouessan.com) | GSAP, ThreeJS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/71810927/173091834-946abebd-d814-4b52-be4e-49b6dc9cd521.png" width="200"/> | **Patrick Heng** | [🌐 Live](https://patrickheng.com/) | Nuxt.js, GSAP, ThreeJS |
+| <img src="https://user-images.githubusercontent.com/5095486/173239467-0c16213e-e41c-47e8-94cc-959706474ee7.png" width="200"/> | **Andrew Baisden** | [🌐 Live](https://andrewbaisden.com) · [📂 Repo](https://github.com/andrewbaisden/andrew-baisden-portfolio-2022) | HTML, CSS, TypeScript, ReactJS |
+| <img src="https://user-images.githubusercontent.com/35897418/174632557-a890ce80-1ded-477a-b99b-336c500a044f.png" width="200"/> | **Aziz Rahman** | [🌐 Live](https://azizstark.com) · [📂 Repo](https://github.com/AzizStark/AzizStark/tree/portfolio-v2) | React, Gatsby, Styled-Components, SCSS, AnimeJS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/8c34c73d-af10-4ae8-bc71-236af3851e55" width="200"/> | **Leonel Ngoya** | [🌐 Live](https://lndev.me) · [📂 Repo](https://github.com/ln-dev7) | HTML, CSS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/32173192/174971390-5c5714ac-abef-49b3-b903-1e4456481a13.png" width="200"/> | **Jimmy Soussan** | [🌐 Live](https://www.cozy-codeur.fr) · [📂 Repo](https://github.com/jilink/personal-portfolio) | React, Gatsby, Chakra UI, Framer Motion |
+| <img src="https://user-images.githubusercontent.com/74687658/175204130-9b244725-408f-432b-955f-ecd3e4d340a4.png" width="200"/> | **Segun Ajibola** | [🌐 Live](https://www.segunajibola.com) · [📂 Repo](https://github.com/segunajibola/portfolio) | HTML, CSS, TailwindCSS, React, SwiperJS |
+| <img src="https://user-images.githubusercontent.com/53873209/175480204-5de0a83a-2f44-4c87-b230-98387847dce5.jpg" width="200"/> | **Hisami Kurita** | [🌐 Live](https://hsmkrt1996.com/) · [📂 Repo](https://github.com/hisamikurita/hisamikurita-portfoliosite) | Vue.js, Nuxt.js, SCSS, ThreeJS, GSAP |
+| <img src="https://user-images.githubusercontent.com/62628408/175517075-23ee52df-8724-4772-a46d-d3ff28c5e30a.png" width="200"/> | **Dennis Snellenberg** | [🌐 Live](https://dennissnellenberg.com/) | GSAP, JQuery, PHP, VueJS |
+| <img src="https://user-images.githubusercontent.com/53873209/175786263-413a941c-99c8-4ac5-a54f-5af3cecdcf33.png" width="200"/> | **Isaac Fayemi** | [🌐 Live](https://www.fayemi.design/) | Vanilla JS, Prismic CMS, SCSS, ThreeJS, GSAP |
+| <img src="https://user-images.githubusercontent.com/66407251/176358358-0cfb52ee-816c-4094-a104-3df88f94a082.png" width="200"/> | **Bhavin Virani** | [🌐 Live](https://bhavinn.xyz) · [📂 Repo](https://github.com/bhavinvirani/Protfolio) | HTML, CSS, JS, React.js, Github API |
+| <img src="https://user-images.githubusercontent.com/4536756/176472964-e5c42bbf-e33c-4cc0-98b3-14f2dea2c4ef.png" width="200"/> | **Patrick Scott** | [🌐 Live](https://pscott.io) | React.js, Heroku, Github Pages |
+| <img src="https://user-images.githubusercontent.com/5396211/176441285-ec27b56f-c3b8-4f16-8900-11159bd133a8.png" width="200"/> | **Lazar Nikolov** | [🌐 Live](https://nikolovlazar.com) · [📂 Repo](https://github.com/nikolovlazar/nikolovlazar.com) | Next.js, Chakra UI, MDX, Prisma, PlanetScale |
+| <img src="https://user-images.githubusercontent.com/54074556/176431686-61ebae05-7555-49d9-9736-94038afe9968.png" width="200"/> | **Reuben Rapose** | [🌐 Live](https://reubence.com) · [📂 Repo](https://github.com/reubence/reubence) | HTML, TailwindCSS, React, Next.JS, MDX |
+| <img src="https://user-images.githubusercontent.com/57594421/176514845-cca4bf4b-42a4-4ec9-b7f2-21e41f4fe543.png" width="200"/> | **M. Shahanwaz** | [🌐 Live](https://mshahanwaz.me) · [📂 Repo](https://github.com/mshahanwaz/portfolio-v4) | HTML, CSS, JavaScript, React, Next.js |
+| <img src="https://user-images.githubusercontent.com/62628408/177008471-0421b1f6-14c1-4c02-9e96-68e9cda604cf.png" width="200"/> | **Lee Robinson** | [🌐 Live](https://leerob.io/) · [📂 Repo](https://github.com/leerob/leerob.io) | Next.js, PlanetScale, Prisma, Sanity, Tailwind CSS |
+| <img src="https://user-images.githubusercontent.com/68416104/177186186-1fa8baa4-c03c-49be-b9ec-08476a678356.png" width="200"/> | **Parth Desai** | [🌐 Live](https://musing.vercel.app/) · [📂 Repo](https://github.com/pycoder2000/blog) | TailwindCSS, React, Next.JS, MDX |
+| <img src="https://user-images.githubusercontent.com/69702944/177051340-bc7bd4cc-b3af-4fd6-9dba-d102ebb9b0fe.png" width="200"/> | **Victor Ikechukwu** | [🌐 Live](https://iamvictor.tech) | Next.js, Tailwind CSS, Netlify |
+| <img src="https://user-images.githubusercontent.com/107297384/177572197-e0ecc686-260e-48eb-99e3-dcf4061f8d50.png" width="200"/> | **Usman Sabuwala** | [🌐 Live](https://www.usman-s.me) · [📂 Repo](https://github.com/max-programming/usman-s.me) | NextJS, Chakra UI, Framer Motion |
+| <img src="https://user-images.githubusercontent.com/49382800/177875273-53d77154-14d4-4db8-a9d9-7de204941813.png" width="200"/> | **Zacky Aduoli** | [🌐 Live](https://lookupzach.netlify.app) | ReactJS, Material UI, SCSS, Styled Components |
+| <img src="https://user-images.githubusercontent.com/18350557/176930938-fc5fab09-c45c-4c4c-a85a-0a3cdd9a4e81.png" width="200"/> | **Payton Pierce** | [🌐 Live](https://paytonpierce.dev) · [📂 Repo](https://github.com/paytonjewell/paytonpierce.dev) | ReactJS, Material UI |
+| <img src="https://user-images.githubusercontent.com/40343913/178501844-3067eecd-de14-47ff-812b-57ad1bb3c50c.png" width="200"/> | **Jacob Valdez** | [🌐 Live](https://jacobfv.github.io) · [📂 Repo](https://github.com/JacobFV/jacobfv.github.io) | HTML, Jekyll |
+| <img src="https://user-images.githubusercontent.com/16046667/181013137-42c1cbee-351b-4582-943d-85a742fe0332.png" width="200"/> | **Walter Teng** | [🌐 Live](https://walterteng.com/) · [📂 Repo](https://github.com/davzoku/personal-website-v1) | React, Typescript, Gatsby, Netlify |
+| <img src="https://xahidex.com/site-preview.png" width="200"/> | **Jahidul Islam** | [🌐 Live](https://xahidex.com/) | Typescript, NextJs, TailwindCSS, Prisma, Contentlayer |
+| <img src="https://user-images.githubusercontent.com/18423188/182963873-6fe4d0a1-5fca-4b29-a44e-3372e36304b7.png" width="200"/> | **Greg Sithole** | [🌐 Live](https://gregsithole.com) · [📂 Repo](https://github.com/GregSithole/gregsithole-react-portfolio) | HTML, CSS, React.js |
+| <img src="https://user-images.githubusercontent.com/40729749/183277227-6a2a2537-bb13-4836-bab2-a5f1a56b0ab7.jpg" width="200"/> | **Rohit Saini** | [🌐 Live](https://portfolio-45b9b.web.app/) | ReactJs, CSS, GSAP, Framer Motion |
+| <img src="https://user-images.githubusercontent.com/10554486/181944426-ba1b32bf-0adf-44e5-b3b0-f99412932d78.png" width="200"/> | **Oscar Barajas** | [🌐 Live](https://gndx.io) · [📂 Repo](https://github.com/gndx/gndx.io) | HTML, TailwindCSS |
+| <img src="https://user-images.githubusercontent.com/77460748/183470369-4869772d-a402-49b2-baf2-9b14ab2b237b.png" width="200"/> | **Phillip Cabrera** | [🌐 Live](https://pcabreram-portfolio.netlify.app/) · [📂 Repo](https://github.com/pcabreram1234/portfolio) | HTML, CSS, JavaScript, Webpack, ReactJs |
+| <img src="https://raw.githubusercontent.com/Nahuel61920/portafolio-Nahuel/main/src/img/portfolio.png" width="200"/> | **Nahuel Carrizo** | [🌐 Live](https://nahuel61920.github.io/portafolio-Nahuel/) · [📂 Repo](https://github.com/Nahuel61920/portafolio-Nahuel) | HTML, CSS, JavaScript, React, Webpack |
+| <img src="https://user-images.githubusercontent.com/62628408/208278845-8b1059e8-7585-43c3-970e-443c9dd58625.png" width="200"/> | **Alfaizkhan Pathan** | [🌐 Live](https://alfaizkhan.github.io) · [📂 Repo](https://github.com/Alfaizkhan/alfaizkhan.github.io) | Flutter, Dart, Github Pages |
+| <img src="https://i.imgur.com/TxglVle.png" width="200"/> | **Jatin Kamboj** | [🌐 Live](https://jatinkamboj.me/) | HTML, CSS, JavaScript, GreenSock |
+| <img src="https://user-images.githubusercontent.com/1759654/185768959-9d50c46f-b4fe-4c2d-91e2-539bb7e5b3bf.png" width="200"/> | **Leonid Meleshin** | [🌐 Live](https://leon0399.ru/) · [📂 Repo](https://github.com/leon0399/leon0399.ru) | ReactJS, Tailwind, CSS, Vercel |
+| <img src="https://user-images.githubusercontent.com/71810927/185853762-ec9618d3-182c-4f42-9e80-0c3935fefb61.png" width="200"/> | **Brayden** | [🌐 Live](https://braydentw.io/) · [📂 Repo](https://github.com/BraydenTW/braydentw.io) | React, NextJS, TailwindCSS |
+| <img src="https://user-images.githubusercontent.com/71810927/185855136-99dfebf8-5a4b-45b8-82e9-5416390eea23.png" width="200"/> | **Ben (nuro.dev)** | [🌐 Live](https://nuro.dev/) · [📂 Repo](https://github.com/NuroDev/nuro.dev) | React, NextJS, TailwindCSS |
+| <img src="https://user-images.githubusercontent.com/71810927/185856268-aa8375e6-e5ef-42cd-8261-1156cfe30f51.png" width="200"/> | **Matthias Kretschmann** | [🌐 Live](https://matthiaskretschmann.com/) · [📂 Repo](https://github.com/kremalicious/portfolio) | React, Gatsby / NextJS |
+| <img src="https://user-images.githubusercontent.com/71810927/185857302-157bc072-8dc0-46ac-a89a-b2d0a40f06cb.png" width="200"/> | **Hamish Williams** | [🌐 Live](https://hamishw.com/) · [📂 Repo](https://github.com/HamishMW/portfolio) | React, ThreeJS, NextJS |
+| <img src="https://user-images.githubusercontent.com/71810927/185857785-a1da121c-15fe-48dc-b242-e79811c676f7.png" width="200"/> | **Çağlar Turalı** | [🌐 Live](https://turali.js.org/) · [📂 Repo](https://github.com/caglarturali/caglarturali.github.io) | React, TypeScript |
+| <img src="https://user-images.githubusercontent.com/99592123/186507689-9342132b-ff92-4883-b944-511ba3fef734.png" width="200"/> | **Pyae Sone** | [🌐 Live](https://pyaesonepsn.github.io/portfolio-project/) · [📂 Repo](https://github.com/pyaesonepsn/portfolio-project) | HTML, CSS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/10801400/187723688-077ff829-813b-4201-a5e2-39306b0aed58.png" width="200"/> | **Efren Martinez** | [🌐 Live](https://efrencodes.com) · [📂 Repo](https://github.com/efrencodes/efrencodes.ts) | NextJS, TypeScript, TailwindCSS |
+| <img src="https://user-images.githubusercontent.com/47760515/188088628-7f9e7f92-6848-4f98-924c-46343e50cf49.png" width="200"/> | **Eliaz LR** | [🌐 Live](https://portfolio2.eliaz-lr.dev/) · [📂 Repo](https://github.com/Eliaz-LR/Personal-website-v2) | Vue 3, Vite, TailwindCSS |
+| <img src="https://user-images.githubusercontent.com/40501852/188321184-0d750ecd-85ae-491a-8e34-ecfd393a2d0c.png" width="200"/> | **Hikmet C. Kufteoglu** | [🌐 Live](https://hicaku.com) · [📂 Repo](https://github.com/spencehiko/portfolio) | Vue 3, Pinia, TypeScript |
+| <img src="https://user-images.githubusercontent.com/67078991/189193913-3e351d62-8515-47cd-9069-c449b0c81a77.png" width="200"/> | **Ara Oladipo** | [🌐 Live](https://araoladipo.tech/) · [📂 Repo](https://github.com/Ara-O/Portfolio-Website) | HTML, CSS, Vue.js, Spline3D |
+| <img src="https://user-images.githubusercontent.com/62628408/189466543-8297ec23-92e1-445d-8b26-dc2f38e73dc9.png" width="200"/> | **Anthony Fu** | [🌐 Live](https://antfu.me/) · [📂 Repo](https://github.com/antfu/antfu.me) | VueJS, Markdown, TypeScript |
+| <img src="https://user-images.githubusercontent.com/62628408/189490154-bd5ed60d-b9f7-40e5-ae26-639c7fe1f450.png" width="200"/> | **Timothy Lin** | [🌐 Live](https://timlrx.com) · [📂 Repo](https://github.com/timlrx/timlrx.com) | NextJS, MDX, TailwindCSS, SASS |
+| <img src="https://user-images.githubusercontent.com/62628408/189491074-008e03d5-b8f9-42df-8ac9-107bf3fa929e.png" width="200"/> | **Ngô Phú Thịnh** | [🌐 Live](https://thinhcorner.com) · [📂 Repo](https://github.com/Th1nhNg0/th1nhng0.vercel.app) | NextJS, TailwindCSS, TypeScript, React |
+| <img src="https://user-images.githubusercontent.com/53873209/189539405-c7384739-aa02-42fe-9a64-e35f15b66833.png" width="200"/> | **Josiah B. Etuk** | [🌐 Live](https://jobenetuk.dev/) | Vanilla JS, Node JS, Prismic CMS, SASS, GSAP |
+| <img src="https://user-images.githubusercontent.com/18528418/190108679-aba5e134-4967-4a36-a516-632b21a8e477.png" width="200"/> | **Stef Ivanov** | [🌐 Live](https://stefivanov.com) | WordPress, Yoast SEO, MailChimp, PWA |
+| <img src="https://user-images.githubusercontent.com/18528418/190111997-dad66b59-f31f-4f1b-82e1-0f9a3367c45a.png" width="200"/> | **Erika Senft Miller** | [🌐 Live](https://www.erikasenftmiller.com/) | Contentful, GSAP, LazySizes, PWA |
+| <img src="https://user-images.githubusercontent.com/18528418/190115658-9fee276a-b79c-4a82-aaba-19e63c3e625d.png" width="200"/> | **Ruben Kuipers** | [🌐 Live](https://rubenkuipers.design/) | Vue.js, Nuxt.js, Tailwind CSS, scrollreveal |
+| <img src="https://user-images.githubusercontent.com/18528418/190361290-ec86e3f1-d6a2-49c2-a893-225cc92d1247.png" width="200"/> | **Maggie Appleton** | [🌐 Live](https://maggieappleton.com/) · [📂 Repo](https://github.com/MaggieAppleton/maggieappleton.com-V2) | React, Next.js, MDX, Algolia, Framer Motion |
+| <img src="https://user-images.githubusercontent.com/54773679/191480771-849128cd-4b2c-4283-bb46-b7baa7a35f0a.jpg" width="200"/> | **Moe Dayraki** | [🌐 Live](https://moe.dayrakiarts.com) · [📂 Repo](https://github.com/moedayraki/moedayraki.github.io) | Vue 3, Vite, Cypress, Tailwindcss, TypeScript |
+| <img src="https://user-images.githubusercontent.com/259888/192136996-006f2a19-4d4f-496e-89f6-7fbbbf6f2741.png" width="200"/> | **Truong Phan** | [🌐 Live](https://techika.com) · [📂 Repo](https://github.com/infantiablue) | Vue 3, VuePress, Tailwindcss |
+| <img src="https://user-images.githubusercontent.com/84036037/192362869-392ba8db-20d3-403f-a000-15636cb4f2c3.png" width="200"/> | **Wasim Baig** | [🌐 Live](https://wasimbaig.com) · [📂 Repo](https://github.com/simbaig/portfolio-nextjs) | Next JS, Tailwind CSS, Framer-Motion |
+| <img src="https://user-images.githubusercontent.com/62628408/194711236-9e9cda7f-0611-4756-b237-ae122e355c75.png" width="200"/> | **Mike Bifulco** | [🌐 Live](https://mikebifulco.com) · [📂 Repo](https://github.com/mbifulco/blog) | NextJS, React, SCSS, MDX |
+| <img src="https://user-images.githubusercontent.com/62628408/194711642-0618e969-2672-4179-90ed-b5909e0bf665.png" width="200"/> | **Shodipo Ayomide** | [🌐 Live](https://shodipoayomide.com/) · [📂 Repo](https://github.com/Developerayo/shodipoayomide.com) | Gatsby, React, SCSS, Bootstrap |
+| <img src="https://user-images.githubusercontent.com/62628408/194712470-98eec307-9b9c-4181-9167-2945b6362d5c.png" width="200"/> | **Damian Watracz** | [🌐 Live](https://watracz.com/) | HTML, CSS, JavaScript, Swiper |
+| <img src="https://user-images.githubusercontent.com/46662771/195562343-cd7e2407-949e-4dba-813d-af6855b17e41.png" width="200"/> | **Franklin Ohaegbulam** | [🌐 Live](https://frankiefab.com) · [📂 Repo](https://github.com/frankiefab100/frankiefab.tech) | HTML, CSS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/46662771/195622011-33744cb7-bb4b-4229-a104-d88d108c1487.png" width="200"/> | **Samuel Akinosho** | [🌐 Live](https://www.samuelakinosho.com/) | Webflow, jQuery |
+| <img src="https://user-images.githubusercontent.com/62628408/196155918-9068722c-875f-4016-ae89-37f63a4e6f1f.png" width="200"/> | **Rutik Wankhade** | [🌐 Live](https://rutikwankhade.dev/) | NextJs, React, NodeJS, TailwindCSS |
+| <img src="https://user-images.githubusercontent.com/46662771/196423111-7b262df6-9ee8-4f2e-9de5-7eb2cd3e6ebe.png" width="200"/> | **Adenekan Wonderful** | [🌐 Live](https://www.codewonders.dev/) | React, NextJS, Styled-components |
+| <img src="https://user-images.githubusercontent.com/46662771/196424318-5de568ff-73d1-48ad-9087-bc38c6fe234c.png" width="200"/> | **Olamide Sholanke** | [🌐 Live](https://www.olamide.dev/) | Vue, NuxtJS |
+| <img src="https://user-images.githubusercontent.com/46662771/196419585-4faaf914-3681-402f-8f31-a196b450d667.png" width="200"/> | **Daniel Ezekiel** | [🌐 Live](https://danielezekiel.me/) · [📂 Repo](https://github.com/Daniel-Ezekiel/Portfolio-Website) | HTML, CSS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/46662771/196426246-88b06dd2-4305-4785-b795-6c8482874a36.png" width="200"/> | **Julia Johnson** | [🌐 Live](https://www.juliacodes.com/) · [📂 Repo](https://github.com/juliacodes/JuliaCodesGatsby) | React, Styled-components |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/736fec7a-d6e1-4541-bcca-a968c1ed8755" width="200"/> | **Rida F'kih** | [🌐 Live](https://www.rida.dev/) · [📂 Repo](https://github.com/ridafkih/portfolio) | React, NextJS |
+| <img src="https://user-images.githubusercontent.com/31516195/188324601-78b0b8d4-ddca-43f2-8d3e-a6ef0846e770.png" width="200"/> | **Anand Baraik (v2)** | [🌐 Live](https://anandbaraik-folio.netlify.app/) · [📂 Repo](https://github.com/anandbaraik/anandfolio) | HTML, CSS |
+| <img src="https://user-images.githubusercontent.com/46662771/197171814-9902aa1a-8fc3-4ea0-9c5f-47f24bbec6e3.png" width="200"/> | **Abhishek Jha** | [🌐 Live](https://www.abhishekjha.me) | HTML, CSS, JavaScript, Ruby on Rails, GSAP |
+| <img src="https://user-images.githubusercontent.com/46662771/197175156-6886c1c5-97ac-4305-bd60-5e824389c6be.png" width="200"/> | **Olamide Adeyi** | [🌐 Live](https://www.olamideadeyi.com) | Vue, NuxtJS, GSAP |
+| <img src="https://user-images.githubusercontent.com/53873209/227514948-40cb969e-f88c-4a83-8338-aeebaf44db58.png" width="200"/> | **Greg Ives** | [🌐 Live](https://www.gregives.co.uk) · [📂 Repo](https://github.com/gregives/gregives.co.uk) | Vue, NuxtJS, SASS, Netlify |
+| <img src="https://user-images.githubusercontent.com/46662771/197170427-e2de03d3-f9f3-4893-a47a-ba554d70079a.png" width="200"/> | **Collins Enebeli** | [🌐 Live](https://kadet.dev/) · [📂 Repo](https://github.com/kadetXx/kadet.dev) | React, Gatsby |
+| <img src="https://user-images.githubusercontent.com/46662771/197168195-e906ca7f-d0d1-4a39-9c05-ce3f8d3631e5.png" width="200"/> | **Cole Solomon** | [🌐 Live](https://colesolomon.me/) · [📂 Repo](https://github.com/codecole/colesolomonme) | HTML, CSS, SASS, JavaScript, GSAP |
+| <img src="https://user-images.githubusercontent.com/113855742/208195796-b7c27dcf-67f0-4e1c-9c6d-e1d219bddbae.png" width="200"/> | **Adewale Adeyemi** | [🌐 Live](https://adex.onrender.com/) · [📂 Repo](https://github.com/dev-adewale/portfolio) | Gridsome, GraphQL, Tailwind |
+| <img src="https://user-images.githubusercontent.com/62628408/197406605-8e3f25c7-85df-461d-a7e6-679f2a1be425.png" width="200"/> | **Harsh Singh** | [🌐 Live](https://harshsingh.xyz/) · [📂 Repo](https://github.com/harshhhdev/harshhhdev.github.io) | NextJS, TailwindCSS, TypeScript, Prisma |
+| <img src="https://user-images.githubusercontent.com/65576111/197592263-52847d1a-6d4b-4528-9a5d-d28395761f5c.png" width="200"/> | **Wallace Nascimento** | [🌐 Live](https://portfolio-srnascimento40.vercel.app/) · [📂 Repo](https://github.com/SrNascimento40/portfolio) | NextJS, ReactJS, TypeScript, Styled-Components |
+| <img src="https://user-images.githubusercontent.com/45847909/198300427-860de419-9525-4e35-9b38-f6bfbba612d2.png" width="200"/> | **Idris Olubisi** | [🌐 Live](https://idrisolubisi.com) · [📂 Repo](https://github.com/Olanetsoft/idrisolubisi.com) | ReactJs, GatsbyJs, TypedJs, Styled Component |
+| <img src="https://user-images.githubusercontent.com/74212439/199970839-6f0ab4f3-c63a-4052-a05c-e8503d7943de.png" width="200"/> | **Aycan Öğüt** | [🌐 Live](https://www.aycan.dev) · [📂 Repo](https://github.com/aycanogut/aycan.dev) | React, Next, TypeScript, Mantine |
+| <img src="https://user-images.githubusercontent.com/54291836/200181649-39dd0705-d6ac-4f2c-a60a-926b6e713f2e.png" width="200"/> | **Manish Kumar** | [🌐 Live](https://manishk.dev) · [📂 Repo](https://github.com/manishprivet/portfolio) | React, Next, TypeScript, ParticleJS, Firebase |
+| <img src="https://user-images.githubusercontent.com/53873209/200663072-b61f6f84-c482-45d1-9e60-85ab096aca8f.png" width="200"/> | **Andrea Toffanello** | [🌐 Live](https://andreatoffanello.com) | VueJS, ThreeJS, GSAP, Blender |
+| <img src="https://user-images.githubusercontent.com/93640141/201102466-189f51cb-f959-4645-920f-0b40d0ecc8a4.png" width="200"/> | **Chandraprakash Darji** | [🌐 Live](https://chandraprakash.vercel.app/) · [📂 Repo](https://github.com/Chandraprakash-Darji/personal) | Nextjs, Typescript, Tailwindcss |
+| <img src="https://raw.githubusercontent.com/michaelkolesidis/michaelkolesidis.com/main/screenshots/desktop_1.png" width="200"/> | **Michael Kolesidis** | [🌐 Live](https://michaelkolesidis.com/) · [📂 Repo](https://github.com/michaelkolesidis/michaelkolesidis.com) | TypeScript, p5.js, Sass, Vite |
+| <img src="https://user-images.githubusercontent.com/18528418/202102781-b1d7826f-d401-481b-afeb-d3d54f42ba7d.png" width="200"/> | **Piyush Goyani** | [🌐 Live](https://piyushgoyani.thesourcepedia.org) | VueJS, Gridsome, TailwindCSS, Firebase |
+| <img src="https://user-images.githubusercontent.com/52542645/202289197-bdc535a8-ebbf-4416-a997-21cdb73e9cee.png" width="200"/> | **Vanessa Santana** | [🌐 Live](https://www.nessajs.com.br/) · [📂 Repo](https://github.com/vanessa-dev/nessa.js) | HTML, CSS, JavaScript, PHP |
+| <img src="https://user-images.githubusercontent.com/67946056/204500454-a8f4f10e-efd3-44ae-9f49-fa16106a8318.png" width="200"/> | **Ajo Alex** | [🌐 Live](https://devpenzil.dev/) · [📂 Repo](https://github.com/devpenzil/devpenzil.dev) | NextJS, Tailwind, GraphCMS |
+| <img src="https://user-images.githubusercontent.com/69915035/204743807-5c96d774-c361-4b5a-8fe2-cf6eb587e0c6.JPG" width="200"/> | **Erys Mozo** | [🌐 Live](https://erysmozo.vercel.app/) · [📂 Repo](https://github.com/ErysCode7/Web-Portfolio) | React, SASS, Vite, AOS |
+| <img src="https://user-images.githubusercontent.com/60526129/205677866-a6eae2e1-3ca6-4227-961e-69c3863b7b3d.png" width="200"/> | **Peace Jinadu-Paul** | [🌐 Live](https://pjpportfolio.netlify.app/) · [📂 Repo](https://github.com/Pappyjay23/my-portfolio-1) | React, HTML, CSS, Framer Motion |
+| <img src="https://user-images.githubusercontent.com/75234157/205496938-3ad80cff-037f-47fb-a853-810c9eda9cb7.png" width="200"/> | **Hari Prasad** | [🌐 Live](https://hariprasd.me) · [📂 Repo](https://github.com/hariprasd) | React, Tailwind CSS |
+| <img src="https://user-images.githubusercontent.com/69876068/205551967-abc55adc-aae6-48c7-94cc-d9ed431c511a.png" width="200"/> | **Danilo Batson** | [🌐 Live](https://batson-portfolio.vercel.app/) · [📂 Repo](https://github.com/danilobatson/batson-portfolio) | TypeScript, JavaScript, React, Vue, Node |
+| <img src="https://user-images.githubusercontent.com/51329156/208891221-6e4dbd09-06cb-4568-abc8-98128f6b1bca.png" width="200"/> | **Byunggeun Cho** | [🌐 Live](https://bbangjo.kr) · [📂 Repo](https://github.com/bbangjooo/buffalo) | HTML, CSS, JavaScript, TypeScript, Threejs, Blender |
+| <img src="https://user-images.githubusercontent.com/62628408/209755001-3a603dcd-25bc-44b5-93a7-a5bc6cd44727.png" width="200"/> | **James Warner** | [🌐 Live](https://jmswrnr.com/) | NextJS, Sanity, CSS, Preact, NodeJS, ThreeJS |
+| <img src="https://user-images.githubusercontent.com/62628408/209755866-1407b7f2-bb47-44ec-8fe6-9ce92c84dcda.png" width="200"/> | **Maxime Heckel** | [🌐 Live](https://maximeheckel.com/) · [📂 Repo](https://github.com/MaximeHeckel/blog.maximeheckel.com) | NextJS, TypeScript, Stitches/CSS, MDX |
+| <img src="https://user-images.githubusercontent.com/62628408/209756628-7c93082a-3567-4238-9d65-1ea810fa1f51.png" width="200"/> | **Twan Mulder** | [🌐 Live](https://www.twanmulder.com/) · [📂 Repo](https://github.com/twanmulder/portfolio) | React, TailwindCSS, Stripe, Netlify |
+| <img src="https://user-images.githubusercontent.com/46662771/210183301-599c1add-f507-4626-8912-b55ecf565614.png" width="200"/> | **Rishi Mohan** | [🌐 Live](https://rishimohan.me) · [📂 Repo](https://github.com/rishimohan/rishimohan.me) | Next.js, TailwindCSS, Framer Motion |
+| <img src="https://user-images.githubusercontent.com/46662771/210183075-b58e2705-c2b9-4f16-adde-a19a12a3e8d9.png" width="200"/> | **Nikhil Rajput** | [🌐 Live](https://nixrajput.nixlab.co.in/) · [📂 Repo](https://github.com/nixrajput/portfolio-nextjs) | Next.js, SCSS, Node.js |
+| <img src="https://user-images.githubusercontent.com/46662771/210182852-c316dc4e-c02a-436b-a526-53f2bdfe99a8.png" width="200"/> | **Raphaël Chelly** | [🌐 Live](https://www.raphaelchelly.com) · [📂 Repo](https://github.com/raphaelchelly/raph_www) | Next.js, TailwindCSS, Vercel |
+| <img src="https://user-images.githubusercontent.com/46662771/211422082-0eb8dafe-dcb5-4359-b6b7-7221ab0b6150.png" width="200"/> | **Damian Demasi** | [🌐 Live](https://www.damiandemasi.com/) · [📂 Repo](https://github.com/Colo-Codes/portfolio-v2) | ReactJS, TailwindCSS, DaisyUI |
+| <img src="https://user-images.githubusercontent.com/46662771/211422589-ec814f14-9db7-4162-8f5f-5eaa8f037e8d.png" width="200"/> | **Ifedili Onyegbu** | [🌐 Live](https://www.ifedili.com) · [📂 Repo](https://github.com/saucecodee/ifedili.com) | Angular, TypeScript, SASS |
+| <img src="https://user-images.githubusercontent.com/62628408/211936079-1cbf1c5e-4025-4c38-a69f-d2094f5af907.png" width="200"/> | **Daniel Cranney** | [🌐 Live](https://www.danielcranney.com/) · [📂 Repo](https://github.com/danielcranney/portfolio) | NextJS, TailwindCSS, Vercel |
+| <img src="https://user-images.githubusercontent.com/53873209/212376608-1647044c-3caa-48b7-b131-3407afc144ed.png" width="200"/> | **Adham Dannaway** | [🌐 Live](https://www.adhamdannaway.com/) | WordPress, PHP, jQuery, MySQL |
+| <img src="https://user-images.githubusercontent.com/62628408/213310609-ff768322-2d69-45fc-864b-e2f0a50aa749.png" width="200"/> | **Glayson Visgueira** | [🌐 Live](https://glaysonvisgueira.vercel.app/) · [📂 Repo](https://github.com/Glaysonvisgueira/glaysonvisgueira_next-js) | NextJS, Styled-components, NodeJS |
+| <img src="https://user-images.githubusercontent.com/62628408/214586571-d915e4ec-6f5c-4b2b-a554-b444b3eed04f.png" width="200"/> | **Chai Phonbopit** | [🌐 Live](https://devahoy.com/) | NextJS, Preact, Tailwind CSS, NodeJS |
+| <img src="https://user-images.githubusercontent.com/62628408/215120342-a009d241-4d40-4c9d-938a-28381e07dac5.png" width="200"/> | **Aravind Balla** | [🌐 Live](https://aravindballa.com) · [📂 Repo](https://github.com/aravindballa/website) | NextJS, TypeScript, Tailwind CSS |
+| <img src="https://user-images.githubusercontent.com/53873209/215251625-a47dc95b-3326-4ebb-bcec-332614ffe4f8.png" width="200"/> | **Tanishka Yadav** | [🌐 Live](https://tanishka-yadav.netlify.app/) · [📂 Repo](https://github.com/Tanishka-dev/Portfolio-Reactjs) | ReactJS, Javascript, SASS, Framer Motion |
+| <img src="https://user-images.githubusercontent.com/53873209/215259720-12a184da-5958-42ec-bfbe-265055acff67.png" width="200"/> | **David Obodo** | [🌐 Live](https://www.davidobodo.com/) | NextJS, Typescript, SASS, GSAP |
+| <img src="https://user-images.githubusercontent.com/80556643/215644049-188fe70d-a849-4f89-af62-751da7c3210b.png" width="200"/> | **Olasunkanmi Balogun** | [🌐 Live](https://kanmibalogun.vercel.app/) · [📂 Repo](https://github.com/SiR-PENt/folio-me) | NextJS, JavaScript, Tailwind, Framer-motion |
+| <img src="https://user-images.githubusercontent.com/88102392/218301986-7d08fa18-bdca-4898-82c0-9e64d7822b96.png" width="200"/> | **Priyankar Pal** | [🌐 Live](https://itspp.vercel.app) · [📂 Repo](https://github.com/priyankarpal/Priyankar) | HTML & SCSS |
+| <img src="https://user-images.githubusercontent.com/10086227/218483483-4a3358fd-a79a-4b81-b619-be28b3e0832c.png" width="200"/> | **Marieflor Bawanan** | [🌐 Live](https://marieflor.dev) · [📂 Repo](https://github.com/mariebawanan/marieflor.dev) | NextJS, TypeScript, TailwindCSS, GSAP |
+| <img src="https://user-images.githubusercontent.com/62628408/219158553-bc286921-2142-41e6-9167-88ef5b1348c1.png" width="200"/> | **Delba Oliviera** | [🌐 Live](https://delba.dev/) · [📂 Repo](https://github.com/delbaoliveira/website) | Next.js, MDX, Tailwind, Prisma |
+| <img src="https://user-images.githubusercontent.com/62628408/219168599-59df9692-93cf-415b-83b2-579f933dacf1.png" width="200"/> | **Vivek Patel** | [🌐 Live](https://vivek9patel.github.io/) · [📂 Repo](https://github.com/vivek9patel/vivek9patel.github.io) | NextJS, Tailwind CSS, GitHub Pages |
+| <img src="https://user-images.githubusercontent.com/53873209/219411465-b0ceecbe-835b-403a-951d-0e0a26f7ce6a.png" width="200"/> | **Sarah Dayan** | [🌐 Live](https://www.sarahdayan.dev/) | NextJS, Tailwind CSS, NodeJS |
+| <img src="https://user-images.githubusercontent.com/53873209/219413309-8a34a630-9834-4f35-b973-c3c947ccede2.png" width="200"/> | **Theodorus Clarence** | [🌐 Live](https://theodorusclarence.com/) · [📂 Repo](https://github.com/theodorusclarence/theodorusclarence.com) | NextJS, TypeScript, Tailwind CSS, MDX Bundler |
+| <img src="https://user-images.githubusercontent.com/53873209/219415220-e937b428-af9c-4371-842a-89e59ffd26ee.png" width="200"/> | **Arafat Islam** | [🌐 Live](https://portfolio-khaki-iota-89.vercel.app/) · [📂 Repo](https://github.com/arafat4693/portfolio) | NextJS, TypeScript, GraphQL, Tailwind CSS |
+| <img src="https://user-images.githubusercontent.com/53873209/219416647-1e3976ab-2675-4f53-acff-5021e04906bb.png" width="200"/> | **Abo Ghanbari** | [🌐 Live](https://www.aboghanbari.com/) | Gatsby, Emotion, GSAP, Preact |
+| <img src="https://user-images.githubusercontent.com/88075256/220258658-dda19639-2409-472e-ade3-e204f79ab5be.png" width="200"/> | **PATRICK T.LO** | [🌐 Live](https://pleaseleaveon.com/) | HTML5, CSS, JavaScript, jQuery |
+| <img src="https://user-images.githubusercontent.com/53873209/220332052-589fbb61-8f37-4d0b-b5a9-da601a627a98.png" width="200"/> | **Aliyah Adefolake** | [🌐 Live](https://www.aliyahadefolake.com/) | ReactJS, Gatsby, SASS, GSAP, Contentful |
+| <img src="https://user-images.githubusercontent.com/53873209/220334086-51f7e523-7451-46e8-b3b8-6aed86341229.png" width="200"/> | **Travis Fischer** | [🌐 Live](https://transitivebullsh.it/) · [📂 Repo](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) | NextJS, TypeScript, Notion API |
+| <img src="https://user-images.githubusercontent.com/88075256/220362800-fe33d26e-8b09-4d29-9be8-b27aef020b01.png" width="200"/> | **Lynn Fisher** | [🌐 Live](https://lynnandtonic.com/) · [📂 Repo](https://github.com/lynnandtonic/lynnandtonic.com) | HTML5, CSS, JavaScript, SVG |
+| <img src="https://user-images.githubusercontent.com/88075256/220831020-9c141f75-7b66-4274-9360-40d047d4501c.png" width="200"/> | **Danny Garcia** | [🌐 Live](https://danny-garcia.com/) · [📂 Repo](https://github.com/dannygarcia/dannygarcia.github.com) | HTML5, TypeScript, GLSL, Netlify |
+| <img src="https://user-images.githubusercontent.com/88075256/221104838-b82a01f2-b0f9-4d9a-bd0b-9fc7a87d2875.png" width="200"/> | **Robin Payot** | [🌐 Live](http://www.robinpayot.com/) | HTML5, CSS, GSAP, Howler.js, three.js, WebGL |
+| <img src="https://user-images.githubusercontent.com/88075256/221340025-0e357cf8-61e3-461a-a969-11940d9c2ff1.png" width="200"/> | **Jesse Zhou** | [🌐 Live](https://jesse-zhou.com/) · [📂 Repo](https://github.com/enderh3art/Ramen-Shop) | HTML5, GLSL, Howler.js, GSAP, Three.js, Node.js |
+| <img src="https://user-images.githubusercontent.com/53873209/221341958-446d5cdf-bc22-47d2-9f09-fabe77e9eb5c.png" width="200"/> | **Rauno Freiberg** | [🌐 Live](https://rauno.me/) | NextJS, NodeJS, Stitches, Vercel |
+| <img src="https://user-images.githubusercontent.com/74038190/221430160-5f280f15-ba4d-43a8-ace6-b3162855aea1.png" width="200"/> | **Anurag Hazra** | [🌐 Live](https://anuraghazra.dev/) · [📂 Repo](https://github.com/anuraghazra/anuraghazra.github.io) | React, Gatsby, Styled-components, Cypress |
+| <img src="https://user-images.githubusercontent.com/32103022/231819818-4c43ecfa-5b8c-4099-90d2-7c4ca1166395.jpg" width="200"/> | **Hardik Gohil** | [🌐 Live](https://hardikgohil.space/) | Next.js, TypeScript, Tailwind CSS, Firebase |
+| <img src="https://user-images.githubusercontent.com/53873209/222076260-9536d6e7-91bd-440d-835f-5fa641ce450c.PNG" width="200"/> | **Jonathan Toon** | [🌐 Live](https://jonathontoon.com/) · [📂 Repo](https://github.com/jonathontoon/jonathontoon.com) | Gulp, EsBuild, postCSS, Nunjuck |
+| <img src="https://user-images.githubusercontent.com/53873209/222077967-b94c5de3-f8db-4f00-be6a-adc8cf5000dc.PNG" width="200"/> | **Rafael Derolez** | [🌐 Live](https://derolez.dev/) | NextJS, Sanity, ChakraUI, Emotion |
+| <img src="https://user-images.githubusercontent.com/53873209/222880704-e6062bc7-b19f-4be3-9ee2-2f809885e94d.png" width="200"/> | **Chris Williams** | [🌐 Live](https://astro-theme-cactus.netlify.app/) · [📂 Repo](https://github.com/chrismwilliams/astro-theme-cactus) | Astro, Typescript, Tailwind CSS, MDX |
+| <img src="https://user-images.githubusercontent.com/53873209/222881198-5e24ac56-2cf0-40e1-aa5a-01a859132dc5.png" width="200"/> | **Ben Holmes** | [🌐 Live](https://bholmes.dev/) · [📂 Repo](https://github.com/bholmesdev/bholmesdev) | Gatsby, Javascript, SCSS, Pug |
+| <img src="https://user-images.githubusercontent.com/48645362/222945475-ce6c07d1-d580-47a5-8372-c66e6ff35e66.png" width="200"/> | **Yasio** | [🌐 Live](https://yasio.dev/) · [📂 Repo](https://github.com/YasiOnFire) | Nuxt.js, Node.js, Vue.js, Firebase, PWA |
+| <img src="https://user-images.githubusercontent.com/48645362/222978718-78e3e74c-66b1-48f6-a39f-2a0f03ac51a5.png" width="200"/> | **Alec Babala** | [🌐 Live](https://www.alecbabala.com/) | Next.js, React, GSAP, Contentful |
+| <img src="https://user-images.githubusercontent.com/53873209/223125102-7b266674-cb3b-4f1c-9562-af09202b35a5.png" width="200"/> | **Gavin Nelson** | [🌐 Live](https://nelson.co/) · [📂 Repo](https://github.com/gavinmn/nelson.co) | NextJS, Tailwind CSS, Vercel, MDX |
+| <img src="https://user-images.githubusercontent.com/53873209/223170581-4c10fd7d-a851-4f6d-8c78-fdd731c2b15c.png" width="200"/> | **Yinka Adedire** | [🌐 Live](https://www.yinka.codes/) · [📂 Repo](https://github.com/yinkakun/yinkakun-portfolio) | Gatsby, ReactJS, Styled-Components |
+| <img src="https://user-images.githubusercontent.com/53873209/223174294-72f9c025-92f4-41f2-b7c8-8dfc0b8e216b.png" width="200"/> | **Abdullah Abdulfatah** | [🌐 Live](https://www.draq.tech/) | NextJS, Typescript, ChakraUI |
+| <img src="https://user-images.githubusercontent.com/53873209/224482950-e2dfbfdd-8d98-4a10-aed6-973fd568d9b4.png" width="200"/> | **Samuel Imolorhe** | [🌐 Live](https://www.xkoji.dev/) · [📂 Repo](https://github.com/imolorhe/xkoji-code) | Gatsby, GSAP, JavaScript, Netlify |
+| <img src="https://github.com/said7388/portfolio-ideas/assets/77630868/d6276920-ec58-4e7f-ac09-32cd43a3b8ee" width="200"/> | **Abu Said** | [🌐 Live](https://abusaid.netlify.app/) · [📂 Repo](https://github.com/said7388/developer-portfolio) | Next.js, Tailwind CSS, Email.JS |
+| <img src="https://user-images.githubusercontent.com/66233296/226226557-c6afd182-7d14-4ac3-87a5-319c14d599c4.png" width="200"/> | **Quiet Node** | [🌐 Live](https://quiet-node.dev) · [📂 Repo](https://github.com/quiet-node/portfolio-v2) | TypeScript, ReactJS, ViteJS, TailwindCSS |
+| <img src="https://user-images.githubusercontent.com/2626931/227245573-e5751c40-9d59-4b44-b697-e2b28bff4e6a.png" width="200"/> | **Daniel Wisky** | [🌐 Live](https://danielwisky.com.br/) · [📂 Repo](https://github.com/danielwisky/danielwisky.github.io) | HTML, CSS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/53873209/228754753-f18a3e24-72a8-4032-955b-ef4a01110846.png" width="200"/> | **JJ Kasper** | [🌐 Live](https://jjsweb.site/) · [📂 Repo](https://github.com/ijjk/jjsweb.site) | NextJS, Vercel, CSS |
+| <img src="https://user-images.githubusercontent.com/53873209/228766009-832d7b30-c675-42a8-9a0c-445d8a8be8fb.png" width="200"/> | **Cassidy Williams** | [🌐 Live](https://cassidoo.co/) | HTML, CSS, JavaScript |
+| <img src="https://user-images.githubusercontent.com/53873209/228767619-d48218cd-09d8-4886-a6b0-72e23f77a71e.PNG" width="200"/> | **Jahir Fiquitiva** | [🌐 Live](https://jahir.dev/) · [📂 Repo](https://github.com/jahirfiquitiva/jahir.dev) | Next.js, Tailwind CSS, MDX, PlanetScale |
+| <img src="https://user-images.githubusercontent.com/53873209/230361704-ceb6b270-9148-4518-9578-53681cf49fe2.png" width="200"/> | **Victor Williams** | [🌐 Live](https://www.victorwilliams.me/) · [📂 Repo](https://github.com/victorcodess/folio-v1) | React, Next.js, TypeScript, TailwindCSS, Framer Motion, GSAP |
+| <img src="https://user-images.githubusercontent.com/105242931/230619541-50f3b035-2ee2-4925-a453-c35c1985df84.png" width="200"/> | **Modupe Akanni** | [🌐 Live](https://modupe-akanni.vercel.app/) · [📂 Repo](https://github.com/Goketech/next-p) | React, Next.js, Styled Components |
+| <img src="https://user-images.githubusercontent.com/53873209/231068477-13d011fc-aac4-466a-8d18-bbcb41a81025.png" width="200"/> | **Anuoluwapo Abolarin** | [🌐 Live](https://anuoluwapo.xyz/) · [📂 Repo](https://github.com/Anu-oluwapo/portfolio-v2) | VueJS, SCSS, GSAP, Vite |
+| <img src="https://user-images.githubusercontent.com/53873209/234782793-152ab17e-85de-4e5b-bc52-505e129d8354.png" width="200"/> | **Andrew Branch** | [🌐 Live](https://blog.andrewbran.ch/) · [📂 Repo](https://github.com/andrewbranch/blog) | Gatsby, TypeScript, Emotion, Netlify |
+| <img src="https://user-images.githubusercontent.com/53873209/234786328-5623c880-e5fc-4f47-aa67-e4db5e95f0e6.png" width="200"/> | **Max Böck (v2)** | [🌐 Live](https://mxb.dev/) · [📂 Repo](https://github.com/maxboeck/mxb) | Eleventy, SCSS, Nunjucks |
+| <img src="https://user-images.githubusercontent.com/32214710/234838154-f087f7b0-ed0e-48ba-8602-ef07a25fb87b.png" width="200"/> | **Shahriar Shafin** | [🌐 Live](https://shahriarshafin.github.io/) · [📂 Repo](https://github.com/shahriarshafin/myportfolio) | React, Next.js, Tailwind CSS |
+| <img src="https://user-images.githubusercontent.com/53873209/234845892-15d64c4c-21f5-4f19-be5e-08229faadf93.png" width="200"/> | **Mukul Chugh** | [🌐 Live](https://mukulchugh.com/) | React, Next.js, Styled Components, Netlify |
+| <img src="https://user-images.githubusercontent.com/53873209/236575661-f156aa7c-fb93-4c16-8d48-11a60e263fb3.png" width="200"/> | **Vijay Verma** | [🌐 Live](https://vjy.me/) | NextJS, Styled Components, Vercel |
+| <img src="https://user-images.githubusercontent.com/53873209/236577676-9fcbcb5e-2302-4614-b16e-2fdd6743c4b7.png" width="200"/> | **Jhey Tompkins** | [🌐 Live](https://jhey.dev/) · [📂 Repo](https://github.com/jh3y/jhey.dev) | Sanity, Astro, Tailwind CSS, Netlify |
+| <img src="https://user-images.githubusercontent.com/53873209/236579586-63860bd8-5273-4005-818d-1b7e72b5d578.png" width="200"/> | **David Heckoff** | [🌐 Live](https://david-hckh.com/) | HTML, CSS, JavaScript, ThreeJS, GSAP, Howler.js |
+| <img src="https://user-images.githubusercontent.com/53873209/236580922-4da135d0-086d-4411-bfbf-60e573dbcb53.png" width="200"/> | **Ashish** | [🌐 Live](https://asrvd.me/) · [📂 Repo](https://github.com/asrvd/asrvd.me) | Next.js, tRPC, Tailwind CSS, TypeScript |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/b108472d-0197-45fb-be95-7e19a9a77a90" width="200"/> | **Robb Owen** | [🌐 Live](https://robbowen.digital/) | HTML, CSS, JavaScript, Netlify |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/dacfef81-f090-4f54-885f-c8baec247351" width="200"/> | **Josh Comeau** | [🌐 Live](https://www.joshwcomeau.com/) | NextJS, Styled Components, MDX, Framer Motion |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/d62f4726-71cf-4e7f-8b57-31f30309e89d" width="200"/> | **Charles Bruyerre** | [🌐 Live](https://itssharl.ee/) | NextJS, ThreeJS, PWA, Vercel |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/e3d9c014-7064-46fa-ab0b-73dce47a5490" width="200"/> | **Patrick David** | [🌐 Live](https://bepatrickdavid.com/) | HTML, CSS, jQuery, ThreeJS, GSAP |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/87669b84-c2c0-4418-9dac-8f471b1e327f" width="200"/> | **Seán Halpin** | [🌐 Live](https://www.seanhalpin.xyz/) | Svelte, SvelteKit, Vite, PWA, Node.js |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/2aac0726-8864-40ab-badc-d465e79e1060" width="200"/> | **Cyd Stumpel** | [🌐 Live](https://cydstumpel.nl/) | WordPress, PHP, ThreeJS, GSAP, Lenis |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/45c9a3bd-0168-418e-9119-5b5af0d4b01c" width="200"/> | **Tamal Sen** | [🌐 Live](https://tamalsen.dev/) | WordPress, Elementor, PHP, MySQL, Anime.js |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/f7a0669a-0ca9-45ba-b767-1eef42fa2eef" width="200"/> | **Aristide Benoist** | [🌐 Live](https://aristidebenoist.com/) | PHP, JavaScript, WebGL, AWS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/b7b78e82-233e-4ff7-ad1a-f38c96d3bf25" width="200"/> | **Abhishek Jha (v2)** | [🌐 Live](https://abhishekjha.me/) | HTML, CSS, JavaScript, GSAP, Locomotive Scroll |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/02b5bb02-d918-4770-bc69-eb904a5ea436" width="200"/> | **Robin Mastromarino** | [🌐 Live](http://robinmastromarino.com/) | HTML, CSS, JavaScript, WebGL, GSAP |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/53ea111b-7425-41b1-94bf-818dbfbbccfa" width="200"/> | **Lanre Adelowo** | [🌐 Live](https://lanre.wtf/) | NextJS, CSS Modules, GSAP, Vercel |
+| <img src="https://github.com/priincemuhammad/portfolio-ideas/assets/53873209/edcfcbca-7f71-4ec8-ae23-ee4ce0b1960e" width="200"/> | **Prince Muhammad** | [🌐 Live](https://princemuhammad.pro) | JavaScript, React.js, Next.js, TailwindCSS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/b7a9401f-de19-457a-8819-5a5b447ff7f0" width="200"/> | **Victor Adeniji** | [🌐 Live](https://codevickk.com/) | Nuxt.js, Vue.js, GSAP, Netlify, Lenis |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/111948881/e6ba8f70-9b7c-41f6-889f-3af1255186ac" width="200"/> | **Kaung Myat Kyaw** | [🌐 Live](https://barry121.vercel.app/) · [📂 Repo](https://github.com/Rhaegar121/Portfolio) | ReactJS, ThreeJS, TailwindCSS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/e41e2220-1b2e-48c1-ae91-2ab341d5c643" width="200"/> | **Eliaz LR (v3)** | [🌐 Live](https://eliaz-lr.dev/) · [📂 Repo](https://github.com/Eliaz-LR/portfolio-v3) | Astro, TailwindCSS, Vue, DaisyUI |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/ae9e69b5-4ced-44d4-9cdc-0e5a53d139b1" width="200"/> | **Danny Johnson** | [🌐 Live](https://www.mrdannyjohnson.co.uk/) | Astro, Vue, Sanity, Tailwind CSS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/e91365c8-2150-4198-8222-6a2cd69bbae4" width="200"/> | **Wahid Ali** | [🌐 Live](https://www.wahidali.dev/) · [📂 Repo](https://github.com/Aliwahid17/portfolio) | Svelte, Tailwind CSS, TypeScript |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/99004662/7285c0e2-1929-467a-aba6-324e007a1289" width="200"/> | **Deepanshu Mehra** | [🌐 Live](https://deeshu2002.github.io/folio) · [📂 Repo](https://github.com/deeshu2002/folio) | HTML, CSS, TypeScript, Vite, PWA |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/343a246e-625b-4bb4-b637-5d905ce8d5cc" width="200"/> | **Brian Lovin** | [🌐 Live](https://brianlovin.com/) · [📂 Repo](https://github.com/brianlovin/briOS) | NextJS, TypeScript, Tailwind CSS, Prisma |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/5d0aac86-0fbc-46ac-8020-655b2f60b544" width="200"/> | **Pritish Samal** | [🌐 Live](https://pritishsamal.com/) · [📂 Repo](https://github.com/CIPHERTron/portfolio-v2) | Next.js, TypeScript, Emotion, Chakra UI |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/5a58f6df-2240-42ca-b5d5-b96f0d0180fd" width="200"/> | **Sandeep Kumar** | [🌐 Live](https://eternalfrustation.github.io/) · [📂 Repo](https://github.com/eternalfrustation/eternalfrustation.github.io) | HTML, CSS, JavaScript |
+| <img src="https://github.com/mikeliuu/portfolio-ideas/assets/62628408/58e8d844-6532-4d73-9627-336fc2a01bbb" width="200"/> | **Mike Liu** | [🌐 Live](https://mikeliuu.com) · [📂 Repo](https://github.com/mikeliuu/mikeliuu.com) | NextJS, TypeScript, Tailwind CSS |
+| <img src="https://github.com/multikitty/portfolio-ideas/assets/124760226/01f1ef98-e12c-4a96-9858-4f8d51197bb1" width="200"/> | **Bryan Smith** | [🌐 Live](https://multikitty.onrender.com) · [📂 Repo](https://github.com/multikitty/multikitty.github.io) | HTML, CSS, JavaScript |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/d492f655-73eb-4872-867e-b34e3661e558" width="200"/> | **Goodness Urama** | [🌐 Live](https://www.goodie.work/) · [📂 Repo](https://github.com/GoodyBoy301/goodie.work) | Pug, SCSS, ThreeJS, GSAP |
+| <img src="https://github.com/plskz/portfolio-ideas/assets/57343545/4103d08e-5bf9-43a5-a9fa-ce71a23dd213" width="200"/> | **Zai Santillan** | [🌐 Live](https://plskz-me.vercel.app/) · [📂 Repo](https://github.com/plskz/plskz.me) | NextJS, TypeScript, Tailwind CSS, DaisyUI |
+| <img src="https://iili.io/HsLAPxS.png" width="200"/> | **Ashutosh Hathidara** | [🌐 Live](https://ashutoshhathidara.com/#/) · [📂 Repo](https://github.com/ashutosh1919/masterPortfolio) | HTML5, CSS3, React, NextJS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/de551710-fc61-48d2-bf70-e8188fa50ef7" width="200"/> | **Syed Moshin** | [🌐 Live](https://opensource-portfolio.netlify.app/) · [📂 Repo](https://github.com/devsyedmohsin/portfolio-template) | HTML5, CSS3, JavaScript |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/8a822da5-d22a-4515-9182-ba76d8a56d9a" width="200"/> | **David Angulo** | [🌐 Live](https://www.davidangulo.xyz/) · [📂 Repo](https://github.com/dcangulo/davidangulo.xyz) | HTML, Jekyll, Ruby, Bootstrap |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/61952924/282461b4-b8e6-4c12-8143-97a6cd0b7973" width="200"/> | **George Christeas** | [🌐 Live](https://chr-ge.com/) · [📂 Repo](https://github.com/chr-ge/chr-ge.com) | Next.js, Typescript, ChakraUI |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/cef888f0-0685-4a4b-9b2c-954c44d251d6" width="200"/> | **Julien Thême** | [🌐 Live](https://julien-theme.dev/) · [📂 Repo](https://github.com/ZIRTR0X/PersonalWebsite) | Angular, TailwindCSS, ThreeJs |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/767d8333-d3a1-4d77-bb7f-c280fad725e2" width="200"/> | **Shubh Porwal** | [🌐 Live](https://www.shubhporwal.me/) · [📂 Repo](https://github.com/shubh73/devfolio) | NextJS, ReactJS, Tailwind CSS, GSAP |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/7e3433b9-ea01-49dc-b425-80aeead6020e" width="200"/> | **Ross Moody** | [🌐 Live](https://rossmoody.com/) · [📂 Repo](https://github.com/rossmoody/rossmoody.com) | Next.js, Chakra UI, TypeScript, MDX |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/edac77d4-f8a1-4eee-a5ee-7d4d1b2e77fa" width="200"/> | **Rémy Beumier** | [🌐 Live](https://remybeumier.be/) · [📂 Repo](https://github.com/beumsk/beumsk.github.io) | Next.js, Sass, MDX, AOS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/064f34ec-f7d3-4ede-814f-7f3db6c6e5ea" width="200"/> | **Anirban Das** | [🌐 Live](https://www.anirbandas.in/) · [📂 Repo](https://github.com/anirban12d/portfolio-2023) | Qwik, React, Tailwind CSS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/2012a0e7-39b8-4b0e-8b60-238d0adbe70a" width="200"/> | **Rafael Santana** | [🌐 Live](https://www.rafaelsantana.dev/) · [📂 Repo](https://github.com/rafalmeida73/portfolio) | Next.js, Material UI, TypeScript |
+| <img src="https://iili.io/HZQmPrg.png" width="200"/> | **Apoorv Maurya** | [🌐 Live](https://apoorv.onrender.com) · [📂 Repo](https://github.com/apoorvmaurya/portfolio) | HTML, CSS, JavaScript |
+| <img src="https://github.com/Sumonta056/portfolio-ideas/assets/61287791/6d35e046-87a0-45d3-84bd-7bcef01457c4" width="200"/> | **Sumonta Saha Mridul** | [🌐 Live](https://sumonta056.github.io/) · [📂 Repo](https://github.com/Sumonta056/sumonta056.github.io) | HTML5, CSS3, JavaScript |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/62628408/9c699df8-ce14-424d-9487-89e669e04470" width="200"/> | **Daniel Coyula** | [🌐 Live](https://portfolio.dctech.dev/) | Flutter |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/48273777/3bad2960-691a-4e17-bdd4-cc23420ee616" width="200"/> | **Shaan Alam** | [🌐 Live](https://shaanalam.vercel.app) · [📂 Repo](https://github.com/shaan-alam/shaanalam) | NextJS, Tailwind, TypeScript, Hygraph |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/00d7480e-215d-4bb4-b908-9640bb0d4066" width="200"/> | **Gregory Koberger** | [🌐 Live](https://gkoberger.com/) | VueJS, GSAP, NodeJS, Express |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/496ec2ba-bf6a-4e70-8429-b8bef5b8620d" width="200"/> | **Monica Powell** | [🌐 Live](https://aboutmonica.com/) | Gatsby, Emotion, Netlify |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/b971f784-3ee4-4462-9084-079a396e64de" width="200"/> | **Ismoilbek Ilxomov** | [🌐 Live](https://ismail.uz/) | NextJS, TailwindCSS, Netlify |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/26b59251-71ba-483a-9d52-b7676785f502" width="200"/> | **Kehinde Omopariola** | [🌐 Live](https://www.pariola.dev) · [📂 Repo](https://github.com/Pariola-droid/pariola-v2.2.0) | NextJS, Typescript, SASS, Motion One |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/109647722/6e85696e-5729-48a9-a7db-bd849d6e2a8c" width="200"/> | **Shivam Gupta** | [🌐 Live](https://the-shivam-gupta.github.io/) · [📂 Repo](https://github.com/the-shivam-gupta/the-shivam-gupta.github.io) | HTML, CSS, JS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/40613276/b357a709-a2ce-49bc-a056-e5f74c99fb1f" width="200"/> | **Mateus Felipe Gonçalves** | [🌐 Live](https://mateusf.com) · [📂 Repo](https://github.com/mateusfg7/mateusf.com) | Next.js, Typescript, Tailwindcss, Contentlayer, MDX |
+| <img src="https://github.com/asigdel29/portfolio-ideas/assets/64096825/c13fc47d-e691-463d-8936-632e0af9baf9" width="200"/> | **Anubhav Sigdel** | [🌐 Live](https://anubhavsigdel.vercel.app/) · [📂 Repo](https://github.com/asigdel29/portfolio) | HTML, CSS, JS |
+| <img src="https://github.com/Krish-Depani/portfolio-ideas/assets/72994417/d7790172-3d17-4fdb-8e52-2ec5daed7c3c" width="200"/> | **Krish Depani** | [🌐 Live](https://krish-depani.vercel.app/) · [📂 Repo](https://github.com/Krish-Depani/Portfolio-Website) | HTML & CSS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/14372275/4a43c677-feaf-42e1-a606-b4b5aef7e1c2" width="200"/> | **Bona Brian Siagian** | [🌐 Live](https://bonabrian.com) · [📂 Repo](https://github.com/bonabrian/bonabrian.com) | Typescript, NextJs, TailwindCSS, Prisma, Contentlayer |
+| <img src="https://github.com/SofiDevO/portfolio-ideas/assets/102200061/8bf597fe-dda0-441d-825e-fdb3c4b8bacd" width="200"/> | **SofiDev** | [🌐 Live](https://itssofi.dev/) · [📂 Repo](https://github.com/SofiDevO/sofidev-portfolio-astro) | Astro, CSS, Javascript, React |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/d63c7678-8a69-414a-95a9-05d59d76d231" width="200"/> | **Sadee** | [🌐 Live](https://codewithsadee.github.io/vcard-personal-portfolio/) · [📂 Repo](https://github.com/codewithsadee/vcard-personal-portfolio) | HTML, CSS, JavaScript |
+| <img src="https://iili.io/Jq54yTF.png" width="200"/> | **Emmanuel Nsikan-david** | [🌐 Live](https://nsikandavid.dev) | ReactJS, CSS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/62628408/11ba04d1-5562-464c-aa80-3089902dc9c7" width="200"/> | **Cruip** | [🌐 Live](https://preview.cruip.com/devspace/) | Alpine.JS, Tailwind CSS, Chartjs |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/122960451/1c885444-a588-4ed1-87ab-19e4bb6c05ab" width="200"/> | **Dev Khandelwal** | [🌐 Live](https://slyro.vercel.app/) · [📂 Repo](https://github.com/khandelwaldev/dev) | Next.JS, Tailwind CSS, MDX |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/c0e4d617-3285-4ae5-bc8e-ec73b007a00f" width="200"/> | **Skifli** | [🌐 Live](https://skifli.github.io/) · [📂 Repo](https://github.com/skifli/skifli.github.io) | HTML, CSS, JavaScript |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/4117920/466f86cd-ae24-454f-924b-5af6d419b5f6" width="200"/> | **Eva Decker** | [🌐 Live](https://evadecker.com) · [📂 Repo](https://github.com/evadecker/evadecker.com) | Astro, React, TypeScript, Framer Motion |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/ec76028c-0487-4a40-9919-5bded7b391f7" width="200"/> | **Guglielmo Cerri** | [🌐 Live](https://guglielmocerri.github.io) · [📂 Repo](https://github.com/GuglielmoCerri/GuglielmoCerri.github.io) | HTML, CSS, JavaScript |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/462f6725-9c96-4d0f-be1c-ce27d9c782ad" width="200"/> | **Wisnu Wicaksono** | [🌐 Live](https://wiscaksono.com/) · [📂 Repo](https://github.com/wiscaksono/wiscaksono-site) | Nextjs, Tailwind CSS, MDX, Next Auth |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/49512755/c9a8959f-487c-4ad0-8003-27ed52aa00ed" width="200"/> | **Emmanuel Alabi** | [🌐 Live](https://emmanuelalabi.vercel.app/) | HTML, TailwindCSS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/1b1b4e1f-ad4f-4815-9449-8bd0d71570d2" width="200"/> | **Zaher Al Majed** | [🌐 Live](https://zaher.design/) | React, TypeScript, NextJS, TailwindCSS |
+| <img src="https://github.com/ShivaniYadav07/portfolio-ideas/assets/134120753/b816ca70-c4b8-4e32-8c82-1b7cf2f03295" width="200"/> | **Shivani Yadav** | [🌐 Live](https://shivaniyadav.online) · [📂 Repo](https://github.com/ShivaniYadav07/Portfolio) | React, TypeScript, ParticleJS, SCSS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/69ad4ade-73e3-4dd5-bacd-ad4c326a1d08" width="200"/> | **Matthias Kretschmann (v2)** | [🌐 Live](https://matthiaskretschmann.com/) · [📂 Repo](https://github.com/kremalicious/portfolio) | NextJS, TypeScript, CSS Modules |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/563a8446-1886-41d1-8954-999023d3d7b7" width="200"/> | **Le Vinh Khang** | [🌐 Live](https://levinhkhang.org/) · [📂 Repo](https://github.com/levinhkhangzz/personal-website) | NextJS, TailwindCSS, React |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/e83f0004-b7c9-4a50-9c79-e2299e5fa864" width="200"/> | **Ali Imam** | [🌐 Live](https://www.aliimam.in/) · [📂 Repo](https://github.com/aliimam-in/aliimam) | NextJS, TailwindCSS, React, Lenis |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/f4f03d80-b602-4598-bb52-659f49ea2fc1" width="200"/> | **Ahmed Amer** | [🌐 Live](https://tammura.com/) | NextJS, TailwindCSS, Vercel, Cloudflare |
+| <img src="https://raw.githubusercontent.com/AlpayC/portfolio_site/main/fullpage.png" width="200"/> | **Alpay Celik** | [🌐 Live](https://alpaycelik.dev/) · [📂 Repo](https://github.com/AlpayC/portfolio_site) | NextJS, TailwindCSS, Typescript, Framer Motion |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/96303710/09a844b7-ec18-4ce7-97b9-a9fa17a6f4d2" width="200"/> | **Hanaia Youcef** | [🌐 Live](https://poysa213.me/) · [📂 Repo](https://github.com/poysa213/portfolio) | Typescript, NextJS, TailwindCSS, Framer Motion |
+| <img src="https://github.com/Jaber-Saed/portfolio-ideas/assets/92320333/840a4a26-325f-44ca-b6b6-01c348f046b1" width="200"/> | **Jaber Said** | [🌐 Live](https://jaber.dev) · [📂 Repo](https://github.com/Jaber-Saed/3d-protfoluo) | React JS, Tailwind CSS, Three JS |
+| <img src="https://github.com/RahulKRaj7/portfolio-ideas/assets/113328473/689fec1a-dd19-42d5-986c-965a8893d9cd" width="200"/> | **Xiaohan Zou** | [🌐 Live](https://portfolio.zxh.me/) · [📂 Repo](https://github.com/Renovamen/playground-macos) | React JS, Zustand, UnoCSS, Typescript, Vite |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/81293286/c5993193-de95-4289-bba6-ba47e30a9c7f" width="200"/> | **Manh Hung Dao** | [🌐 Live](https://age-of-23.vercel.app/) · [📂 Repo](https://github.com/mahhung12/AgeOf23) | Nextjs, MDX, Tailwind CSS, TypeScript |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/91041570/fce4f9d4-80d9-48b3-b439-bade2f671d95" width="200"/> | **CuB3y0nd** | [🌐 Live](https://cubeyond.net) · [📂 Repo](https://github.com/CuB3y0nd/cubeyond.net) | Nextjs, MDX, Tailwind CSS, TypeScript |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/89737291/32e7df8d-9c05-4110-9716-abe98699fa56" width="200"/> | **Baraa Alshaer** | [🌐 Live](https://alshaer.vercel.app/) · [📂 Repo](https://github.com/balshaer/alshaer) | React JS, Typescript, Shadcn ui, Tailwind CSS |
+| <img src="https://github.com/sameerasw/portfolio-ideas/assets/68902530/795476a2-f048-49d9-9ce1-74e5abfa9269" width="200"/> | **Sameera Sandakelum** | [🌐 Live](https://sameerasw.com/) · [📂 Repo](https://github.com/sameerasw/sameerasw.com) | HTML, CSS, Javascript, Netlify |
+| <img src="https://github.com/MoonbamiOfficial/portfolio-ideas/assets/141120384/bba11386-7807-486d-95e2-39eee7bb89fd" width="200"/> | **Jam Moonbami** | [🌐 Live](https://moonbamiofficial.vercel.app) · [📂 Repo](https://github.com/MoonbamiOfficial/dev-portfolio) | Next.js, Node.js, React, Tailwind CSS, MongoDB |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/102221198/c08ac4bc-f5d9-4115-89c9-e31f244428e2" width="200"/> | **Asharib Ali** | [🌐 Live](https://cv.asharib.xyz/) · [📂 Repo](https://github.com/AsharibAli/cv) | Next.js, React, Typescript, Shadcn/ui, Tailwind CSS |
+| <img src="https://github.com/user-attachments/assets/56e4856f-76c6-4676-93dc-db43e0a87f0e" width="200"/> | **MAHG** | [🌐 Live](https://mahg.me) · [📂 Repo](https://github.com/mahg0899/mahg) | NextJS, React, Typescript, TailwindCSS, Payload |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/62628408/8834605e-e1b1-47a9-8fea-ad6886ded87e" width="200"/> | **Sunidhi Singh** | [🌐 Live](https://sunidhi-singh.netlify.app/) · [📂 Repo](https://github.com/sunidhi014) | HTML, CSS, JavaScript |
+| <img src="https://github.com/DhairyaMajmudar/portfolio-ideas/assets/124715224/51942f9f-adc8-43e9-ae02-c0009ca3ea4f" width="200"/> | **Dhairya Majmudar** | [🌐 Live](https://dhaiyra-majmudar.netlify.app) · [📂 Repo](https://github.com/DhairyaMajmudar/Personal-Portfolio) | React, Tailwind, Material UI |
+| <img src="https://github.com/user-attachments/assets/4368c812-656e-457a-abbc-7ce290111fa2" width="200"/> | **Jay Bhavsar** | [🌐 Live](https://jay.is-savvy.dev) · [📂 Repo](https://github.com/jbhv12/portfolio) | Vue, Gridsome, Tailwind CSS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/52591976/7d91285a-0e1e-4f2c-8c59-c0c33ce61092" width="200"/> | **Siyana Zdravkova** | [🌐 Live](https://bluebutterflies.github.io/professionalportfolio/) · [📂 Repo](https://github.com/BlueButterflies/professionalportfolio) | React JS, Bootstrap |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/75837854/35c37ffc-3ad2-4a76-823e-b4d5158306db" width="200"/> | **Anshul Gora** | [🌐 Live](https://anshulwork.netlify.app/) | ReactJs, Bootstrap, Vanilla CSS |
+| <img src="https://github.com/adambornrepo/portfolio-ideas/assets/121860189/17eb33c3-27a1-409a-8342-9ff9d38e25ca" width="200"/> | **Dogan Merden** | [🌐 Live](https://doganmerden.vercel.app/) | Next.js, TypeScript, Tailwind CSS, Framer Motion |
+| <img src="https://github.com/user-attachments/assets/04365cb8-c2dc-45e2-9ad5-ca683c4b90e2" width="200"/> | **Ibrahim Sadik Tamim** | [🌐 Live](https://tam11a.dev) · [📂 Repo](https://github.com/tam11a/tam11a.dev) | NextJS, TypeScript, TailwindCSS, Framer, GSAP |
+| <img src="https://github.com/user-attachments/assets/33675b3c-19bb-44d4-9218-7180d66b1184" width="200"/> | **Dipesh Murmu** | [🌐 Live](https://dipeshmurmu.com.np/) | Tailwind, Alpine, Laravel, Livewire |
+| <img src="https://github.com/akshaytalanki19/portfolio-ideas/assets/110332292/4598f249-9847-4f7e-87ca-05f8f864dce1" width="200"/> | **Akshay Kumar** | [🌐 Live](https://akshaytalanki.netlify.app/) · [📂 Repo](https://github.com/akshaytalanki19/portfolio) | HTML, CSS, JavaScript |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/56866152/a2389222-c8f0-4c0f-ae10-472cd7b6f5a0" width="200"/> | **Pieter-Jan Scheir** | [🌐 Live](https://www.pieterjanscheir.com/) | React/Next.js, Typescript, Tailwindcss |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/1ebb8e46-9ae2-46fb-a151-190cc1bfdf23" width="200"/> | **Huy Nguyen** | [🌐 Live](https://www.huyng.xyz/) | React.js, TailwindCSS, GSAP, Lenis |
+| <img src="https://github.com/anshulsoni2010/adding-my-portfolio-ideas/assets/102960277/875d5d3d-d235-422a-ab52-abe2d5f73f2e" width="200"/> | **Anshul Soni** | [🌐 Live](https://www.anshulsoni.in/) · [📂 Repo](https://github.com/anshulsoni2010/portfolio-website) | HTML, CSS, JavaScript |
+| <img src="https://github.com/DaveSimoes/portfolio-ideas/assets/109705197/f4ba1b4c-bf4b-4104-addd-b5cecde3cb94" width="200"/> | **David Simoes** | [🌐 Live](https://davesimoesportfolio.netlify.app/) · [📂 Repo](https://github.com/DaveSimoes/Developer.Portfolio) | HTML, CSS, JavaScript |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/58448036/aad39399-a3cf-447c-94e9-6b547dbb2fcb" width="200"/> | **Saahil Dutta** | [🌐 Live](https://saahild.com/) · [📂 Repo](https://github.com/NeonGamerBot-QK/saahild.com) | Reactjs |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/67eba3f4-2e1c-423f-a486-34975df32aaa" width="200"/> | **Moshood Sanusi** | [🌐 Live](https://www.olawale.dev/) | ReactJS, TailwindCSS, GSAP |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/8f59ccd6-19c0-4405-89aa-0885b38a39f0" width="200"/> | **MD Affan Asghar** | [🌐 Live](https://affancoder.github.io/Portfolio_Website/) · [📂 Repo](https://github.com/affancoder/Portfolio_Website) | HTML, CSS, JavaScript |
+| <img src="https://github.com/muhammadnaeemtahir/portfolio-ideas/assets/95528641/f38155ca-b531-45e4-b9f4-f89882d1efee" width="200"/> | **Muhammad Naeem Tahir** | [🌐 Live](https://muhammadnaeemtahir.github.io/) · [📂 Repo](https://github.com/muhammadnaeemtahir/muhammadnaeemtahir.github.io) | HTML, CSS, JavaScript, Bootstrap |
+| <img src="https://github.com/code-lover636/portfolio-ideas/assets/77882744/3fc8e8fd-be7d-49c5-aa7e-05bd5b77947c" width="200"/> | **Aravind Ashokan** | [🌐 Live](https://aravindashokan.tech) · [📂 Repo](https://github.com/code-lover636/aravindashokan) | ReactJS, CSS(SASS), Framer Motion |
+| <img src="https://github.com/Moinak-Majumdar/portfolio-ideas/assets/99950805/4949bcb5-6712-45a2-9e10-6f458ffb1fb6" width="200"/> | **Moinak Majumdar** | [🌐 Live](https://moinak05.vercel.app/) · [📂 Repo](https://github.com/Moinak-Majumdar/portfolio) | Next.js, TypeScript, Framer Motion |
+| <img src="https://github.com/SirSaleh/portfolio-ideas/assets/7755345/a74dc18f-5739-4673-bb47-2b0c408059d9" width="200"/> | **Saleh Salehizadeh** | [🌐 Live](https://sirsaleh.github.io/Portfolio/) · [📂 Repo](https://github.com/SirSaleh/Portfolio) | Nextjs, Tailwind CSS, TypeScript |
+| <img src="https://github.com/VijayKumarReddyTalakola/portfolio-ideas/assets/109469574/c75a54c9-4f3b-47a3-920b-3da9f82ccb1c" width="200"/> | **Vijay Kumar Reddy Talakola** | [🌐 Live](https://talakolavijay.vercel.app/) · [📂 Repo](https://github.com/VijayKumarReddyTalakola/MyPortFolio) | Reactjs, Tailwind CSS, AOS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/219370ad-c82b-43bc-a319-35d00dcf9b61" width="200"/> | **Nisarg Kavi** | [🌐 Live](https://www.nisargkavi.in/) | Nextjs, Tailwind CSS, Framer Motion, AnimeJS |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/53873209/1724a180-1647-42cd-977e-161d8ed94418" width="200"/> | **Malik Naik** | [🌐 Live](https://www.maliknaik.me/) | HTML, CSS, Bootstrap, JavaScript |
+| <img src="https://github.com/KDGehlot2003/portfolio-ideas/assets/97123008/0dadbdb3-2d5b-42dc-8c6f-5af25bc94fcb" width="200"/> | **Kshitij Gehlot** | [🌐 Live](https://kdgehlot2003.github.io/Portfolio/) · [📂 Repo](https://github.com/KDGehlot2003/Portfolio) | HTML, CSS, Bootstrap, JavaScript |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/136550624/7a307c24-fa55-44b5-bcc2-c8997bb0f210" width="200"/> | **Johnson Takashi** | [🌐 Live](https://johnson-takashi-blockchain.web.app/) · [📂 Repo](https://github.com/John-T45/John-T45.github.io) | HTML, CSS, Bootstrap, JavaScript |
+| <img src="https://github.com/Shivaraj-Kolekar/portfolio-ideas/assets/87165724/c838dc19-b23e-413b-83ae-e43211e87a5f" width="200"/> | **Shivaraj Kolekar** | [🌐 Live](https://shivaraj-portfolio.vercel.app/) · [📂 Repo](https://github.com/Shivaraj-Kolekar/portfolio) | HTML, TailwindCSS, Javascript |
+| <img src="https://i.ibb.co/5hmF1ch/Screenshot-2024-06-27-124604.png" width="200"/> | **Shubham Gaur** | [🌐 Live](https://shubhamessier.github.io/portfolio) · [📂 Repo](https://github.com/shubhamessier/portfolio) | HTML, CSS, JavaScript |
+| <img src="https://github.com/Evavic44/portfolio-ideas/assets/108562866/2421d6e6-0053-4714-8009-ffa90223353a" width="200"/> | **Atijosan Iyanuoluwa** | [🌐 Live](https://iyanu-codes-v1.vercel.app/) · [📂 Repo](https://github.com/Iyanu1396) | ReactJS, TailwindCSS |
+| <img src="https://github.com/mahmoudgx/portfolio-ideas/assets/21027024/bac949d7-b209-424c-ace6-a57d067509c1" width="200"/> | **Mahmoud Ibrahim** | [🌐 Live](https://mahmoudibrahim.me) | React, Strapi, Bootstrap, TypeScript |
+| <img src="https://github.com/user-attachments/assets/5915dab8-54cb-43b8-b847-b96bff570409" width="200"/> | **Archit Agrawal** | [🌐 Live](https://archit-agrawal-portfolio.vercel.app/) · [📂 Repo](https://github.com/ArchitAgrawal25/Portfolio) | HTML, CSS, JavaScript |
+| <img src="https://github.com/user-attachments/assets/e8213586-99b9-435a-ac9f-7335fc3dcae3" width="200"/> | **Vaishnavi Shelke** | [🌐 Live](https://vsp-portfolio.netlify.app) · [📂 Repo](https://github.com/vaishnavishelke2021/Portfolio-Website) | HTML, CSS, Bootstrap, Netlify |
+| <img src="https://github.com/user-attachments/assets/1897df67-24c7-418c-b96b-57d5b94b7e3b" width="200"/> | **Timothy Klint** | [🌐 Live](https://tjklint.github.io) · [📂 Repo](https://github.com/tjklint/tjklint.github.io) | React, TypeScript, SASS |
+| <img src="https://github.com/user-attachments/assets/310d061d-ba72-45dd-b18f-32ca7536dab7" width="200"/> | **Pravin Mane** | [🌐 Live](https://www.pravinmane.com/) · [📂 Repo](https://github.com/pravinmane1/Portfolio) | Angular, HTML, SCSS, TypeScript |
+| <img src="https://github.com/user-attachments/assets/0008dca1-ade4-4baa-bb07-541efe93a824" width="200"/> | **yuxxeun** | [🌐 Live](https://yuxxeun.xyz) · [📂 Repo](https://github.com/yuxxeun) | Next.js, Tailwind, Supabase, Vercel |
+| <img src="https://github.com/user-attachments/assets/209954b3-0a7a-422a-b3ff-71178126d8cb" width="200"/> | **Shivam Javiya** | [🌐 Live](https://shivamjaviya.netlify.app/) · [📂 Repo](https://github.com/ShivamJaviya/Shivam_Portfolio) | HTML, CSS, JS |
+| <img src="https://github.com/user-attachments/assets/47417aec-3674-4e02-a459-2635bfee76e4" width="200"/> | **Krishnakumar Valliappan** | [🌐 Live](https://www.krishnakumar.dev/) · [📂 Repo](https://github.com/krishnavalliappan/portfolio-website) | Next.js, Framer, TypeScript, TailwindCSS, shadcn/ui |
+| <img src="https://github.com/user-attachments/assets/59df372f-c338-4410-8b23-af2b21ffd705" width="200"/> | **Gokul Raja** | [🌐 Live](https://gokul-raja84.github.io/) · [📂 Repo](https://github.com/Gokul-Raja84/gokul-raja84.github.io) | React, styled-components, GraphQL |
+| <img src="https://github.com/user-attachments/assets/8d323b25-452e-4541-8120-34f9e8868211" width="200"/> | **Abdelrahman Ahmed** | [🌐 Live](https://abdalrahman.tech) · [📂 Repo](https://github.com/AB-DALRAHM-AN) | Next.js, TypeScript, TailwindCss, Shadcn/ui, Notion |
+| <img src="https://github.com/user-attachments/assets/7bb42754-c642-4031-98a2-f3cf12351947" width="200"/> | **Ghulam Ahmed** | [🌐 Live](https://gahmed.com) · [📂 Repo](https://github.com/theghulam) | Astro, Solid.js, TypeScript, TailwindCSS |
+| <img src="https://github.com/user-attachments/assets/ebc39e5e-4cf5-4852-8649-81a41a772130" width="200"/> | **Carson Spriggs** | [🌐 Live](https://carsonsgit.github.io/) · [📂 Repo](https://github.com/carsonSgit/carsonsgit.github.io) | React, TypeScript, SCSS |
+| <img src="https://github.com/user-attachments/assets/a9fe6bee-fe62-4275-8078-cc0dcbff4957" width="200"/> | **Nicholas Gannon** | [🌐 Live](https://nicholasgannon.io/) · [📂 Repo](https://github.com/NicholasGannon/Portfolio) | HTML, TailwindCSS, JavaScript |
+| <img src="https://github.com/user-attachments/assets/1d84ec41-2003-4dbf-a147-0bf6e557464c" width="200"/> | **Chung Nguyen Thanh** | [🌐 Live](https://chunhthanhde.github.io) · [📂 Repo](https://github.com/chunhthanhde) | Flutter, Dart, Github Pages |
+| <img src="https://github.com/user-attachments/assets/40998efa-1242-4a34-bbd0-0c8f52bae569" width="200"/> | **Babatunde Afreka** | [🌐 Live](https://bafrekauiux.framer.website/) | Framer, React |
+| <img src="https://github.com/user-attachments/assets/04257cca-db69-4917-97c0-6e8d44d8599c" width="200"/> | **LNLenost** | [🌐 Live](https://lnlenost.netlify.app/) · [📂 Repo](https://github.com/LNLenost/lnlenost.github.io) | HTML, SASS, JavaScript |
+| <img src="https://github.com/user-attachments/assets/a2eee35e-c4d9-40e0-b426-97173a921888" width="200"/> | **Shivam Panchal** | [🌐 Live](https://shivampanchal.vercel.app/) | ReactJS, CSS |
+| <img src="https://github.com/user-attachments/assets/a84c4d58-5d4b-4750-aecc-1111c13c4f8d" width="200"/> | **Mariya Baig** | [🌐 Live](https://mariyabaig.vercel.app/) | NextJS, TailwindCSS |
+| <img src="https://github.com/user-attachments/assets/2eeb3d2a-47b4-4646-ae43-3205558c2077" width="200"/> | **Ketuman Vishwakarma** | [🌐 Live](https://k2maan.vercel.app/) | NextJS, TailwindCSS |
+| <img src="https://github.com/user-attachments/assets/e9f4789e-0544-4294-873b-1b46d980acbe" width="200"/> | **Adeola Badero** | [🌐 Live](https://adeolabadero.vercel.app) · [📂 Repo](https://github.com/adex-hub/ade-folio) | Nextjs, Tailwind CSS, TypeScript, Framer Motion |
+| <img src="https://github.com/user-attachments/assets/45d52df4-fa11-40e5-a99a-366af986a7b5" width="200"/> | **Tanuj Chakraborty** | [🌐 Live](https://iamtj.dev) · [📂 Repo](https://github.com/i-am-tj/iamtj.dev) | React, Next.js, TypeScript, Tailwind CSS |
+| <img src="https://github.com/user-attachments/assets/dae45cc1-2a79-44de-9166-df645d9314ec" width="200"/> | **Akshay** | [🌐 Live](https://devakshay.vercel.app) · [📂 Repo](https://github.com/Akshayp2002) | Angular, TypeScript, Tailwind CSS, Flowbite |
+| <img src="https://github.com/user-attachments/assets/ab2ffdbe-bf3b-459f-97f5-621754bc8699" width="200"/> | **Hari Thatikonda** | [🌐 Live](https://thughari.github.io) · [📂 Repo](https://github.com/thughari/thughari.github.io) | HTML, CSS, JS, Google Sheets |
+| <img src="https://github.com/user-attachments/assets/d369bb33-81e1-469d-b8ea-5e815f44683a" width="200"/> | **Sawad** | [🌐 Live](https://sawad.framer.website/) | Framer |
+| <img src="https://github.com/user-attachments/assets/174443cc-d0fe-4d0c-85d8-7e1a11e1d861" width="200"/> | **Carlos Dubón** | [🌐 Live](https://carlosdubon.dev) | Next.js 14, TailwindCSS, TypeScript, Framer Motion |
+| <img src="https://github.com/user-attachments/assets/6a3b25ec-04c0-4ef0-94a8-3ad0eded5820" width="200"/> | **Umesh Nagare** | [🌐 Live](https://umeshnagare.com) · [📂 Repo](https://github.com/Algoture/PortFolio) | Next.js, Tailwind, Framer Motion |
+| <img src="https://github.com/user-attachments/assets/d89bdcc9-af16-4238-8cfa-4404182aae0c" width="200"/> | **Muhammad Essa** | [🌐 Live](https://muhammadessa.vercel.app/) · [📂 Repo](https://github.com/imuhammadessa) | React.js, Next.js, Tailwind, MUI |
+| <img src="https://github.com/user-attachments/assets/b838cec5-83ea-438d-8cf7-78ffd2e50794" width="200"/> | **Farouk Mustapha** | [🌐 Live](https://devfarouk.vercel.app/) · [📂 Repo](https://github.com/Farouk-ayo/devfarouk) | NextJs, Typescript, TailwindCSS, AOS |
+| <img src="https://github.com/user-attachments/assets/259f8197-9aa6-4e18-a2ed-0f81de07106f" width="200"/> | **Sachin Desai** | [🌐 Live](https://sachindesai.in) · [📂 Repo](https://github.com/sachind3/finalportfolio) | Next Js 14, Tailwind CSS, GSAP, Locomotive Scroll |
+| <img src="https://github.com/user-attachments/assets/dbe29f36-a04f-4305-92e6-2b36b84fdc4a" width="200"/> | **Rauliqbal** | [🌐 Live](https://rauliqbal.vercel.app/) | Next JS, TypeScript, Tailwind CSS, Framer Motion |
+| <img src="https://github.com/user-attachments/assets/6cbdefb3-a96f-47f3-80f1-d4ec55071cf5" width="200"/> | **Chun-Ho (Hugo) Lin** | [🌐 Live](https://1chooo.com/) · [📂 Repo](https://github.com/1chooo/1chooo.com) | ReactJS, Next.js, TypeScript |
+| <img src="https://github.com/user-attachments/assets/b5b35fc7-89cd-4439-9fb1-802622e3ac2f" width="200"/> | **Priyanshu Tiwari** | [🌐 Live](https://priyanshu-tiwari.vercel.app/) · [📂 Repo](https://github.com/priyanshtiwari001/portfolio) | NextJS, TailwindCSS, TypeScript, ThreeJS |
+| <img src="https://github.com/user-attachments/assets/efb56504-c4bf-460b-a92d-d5caabe67b59" width="200"/> | **Durgesh** | [🌐 Live](https://yodkwtf.com/) · [📂 Repo](https://github.com/yodkwtf/yodkwtf.com) | ReactJS, CSS, Context API, Airtable CMS |
+| <img src="https://github.com/user-attachments/assets/360b7613-349f-4b97-bfaa-f7a491e0024d" width="200"/> | **Mihir** | [🌐 Live](https://mihir-portfolio-main-777.vercel.app/) · [📂 Repo](https://github.com/MIHIR2006/mihir-portfolio) | React, Framer, GSAP, EmailJS |
+| <img src="https://github.com/user-attachments/assets/71506a08-c688-4874-b356-dd669f94bafc" width="200"/> | **Aditya Bansal** | [🌐 Live](https://www.adityabansal.tech/) | Three.js, R3F, React, Framer Motion, GSAP |
+| <img src="https://github.com/user-attachments/assets/70a0398d-246b-46aa-86c4-41b02aed56f5" width="200"/> | **Nafis Mahmud Ayon** | [🌐 Live](https://nafisbd.com/) · [📂 Repo](https://github.com/NafisMahmudAyon/Portfolio-NafisBd.com-v2) | React Js, Framer Motion, NextJS, TailwindCSS |
+| <img src="https://github.com/user-attachments/assets/79981fa1-5b5b-4b5c-9a29-dfce53f2ea01" width="200"/> | **Ata Berkay Karakuş** | [🌐 Live](https://berkaykrks.netlify.app/) · [📂 Repo](https://github.com/berkaykrks/personal-website) | HTML, CSS, JS |
+| <img src="https://github.com/user-attachments/assets/37814bfc-a745-432d-8526-e1df45757a13" width="200"/> | **Salim Rutaganda** | [🌐 Live](https://www.rsalim.vercel.app/) · [📂 Repo](https://github.com/rutaganda-salim/devfolio) | React, Next.js, Tailwindcss, TypeScript |
+| <img src="https://github.com/user-attachments/assets/80927193-1f1d-433b-a109-504c86067297" width="200"/> | **Culture DevOps** | [🌐 Live](https://culturedevops.com/en) · [📂 Repo](https://github.com/CultureDevOps/blog) | Next.js, Tailwind CSS, i18n |
+| <img src="https://github.com/user-attachments/assets/610c6585-7f32-415e-8abe-e5066404363b" width="200"/> | **Hanif Yuli Abdillah** | [🌐 Live](https://hanifabdlh.vercel.app/) | Python, HTML, CSS, JS |
+| <img src="https://github.com/user-attachments/assets/e0171048-0f49-4886-af41-4ca1a99670af" width="200"/> | **Manish Tamang** | [🌐 Live](https://manishtamang.com/) | Next.js, TailwindCSS, React, Sanity |
+| <img src="https://github.com/user-attachments/assets/a2bc432a-7c5a-48d8-8f83-0796184f0dea" width="200"/> | **Aditya Punmiya** | [🌐 Live](https://adityapunmiya.com/) · [📂 Repo](https://github.com/Aditya-0011/portfolio-website) | Next.js, Tailwind CSS, TypeScript, MongoDB |
+| <img src="https://github.com/user-attachments/assets/4bb260ed-881b-482d-abee-4b33f2baef30" width="200"/> | **Divyansh Kathuria** | [🌐 Live](https://divyanshkathuria.netlify.app/) · [📂 Repo](https://github.com/DIVYANSHKATHURIA) | HTML, CSS, React, Three.js |
+| <img src="https://github.com/user-attachments/assets/1285ac0f-13a2-4b79-959f-7eff2cf294e1" width="200"/> | **Aditya Induraj** | [🌐 Live](https://adityainduraj.xyz) · [📂 Repo](https://github.com/adityainduraj) | Nextjs, Tailwind CSS, TypeScript |
+| <img src="https://github.com/user-attachments/assets/668c1dde-dd42-49c4-99c7-bce28136d153" width="200"/> | **Srijan Baniyal** | [🌐 Live](https://srijanbaniyal.com) | Next.js, Tailwindcss, Typescript, Framer Motion |
+| <img src="https://github.com/user-attachments/assets/228f65af-4d2f-4e27-a09f-0cffc9025d56" width="200"/> | **Mathis Zeghouani** | [🌐 Live](https://mathisdev.pro) · [📂 Repo](https://github.com/mathisdev7/my-portfolio) | Next.js, React, Tailwind CSS, TypeScript |
+| <img src="https://github.com/user-attachments/assets/79f9bccd-e784-4ae3-a557-3d304801b32b" width="200"/> | **Deepak Modi** | [🌐 Live](https://deepakmodi.tech/) · [📂 Repo](https://github.com/decodewithdeepak/Portfolio) | React, Tailwind CSS, TypeScript |
+| <img src="https://github.com/user-attachments/assets/f20ecf03-1cb0-43d9-a568-ae61a7b051e7" width="200"/> | **Madhurima Rawat** | [🌐 Live](https://madhurimarawat.github.io/Portfolio-Website/) · [📂 Repo](https://github.com/madhurimarawat/Portfolio-Website) | HTML, CSS, JS, Bootstrap |
+| <img src="https://github.com/user-attachments/assets/8d5fcb4e-c9d8-4ec3-98dd-ec5e3904448f" width="200"/> | **Abass Dev** | [🌐 Live](https://abassdev.com/) · [📂 Repo](https://github.com/abass-dev/abassdev.com) | NextJs, Tailwind CSS, TypeScript |
+| <img src="https://github.com/user-attachments/assets/73f5c775-ccde-492c-80ba-fce460614288" width="200"/> | **Kavan Bhavsar** | [🌐 Live](https://kavan-bhavsar.vercel.app) | Next.js, Tailwind, Framer Motion, Convex, Spline |
+| <img src="https://github.com/user-attachments/assets/628e1238-4682-4d3f-89b8-5fab71f38924" width="200"/> | **Vignesh Patali** | [🌐 Live](https://vigh.me/) | Next.js, React, Tailwind CSS, TypeScript, Threejs |
+| <img src="https://github.com/user-attachments/assets/8f1fc4f6-1970-4ec0-9d79-06595af4fb24" width="200"/> | **Rushikesh Nimkar** | [🌐 Live](https://rushikeshnimkar.xyz) · [📂 Repo](https://github.com/Rushikeshnimkar/portfolio2025.git) | Next.js, React, Tailwind CSS, LangChain |
+| <img src="https://github.com/user-attachments/assets/be823422-c228-4636-a4c1-1e4b4ddc942b" width="200"/> | **Tajmirul Islam** | [🌐 Live](https://www.me.toinfinite.dev/) | Next.js, GSAP, Tailwind CSS, TypeScript |
+| <img src="https://github.com/user-attachments/assets/b138c2c2-60ee-42d7-958e-047612e571b3" width="200"/> | **Aakash Rajbanshi** | [🌐 Live](https://aakashrajbanshi.com.np/) | HTML, CSS, JavaScript |
+| <img src="https://github.com/user-attachments/assets/26232156-4d4a-47c1-b298-3a67aa9a0935" width="200"/> | **Abdelkarim Ain** | [🌐 Live](https://www.abdelkarimain.me/) | Next.js, Sanity.io, TypeScript, Tailwindcss, Shadcn ui |
+| <img src="https://github.com/user-attachments/assets/11f751f8-6ef7-4944-b96d-837daabdeb39" width="200"/> | **Jawher Kallel** | [🌐 Live](https://jawherkl-github-io.vercel.app/) · [📂 Repo](https://github.com/JawherKl) | PHP, JavaScript, Go, Java, TypeScript |
+| <img src="https://github.com/user-attachments/assets/0c22400b-1a56-495c-aced-7344be169fa4" width="200"/> | **Enes Hacısağır** | [🌐 Live](https://www.enesehs.me/) · [📂 Repo](https://github.com/enesehs) | HTML, CSS, JavaScript, GSAP |
+| <img src="https://github.com/user-attachments/assets/11dbdaf0-15b2-4982-9f71-6dc0f0dfdc88" width="200"/> | **Binil B** | [🌐 Live](https://thegr8binil.me) · [📂 Repo](https://github.com/thegr8binil/) | Nextjs, Motion, Tailwind CSS, TypeScript, GSAP |
+| <img src="https://github.com/user-attachments/assets/db11705d-8e0b-4e82-be81-46b8e635f7f5" width="200"/> | **Roman Mendaliev** | [🌐 Live](https://roman.asd.lol) · [📂 Repo](https://github.com/reacheight/home) | HTML, CSS, JavaScript |
+| <img src="https://github.com/user-attachments/assets/31ad87d2-6e2d-4e27-8417-b363f0e7faa4" width="200"/> | **Aditya Gupta** | [🌐 Live](https://minimalist-portfolio-phi.vercel.app/) · [📂 Repo](https://github.com/impulseadi/minimalist_portfolio) | React.js, Tailwind CSS, Framer Motion |
+| <img src="https://github.com/user-attachments/assets/b484c205-1fb2-4ff0-8ed0-ee4b8fee3c20" width="200"/> | **Nat Anselm** | [🌐 Live](https://nanselm.com) | Astro, DaisyUI, TailwindCSS |
+| <img src="https://github.com/user-attachments/assets/158b9d38-999b-4f03-8ec5-eba0bd98d947" width="200"/> | **Uday G** | [🌐 Live](https://portfoliov3-puce.vercel.app/) · [📂 Repo](https://github.com/oxBinaryBrain/Portfoilo_v3) | TypeScript, CSS, Vite, Nextjs |
+| <img src="https://github.com/user-attachments/assets/3ebb9e75-f9ac-4c9a-9fc9-9c77b044c28c" width="200"/> | **Utkarsh Singhal** | [🌐 Live](https://utkarsh-singhal.is-a.dev/) · [📂 Repo](https://github.com/Utkarsh-Singhal-26/portfolio) | Next.js, TypeScript, TailwindCSS, ShadCN UI |
+| <img src="https://github.com/user-attachments/assets/c1a40a6e-5eed-456f-9574-feff544c7f94" width="200"/> | **Odhy Pradhana** | [🌐 Live](https://odhyp.com/) · [📂 Repo](https://github.com/odhyp/odhyp.com) | Hugo, TailwindCSS, JavaScript |
+| <img src="https://github.com/user-attachments/assets/5c34559a-fd24-47dd-b797-dc566dd5d98f" width="200"/> | **Utkarsh Tiwari** | [🌐 Live](https://utportfolio.vercel.app/) · [📂 Repo](https://github.com/utkxrsh13/portfolio) | ReactJS, Material UI, TailwindCSS |
+| <img src="https://github.com/user-attachments/assets/71b43215-c404-4520-9e9d-629d9b51d3c2" width="200"/> | **Marcos Moura** | [🌐 Live](https://marcos-moura97.github.io/) · [📂 Repo](https://github.com/marcos-moura97/marcos-moura97.github.io) | HTML, CSS, JavaScript, Threejs |
+| <img src="https://github.com/user-attachments/assets/be7c8785-4049-40ce-8b58-0d289a52bfc9" width="200"/> | **Nguyen Tran Gia Si** | [🌐 Live](https://nguyentrangiasi.id.vn/) · [📂 Repo](https://github.com/giasinguyen/GiaSi-Portfolio) | ReactJS, Tailwind CSS, Three.js, GSAP, Framer Motion |
+| <img src="https://github.com/user-attachments/assets/710cfd9f-d9b8-4136-9bdb-6669999de524" width="200"/> | **Trần Hữu Đạt** | [🌐 Live](https://tranhuudat2004.github.io/new-version.html) · [📂 Repo](https://github.com/TranHuuDat2004/TranHuuDat2004.github.io) | HTML, CSS, JavaScript, GitHub API |
+| <img src="https://github.com/user-attachments/assets/c9a80421-2671-4576-b3c7-f118ee5f5bbf" width="200"/> | **Shahrukh Anwar** | [🌐 Live](https://shahrukhanwar.vercel.app) · [📂 Repo](https://github.com/devshahrukhanwar/shahrukh-anwar) | Vue.js, TypeScript, Bulma CSS, Vite |
+| <img src="https://github.com/user-attachments/assets/b6a07fa9-be85-4468-be40-eb5e2d881a64" width="200"/> | **Praveen Kumar Purushothaman** | [🌐 Live](https://praveen.science/) · [📂 Repo](https://github.com/praveenscience/praveenscience) | Bootstrap 4.3, PHP, JavaScript |
+| <img src="https://github.com/user-attachments/assets/aa2d8064-3bb5-4ecb-9c47-0402ca9de939" width="200"/> | **Rifqi Banu Safingi** | [🌐 Live](https://rifqibanusafingi.vercel.app/) | Next.js, TypeScript, TailwindCSS, Supabase |
+| <img src="https://github.com/user-attachments/assets/44bf28a3-f9da-46c5-bd07-ca0996e9647f" width="200"/> | **Pintu Singh** | [🌐 Live](https://pintusingh28.dev/) | Next.js, TypeScript, TailwindCSS, Framer Motion |
+| <img src="https://github.com/user-attachments/assets/0400fce8-2a63-4f6e-ae7f-e7c6f1c60bd7" width="200"/> | **Akshay K Rooben Abraham** | [🌐 Live](https://akshayabraham.vercel.app) · [📂 Repo](https://github.com/akshay-abraham/Quantalink) | Next.js, TypeScript, TailwindCSS, Framer Motion |
+| <img src="https://github.com/user-attachments/assets/b5184b8c-ea2c-4cdf-8499-8b325ca429c9" width="200"/> | **Ali Imam (dalim.in)** | [🌐 Live](https://dalim.in) · [📂 Repo](https://github.com/designali-in/designali.in) | Next.js, Typescript, Authjs, Prisma, Cloudinary |
+| <img src="https://github.com/user-attachments/assets/8a4a6491-5f71-4e51-a49b-a4e0ed037769" width="200"/> | **William Cachawri** | [🌐 Live](https://minimal-blog-seven.vercel.app) | Next.js 15+, TailwindCSS, ShadCN UI, Three.js |
+| <img src="https://github.com/user-attachments/assets/942c6201-089f-4d04-88e6-075823ae7a34" width="200"/> | **Matteo Santoro** | [🌐 Live](https://matteosantoro.dev) | JavaScript, WebGL |
+| <img src="https://github.com/user-attachments/assets/01dce681-3132-44ef-912c-794b802d9104" width="200"/> | **Sara Cajner** | [🌐 Live](https://saracajner.com) | ReactJS, CSS, GSAP, Stripe |
+| <img src="https://github.com/user-attachments/assets/674eb357-1ce3-41f8-aac4-a560c116f9f6" width="200"/> | **Kartik Jain** | [🌐 Live](https://jkartik.in) · [📂 Repo](https://github.com/KartikJain14/jkartik.in) | HTML, CSS, JavaScript |
+| <img src="https://github.com/user-attachments/assets/0191ec6e-6f03-4074-89b3-274747cfe4ff" width="200"/> | **Aarav Gupta** | [🌐 Live](https://aarus2709.me) · [📂 Repo](https://github.com/Aarav2709/AarusPortfolio) | HTML, CSS, JavaScript, GSAP |
+| <img src="https://github.com/user-attachments/assets/89f0505f-a758-458f-9f61-4f986ee2b2bf" width="200"/> | **Dev Clinton** | [🌐 Live](https://devclinton.org/) | NextJS, ReactJS, TailwindCSS, Prismic, Framer Motion |
+| <img src="https://github.com/user-attachments/assets/c8b90830-3577-4ccf-aecd-08ba06ab18cf" width="200"/> | **Arshdeep Singh** | [🌐 Live](https://arshdeepsingh.me/) | NextJS, ReactJS, TailwindCSS |
+| <img src="https://github.com/user-attachments/assets/db94cd81-d368-43ca-84d2-36041c600082" width="200"/> | **Jesse Akoh** | [🌐 Live](https://jesseakoh.com) | Astro, TailwindCSS, Netlify |
+| <img src="https://github.com/user-attachments/assets/1d26eed7-861a-4d15-84d6-420ce9e1e46b" width="200"/> | **Emmanuel Ebeh** | [🌐 Live](https://emmanuelebeh.dev) | React, Tanstack Start, TailwindCSS, Framer Motion |
+| <img src="https://github.com/user-attachments/assets/41ca9fd4-6807-4f71-806d-3b597a9639d2" width="200"/> | **Naseem Khan** | [🌐 Live](https://naseemkhan.dev) · [📂 Repo](https://github.com/naseemkhandev) | Next.js, Supabase, Prisma, MDX, Tailwind CSS |
+| <img src="https://github.com/user-attachments/assets/220c9512-8241-4ee1-9823-c7bd907428d6" width="200"/> | **Malaka Venugopal Reddy** | [🌐 Live](https://malakavenu.com) | Next.js, React, TypeScript, MDX, Vercel |
+| <img src="https://github.com/user-attachments/assets/47319565-b4f8-462d-884f-9303981df3ac" width="200"/> | **Ayodele Ayoola** | [🌐 Live](https://ayodeleayoola.com) · [📂 Repo](https://github.com/CreedTech/ayodele-ayoola) | NextJs, TypeScript, GSAP, Tailwind CSS |
+| <img src="https://github.com/user-attachments/assets/edcb704b-103c-4f3b-89c0-1aa45b0c2079" width="200"/> | **Tanay Shah** | [🌐 Live](https://tanayshah.dev) · [📂 Repo](https://github.com/tanayshah11) | NextJS, TypeScript, Tailwind v4, Vercel |
+| <img src="https://raw.githubusercontent.com/ParishKhan/portfolio-ideas/add-parish-khan/assets/parish-cv.png" width="200"/> | **Parish Khan** | [🌐 Live](https://parish.cv) | React, TypeScript, Tailwind CSS, Vite |
 
 ---
 
 ## 🤝 Contributing
 
-We'd love to have your portfolio in this collection! Here's how:
+Want your portfolio in this collection? We'd love to have it!
 
 1. **Fork** this repository
-2. Add your entry to the table in `index.md` with the following columns:
-   - **Author** — your name
-   - **Screenshot** — a screenshot of your portfolio
-   - **Live URL** — link to your live portfolio
-   - **Repo** — link to your GitHub repo (if open source)
-   - **Tech Stack** — comma-separated list of technologies
+2. **Add your entry** to the table in `index.md` with these columns:
+   - Author name
+   - Screenshot (hosted image URL)
+   - Live URL
+   - Repo link (if open source)
+   - Tech stack
 3. Open a **Pull Request** with the title: `feat: add [your name]'s portfolio`
 
-> 💡 **Tips for a great submission:**
-> - Use a high-quality screenshot (ideally 1280×800px or higher)
-> - Make sure your live URL is accessible
-> - List your tech stack accurately
+**Tips for a great submission:**
+- Use a high-quality screenshot (1280×800px or higher works best)
+- Ensure your live URL is publicly accessible
+- List your tech stack accurately
 
 ---
 
@@ -777,12 +506,12 @@ We'd love to have your portfolio in this collection! Here's how:
 
 <br/>
 
-**⭐ Star this repo if it helped you find inspiration!**
+**⭐ Found this useful? Give it a star — it helps others discover it!**
 
 <br/>
 
-Made with ❤️ by the developer community · [Contribute](CONTRIBUTING.md) · [Report an Issue](https://github.com/Evavic44/portfolio-ideas/issues)
+Made with ❤️ by the developer community
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
